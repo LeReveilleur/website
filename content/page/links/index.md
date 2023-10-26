@@ -15,6 +15,7 @@ menu:
         params:
             icon: link
 
+slug: "liens"
 comments: false
 ---
 
