@@ -67,12 +67,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        # emoji: 🍥
+        subtitle: Il est l'heure de se réveiller sur les enjeux environnementaux
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/logo.jpg
 
     article:
         math: false
