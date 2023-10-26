@@ -1,13 +1,7 @@
 ---
-title: About
+title: Qui suis-je?
 description: Hugo, the world's fastest framework for building websites
 date: '2019-02-28'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
 menu:
     main: 
         weight: -90
@@ -15,20 +9,15 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+![Rodolphe Meyer](profile_picture.png)
 
-Hugo makes use of a variety of open source projects including:
+Je suis diplômé d’une école d’ingénieur (l’ESPCI). Mon cursus inclut une année d’Erasmus en Norvège (NTNU) où j’ai plus spécifiquement étudié l’environnement. Entrer en contact avec les connaissances scientifiques sur ce sujet m’a convaincu que nos sociétés font face à de gros problèmes environnementaux qui vont beaucoup jouer sur leur développement futur.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+C’est avec cette conviction que je me suis lancé dans un doctorat dans les sciences de l’environnement. A l’époque, c’était ma façon de contribuer à la lutte contre les problèmes environnementaux. Mon doctorat (Disponible ici avec un résumé) avait pour cadre l’analyse du cycle de vie, une méthode d’évaluation multicritère des impacts environnementaux d’un produit. Cette méthode touchant à beaucoup de problèmes environnementaux différents, ça m’a permis de me familiariser avec de nombreux sujets que je traite ici et sur ma chaîne. C’est aussi à ma formation scientifique que je dois mon approche analytique et ma préférence marquée pour des sources scientifiques de première main quand je traite un sujet.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Au cours de mon doctorat, je me suis vite rendu compte que les problèmes environnementaux avaient plus besoin de réponses économiques, politiques et culturelles que de connaissances scientifiques plus approfondies. On sait très bien ce qui cause le changement climatique ou la perte de biodiversité, le problème c’est qu’on n’y fait pas grand-chose ! Fort de ce constat, je me suis lancé dans une activité de vulgarisation (la chaîne YouTube Le Réveilleur), en parallèle de mon doctorat. Ce qui n’a pas toujours été de tout repos !
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Mon doctorat en poche, je suis toujours aussi convaincu de l’importance des enjeux environnementaux et d’une bonne vulgarisation à leur sujet. Mon activité de vulgarisation est aujourd’hui mon activité principale.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+J’espère que vous trouverez des informations intéressantes sur ce site et sur ma chaîne Youtube.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
