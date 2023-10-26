@@ -145,6 +145,7 @@
         font-weight: normal;
         margin: 0;
         font-size: 1.4rem;
+        line-height: 1.5em;
 
         @include respond(2xl) {
             font-size: 1.6rem;
