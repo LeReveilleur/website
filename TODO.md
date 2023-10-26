@@ -10,11 +10,9 @@
   * twitter
   * twitch
   * youtube
-* Set default language as french
 * deploy to netlify
 * staging: deploy to netlify on other branches
 * Write the readme
   * How to setup
   * How to add articles
 * Define sommaire for the website
-* Add avatar lereveilleur
