@@ -1,0 +1,9 @@
+videos:
+  - youtube_id: "C_UTlTiVQ_0"
+    title: "Comprendre le GIEC et ses rapports"
+    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)." 
+    date: "2021-08-08"
+    cover_path: "assets/img/covers/giec_rapports.jpg"
+    tags:
+      - "climate"
+      - "politics"
