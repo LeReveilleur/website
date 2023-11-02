@@ -6,6 +6,11 @@
    :requires ([lereveilleur.core :as c])
    :task (c/validate-yaml-data-videos!)}
 
+  download-youtube-thumbnails
+  {:doc "Downloads the youtube video thumbnails"
+   :requires ([lereveilleur.core :as c])
+   :task (c/download-youtube-thumbnails! {:force false})}
+
   clean-video-posts
   {:doc "Cleans the generated video posts"
    :requires ([lereveilleur.core :as c])
@@ -14,6 +19,7 @@
   generate-video-posts
   {:doc "Generates the video posts"
    :depends [clean-video-posts 
+             download-youtube-thumbnails
              validate-yaml-data-videos]
    :requires ([lereveilleur.core :as c])
    :task (c/generate-video-posts!)}}}

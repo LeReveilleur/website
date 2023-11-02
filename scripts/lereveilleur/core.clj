@@ -46,7 +46,7 @@
 (defn- make-video-post!
   "Creates the actual video post entry. It does the following: 
   - create a directory in content/post/ with the name of the video
-  - copy over the image assets
+  - copy over the video thumbnail or use default if not found
   - create the index.md file with the filled content
   "
   [{:keys [youtube_id] :as video}]
@@ -56,7 +56,9 @@
         asset-path "assets/img/video_thumbnail/"
         video-thumbnail-filename (str asset-path youtube_id ".jpg")
         thumbnail-default (str asset-path "default.jpg")
-        thumb (if (fs/exists? video-thumbnail-filename) video-thumbnail-filename thumbnail-default)]
+        thumb (if (fs/exists? video-thumbnail-filename) 
+                video-thumbnail-filename 
+                thumbnail-default)]
     (fs/create-dir path)
     (fs/copy thumb (str path "/cover.jpg"))
     (spit (str path "/index.md") content)))
@@ -89,13 +91,19 @@
     (:body (http/get url {:as :stream}))
     (io/file path)))
 
+(defn- youtube-thumbnail-path 
+  "Returns the path used to store the youtube thumbnail."
+  [{:keys [file-format youtube-id]}]
+  (str "assets/img/video_thumbnail/" youtube-id "." file-format))
+
 (defn- download-youtube-thumbnail! 
   "Downloads the best thumbnail for the given `youtube-id`."
   [youtube-id]
   (let [thumbnail-url (youtube-id->thumbnail-url youtube-id)
         file-format "jpg"
-        path (str "assets/img/video_thumbnail/" 
-                  youtube-id "." file-format)]
+        path (youtube-thumbnail-path {:file-format "jpg" :youtube-id youtube-id})]
+        ; path (str "assets/img/video_thumbnail/" 
+        ;           youtube-id "." file-format)]
     (download-asset! {:url thumbnail-url :path path})))
 
 (comment
@@ -112,6 +120,20 @@
 
 ;; Public API used in babashka tasks
 
+(defn download-youtube-thumbnails! 
+  "Downloads all video thumbnails. 
+  If `force` is set to true, then it will download and overwrite the local thumbnails."
+  [{:keys [force] :as _opt}]
+  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))]
+    (println "Downloading youtube video thumbnails")
+    (doseq [youtube_id (map :youtube_id videos)]
+      (let [path (youtube-thumbnail-path {:file-format "jpg" :youtube-id youtube_id})]
+        (if (fs/exists? path)
+          (println "youtube_id: " youtube_id " - skipping")
+          (do 
+            (println "youtube_id: " youtube_id " - downloading...")
+            (download-youtube-thumbnail! youtube_id)))))))
+
 ;; TODO
 (defn validate-yaml-data-videos!
   "Throws an exception if the yaml data is in the wrong shape."
@@ -122,8 +144,7 @@
 (defn generate-video-posts! 
   "Generates all the video posts based on the `videos-data-path"
   []
-  (let [videos-data-path "data/videos.yaml"
-        {:keys [videos]} (yaml/parse-string (slurp videos-data-path))]
+  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))]
     (doseq [video videos]
       (println (str "Generating post for: " (:title video)))
       (make-video-post! video))))
