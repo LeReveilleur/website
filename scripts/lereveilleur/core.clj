@@ -19,13 +19,24 @@
       (assoc :image "cover.jpg")
       (yaml/generate-string)))
 
+(defn- sanitize 
+  [str]
+  (-> str
+      (str/lower-case)
+      (str/replace #"[?!:.]" "")
+      (str/replace #"[áàâ]" "a")
+      (str/replace #"[éèê]" "e")
+      (str/replace #"[íìî]" "i")
+      (str/replace #"[óòô]" "o")
+      (str/replace #"[úùû]" "u")
+      (str/replace #"[ç]" "c")
+      (str/trim)
+      (str/replace #"\s+" "_")))
+
 (defn- article-folder-name 
   [{:keys [date title] :as _video}]
   (let [date-str (str/replace date #"-" "_")
-        title-str (-> title
-                      (str/trim)
-                      (str/lower-case)
-                      (str/replace #"\s+" "_"))]
+        title-str (sanitize title)]
     (str prefix-str
          date-str
          "_"
