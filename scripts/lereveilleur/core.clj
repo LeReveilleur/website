@@ -1,8 +1,8 @@
 (ns lereveilleur.core
   (:require 
-    [babashka.process :refer [shell]]
     [babashka.fs :as fs]
     [babashka.http-client :as http]
+    [babashka.process :refer [shell]]
     [clj-yaml.core :as yaml]
     [clojure.java.io :as io]
     [clojure.string :as str]))
