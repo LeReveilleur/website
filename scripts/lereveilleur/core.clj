@@ -87,10 +87,13 @@
       (println (str "Generating post for: " (:title video)))
       (make-video-post! video))))
 
-(defn- clean-video-posts! 
+(defn clean-video-posts! 
   "Cleans the generated video posts"
   []
   (println "Clearing generated video posts")
   ;; TODO: use the var that contains this path
   ; (shell "bash -c" (str "rm -rf content/post/" prefix-str "*")))
   (shell "bash -c" "rm -rf content/post/auto_generated__*"))
+
+(defn main []
+  (println "HELLO WORLD"))

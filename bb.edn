@@ -1,0 +1,23 @@
+{:paths ["scripts"]
+ :min-bb-version "1.3.0"
+ :tasks
+ {hello 
+  {:doc "hello world"
+   :requires ([lereveilleur.core :as c])
+   :task (c/main)}
+  
+  validate-yaml-data-videos
+  {:doc "Validates yaml data for the videos (data/videos.yaml)"
+   :requires ([lereveilleur.core :as c])
+   :task (c/validate-yaml-data-videos!)}
+
+  clean-video-posts
+  {:doc "Cleans the generated video posts"
+   :requires ([lereveilleur.core :as c])
+   :task (c/clean-video-posts!)}
+
+  generate-video-posts
+  {:doc "Generates the video posts"
+   :requires ([lereveilleur.core :as c])
+   :task (c/generate-video-posts!)}}}
+  
