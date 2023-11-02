@@ -49,14 +49,21 @@
   - copy over the image assets
   - create the index.md file with the filled content
   "
-  [video]
+  [{:keys [youtube_id] :as video}]
   (let [directory-name (article-folder-name video)
         path (str "content/post/" directory-name)
-        content (article-mardown video)]
+        content (article-mardown video)
+        asset-path "assets/img/video_thumbnail/"
+        video-thumbnail-filename (str asset-path youtube_id ".jpg")
+        thumbnail-default (str asset-path "default.jpg")
+        thumb (if (fs/exists? video-thumbnail-filename) video-thumbnail-filename thumbnail-default)]
     (fs/create-dir path)
-    (fs/copy "assets/img/covers/default.jpg" 
-             (str path "/cover.jpg"))
+    (fs/copy thumb (str path "/cover.jpg"))
     (spit (str path "/index.md") content)))
+
+(comment
+  (fs/exists? "assets/img/video_thumbnail/default.jpg")
+  (fs/exists? "assets/img/video_thumbnail/default2.jpg"))
 
 (comment
   
@@ -68,6 +75,40 @@
       (:body (http/get url {:as :stream}))
       (io/file path))
     (.length (io/file path))))
+
+(defn- youtube-id->thumbnail-url 
+  "Use `yt-dlp` to find the best thumbnail-url for the youtube video."
+  [youtube-id]
+  (let [{:keys [out]} (shell {:out :string} "yt-dlp" "--list-thumbnails" youtube-id)]
+    (re-find #"https://i.ytimg.com.*maxresdefault.jpg" out)))
+
+(defn- download-asset! 
+  "Downloads `url` and stores it at `path`."
+  [{:keys [url path]}]
+  (io/copy
+    (:body (http/get url {:as :stream}))
+    (io/file path)))
+
+(defn- download-youtube-thumbnail! 
+  "Downloads the best thumbnail for the given `youtube-id`."
+  [youtube-id]
+  (let [thumbnail-url (youtube-id->thumbnail-url youtube-id)
+        file-format "jpg"
+        path (str "assets/img/video_thumbnail/" 
+                  youtube-id "." file-format)]
+    (download-asset! {:url thumbnail-url :path path})))
+
+(comment
+  (youtube-id->thumbnail-url "rXlEcth5Gxc")
+  (download-youtube-thumbnail! "rXlEcth5Gxc")
+  (download-youtube-thumbnail! "C_UTlTiVQ_0")
+  (download-asset! {:url url :path "assets/img/covers/rXlEcth5Gxc.jpg"})
+  (let [youtube-id "rXlEcth5Gxc"
+        {:keys [out]} (shell {:out :string} "yt-dlp" "--list-thumbnails" youtube-id)
+        url (re-find #"https://i.ytimg.com.*maxresdefault.jpg" out)]
+    (def url url)
+    (def out out))
+  (re-find #"https://i.ytimg.com.*maxresdefault.jpg" out))
 
 ;; Public API used in babashka tasks
 

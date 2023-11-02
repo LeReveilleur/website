@@ -9,6 +9,7 @@ Hugo website for Le Réveilleur.
 Install the following packages:
 - [hugo](https://gohugo.io/)
 - [babashka](https://github.com/babashka/babashka)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp#thumbnail-options)
 
 ### Tasks
 
