@@ -26,6 +26,7 @@
   [str]
   (-> str
       (str/lower-case)
+      (str/replace #"['\"]" "_")
       (str/replace #"[?!:.]" "")
       (str/replace #"[áàâ]" "a")
       (str/replace #"[éèê]" "e")
