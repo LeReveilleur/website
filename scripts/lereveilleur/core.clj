@@ -16,6 +16,9 @@
   (-> video
       (select-keys [:title :date :description :youtube_id :tags])
       (assoc :article_type "youtube_video")
+      (assoc :image-header "header.jpg")
+      (assoc :video-thumbnail "cover.jpg")
+      ;; TODO: deprecate image?
       (assoc :image "cover.jpg")
       (yaml/generate-string)))
 
@@ -72,6 +75,7 @@
                 thumbnail-default)]
     (fs/create-dir path)
     (fs/copy thumb (str path "/cover.jpg"))
+    (fs/copy thumbnail-default (str path "/header.jpg"))
     (spit (str path "/index.md") content)))
 
 (comment

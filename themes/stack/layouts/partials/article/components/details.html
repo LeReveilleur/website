@@ -24,9 +24,10 @@
     </div>
 
     {{ $showReadingTime := .Params.readingTime | default (.Site.Params.article.readingTime) }}
+    {{ $isYoutubeVideo := (eq .Params.article_type "youtube_video")}}
     {{ $showDate := not .Date.IsZero }}
     {{ $showFooter := or $showDate $showReadingTime }}
-    {{ if $showFooter }}
+    {{ if and $showFooter (not $isYoutubeVideo) }}
     <footer class="article-time">
         {{ if $showDate }}
             <div>
