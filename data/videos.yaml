@@ -7,3 +7,31 @@ videos:
     tags:
       - "climate"
       - "politics"
+
+  - youtube_id: "N2fgaITIwZ0"
+    title: "Taxe carbone : nécessaire ?"
+    description: "Ici, on voit ce qu’est une tarification du carbone, quelles sont les émissions ciblées et quels sont ses avantages et ses insuffisances. Je me concentre sur les propriétés d'une tarification du carbone qui s'appliquerait au niveau mondial."
+    date: "2023-06-06"
+    cover_path: "assets/img/covers/giec_rapports.jpg"
+    tags:
+      - "climate"
+      - "politics"
+
+  - youtube_id: "hNMRSUFuHPg"
+    title: "Voiture à hydrogène: l'impasse ?"
+    description: "Je vous parle de la voiture à hydrogène et de ses limites."
+    date: "2023-05-15"
+    cover_path: "assets/img/covers/giec_rapports.jpg"
+    tags:
+      - "transport"
+      - "energy"
+      - "hydrogen"
+
+  - youtube_id: "rXlEcth5Gxc"
+    title: "Les subtilités de l'effet de serre"
+    description: "Dans cette vidéo, je fais le bilan énergétique de la Terre pour comprendre son climat. Ce qui m'amène à expliquer le phénomène physique de l'effet de serre qui joue un rôle indiscutable dans la température à la surface de notre belle planète."
+    date: "2022-12-08"
+    cover_path: "assets/img/covers/giec_rapports.jpg"
+    tags:
+      - "science"
+      - "climate"
