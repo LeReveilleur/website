@@ -57,3 +57,12 @@ videos:
       - "science"
       - "life"
       - "water"
+
+  - youtube_id: "iiKuUElvGhM"
+    title: "Que se passerait-il si on arrêtait nos émissions de CO2 ?"
+    description: "Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ? Et si on prend en compte l'inertie de nos sociétés ? Y a-t-il des conséquences de nos émissions avec de longues inerties ?"
+    date: "2022-03-14"
+    tags:
+      - "science"
+      - "carbon"
+      - "climate"
