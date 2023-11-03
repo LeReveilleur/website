@@ -129,3 +129,12 @@ videos:
       - "energy"
       - "hydrogen"
       - "industry"
+
+  - youtube_id: "yuopYkpmvCo"
+    title: "La Convention Citoyenne pour le Climat, utile ?"
+    description: "Dans cette vidéo, je me sers de la proposition de passer la vitesse de 130 km/h à 110 km/h pour mettre en évidence la complexité à apprécier ce type de proposition et l'intérêt des conventions citoyennes pour aborder des problèmes politiquement complexes."
+    date: "2020-12-18"
+    tags:
+      - "politics"
+      - "society"
+      - "climate"
