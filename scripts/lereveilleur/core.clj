@@ -9,6 +9,38 @@
 
 (def videos-data-path "data/videos.yaml")
 (def prefix-str "auto_generated__")
+(def video-source-folder "scripts/data/video/source/")
+
+;; -------------------------------
+;; Utils to work with bibliography
+;; -------------------------------
+
+(defn- source-path->youtube-id 
+  "Given a `source-path`, returns the `youtube-id` string."
+  [path]
+  (let [regex (re-pattern (str video-source-folder "(.*).md"))]
+    (->> path
+         (str)
+         (re-find regex)
+         (second)))) 
+
+(defn- source-path->markdown!
+  "Given a `source-path` returns a `markdown` content."
+  [path]
+  (slurp (str path)))
+
+(defn- make-youtube-id->markdown! 
+  "Returns a youtube-id to markdown content mapping."
+  []
+  (let [source-paths (fs/list-dir video-source-folder)]
+    (->> source-paths
+         (mapv (fn [source-path] [(source-path->youtube-id source-path)
+                                  (source-path->markdown! source-path)]))
+         (into {}))))
+
+;; --------------------------------------
+;; End of Utils to work with bibliography
+;; --------------------------------------
 
 (defn- frontmatter-yaml-str
   "Returns the frontmatter in yaml string format given a video entry."
@@ -156,6 +188,13 @@
   []
   (println "Validating yaml data: data/videos.yaml")
   true)
+
+;; TODO: 
+(defn validate-video-sources-markdown!
+  "Throws an exception if the markdown in scripts/data/video/source is not a properly formed markdown."
+  []
+  (println "Validating yaml data: scripts/data/video/source/ folder")
+  true)
   
 (defn generate-video-posts! 
   "Generates all the video posts based on the `videos-data-path"
@@ -172,3 +211,19 @@
   ;; TODO: use the var that contains this path
   ; (shell "bash -c" (str "rm -rf content/post/" prefix-str "*")))
   (shell "bash -c" "rm -rf content/post/auto_generated__*"))
+
+(comment
+  (re-pattern (str video-source-folder "(.*).md")))
+
+
+(comment
+  (fs/list-dir "scripts/data/video/source/")
+  (source-path->youtube-id (first (fs/list-dir "scripts/data/video/source/")))
+  (source-path->markdown! (first (fs/list-dir "scripts/data/video/source/")))
+  (def youtube-id->markdown (make-youtube-id->markdown!))
+  youtube-id->markdown 
+  (->> (fs/list-dir "scripts/data/video/source/")
+       first
+       str
+       (re-find #"scripts/data/video/source/(.*).md"))
+  (println "test"))
