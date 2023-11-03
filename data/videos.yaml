@@ -66,3 +66,12 @@ videos:
       - "science"
       - "carbon"
       - "climate"
+ 
+  - youtube_id: "xbdUlfYCRwc"
+    title: "Éolien en mer"
+    description: "Cette vidéo est financée par le débat public \"Éoliennes en mer Nouvelle-Aquitaine\""
+    date: "2022-01-14"
+    tags:
+      - "science"
+      - "energy"
+      - "windmill"
