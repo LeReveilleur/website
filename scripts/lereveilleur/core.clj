@@ -31,7 +31,7 @@
 
 (defn- make-youtube-id->markdown! 
   "Returns a youtube-id to markdown content mapping."
-  []
+  [video-source-folder]
   (let [source-paths (fs/list-dir video-source-folder)]
     (->> source-paths
          (mapv (fn [source-path] [(source-path->youtube-id source-path)
@@ -96,8 +96,9 @@
   - copy over the video thumbnail or use default if not found
   - create the index.md file with the filled content
   "
-  [{:keys [youtube_id] :as video}]
-  (let [directory-name (article-folder-name video)
+  [{:keys [video youtube-id->markdown] :as _opt}]
+  (let [{:keys [youtube_id]} video
+        directory-name (article-folder-name video)
         path (str "content/post/" directory-name)
         content (article-mardown video)
         asset-path "assets/img/video_thumbnail/"
@@ -199,10 +200,11 @@
 (defn generate-video-posts! 
   "Generates all the video posts based on the `videos-data-path"
   []
-  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))]
+  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
+        youtube-id->markdown (make-youtube-id->markdown! video-source-folder)]
     (doseq [video videos]
       (println (str "Generating post for: " (:title video)))
-      (make-video-post! video))))
+      (make-video-post! {:video video}))))
 
 (defn clean-video-posts! 
   "Cleans the generated video posts"
@@ -220,7 +222,7 @@
   (fs/list-dir "scripts/data/video/source/")
   (source-path->youtube-id (first (fs/list-dir "scripts/data/video/source/")))
   (source-path->markdown! (first (fs/list-dir "scripts/data/video/source/")))
-  (def youtube-id->markdown (make-youtube-id->markdown!))
+  (def youtube-id->markdown (make-youtube-id->markdown! video-source-folder))
   youtube-id->markdown 
   (->> (fs/list-dir "scripts/data/video/source/")
        first
