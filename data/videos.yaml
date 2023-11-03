@@ -138,3 +138,11 @@ videos:
       - "politics"
       - "society"
       - "climate"
+
+  - youtube_id: "goceQuwWwKA"
+    title: "Les dessous de l'électricité verte"
+    description: "Dans cette vidéo je vous parle des offres d'électricité \"verte\", ou plutôt, des offres d'électricité 100% renouvelable. Vous comprendrez comment fonctionne ces offres et, du coup, quels sont leurs implications, leurs avantages et leurs limites."
+    date: "2020-11-03"
+    tags:
+      - "energy"
+      - "electricity"
