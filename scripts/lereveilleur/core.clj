@@ -80,7 +80,7 @@
 
 (defn- video-source-content 
   [source-markdown]
-  (str "# Sources\n" source-markdown))
+  (str source-markdown))
 
 (defn- article-mardown 
   "Returns a markdown string for the video. It includes the sources if it 

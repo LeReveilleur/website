@@ -12,8 +12,11 @@ image: cover.jpg
 
 {{< youtube HgfcZeGP7BA >}}
 
-# Sources
+# Sources bibliographiques
+
 [La vidéo d’Osons Causer sur Jean-Baptiste Fressoz](https://youtu.be/ZB20mjWYQKM) relève d’une logique similaire et devrait vous plaire.
+
+{{< youtube ZB20mjWYQKM >}}
 
 ## Articles principaux utilisés
 
