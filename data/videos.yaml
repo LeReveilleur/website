@@ -161,3 +161,42 @@ videos:
     tags:
       - "science"
       - "climate"
+
+  - youtube_id: "Bcg9yDp4Azs"
+    title: "Fermeture de Fessenheim, une victoire pour l'écologie ?"
+    description: "Dans cette vidéo, je vous parle de la fermeture de la centrale nucléaire de Fessenheim."
+    date: "2020-08-08"
+    tags:
+      - "industry"
+      - "politics"
+      - "nuclear"
+
+  - youtube_id: "kqBCN-w-lGU"
+    title: "[Résumé] Qu'advient-il de nos émissions de CO2 ?"
+    description: "Dans cette vidéo, je présente le devenir de nos émissions de CO2. On voit qu'une fraction d'un surplus de CO2 atmosphérique est rapidement sorti de l'atmosphère alors qu'une autre fraction va y rester pour un temps long (plus de 10 000 ans). Ce sont les océans qui jouent un rôle de premier plan dans la réduction à long terme du cycle de la concentration en CO2 atmosphérique."
+    date: "2020-06-17"
+    tags:
+      - "carbon"
+      - "science"
+
+  - youtube_id: "NcEI76hJVR0"
+    title: "Cycle du carbone océanique et devenir de nos émissions"
+    description: | 
+      Dans cette vidéo, je décris la partie océanique du cycle du carbone pour comprendre combien de temps nos émissions de CO2 vont rester dans l'atmosphère.
+
+      On voit d'abord la structure des océans et la circulation océanique avant de s'intéresser à la vie dans les océans. Pour compléter notre cycle du carbone océanique, il faut s'intéresser au calcaire produit par les organismes marins. Du carbone organique et du calcaire peuvent, à terme, former des roches sédimentaires ce qui fait entrer du carbone dans une longue boucle de plusieurs centaines de milliers d'années. Les mécanismes décrits permettent de parler du devenir de nos émissions de CO2.
+    date: "2020-06-17"
+    tags:
+      - "carbon"
+      - "ocean"
+      - "science"
+
+  - youtube_id: "vHCQk2_8pew"
+    title: "Le cycle du carbone"
+    description: | 
+      Dans cette vidéo, je vous présente le cycle du carbone. Je commence par parler du carbone dans le corps humain avant de voir le carbone stocké par les organismes vivants. La variation saisonnière de la concentration en CO2 atmosphérique permet de montrer que le carbone dans la végétation et celui de l'atmosphère se comporte comme de l'eau dans des vases communicants, c'est la même chose pour le carbone en surface des océans et celui de l'atmosphère. 
+      Avec tout ce qu'on sait, on peut regarder un peu ce qu'il s'est passé pendant les derniers millénaires. Je présente ensuite les modifications récentes (depuis 1850) du cycle du carbone: combustion de ressources fossiles, changement d'affectation des sols, flux de carbone continentaux, flux de carbone océaniques avant de quantifier tous ces flux et d'aborder la question des stocks de carbone sur Terre.
+    date: "2020-05-12"
+    tags:
+      - "carbon"
+      - "science"
