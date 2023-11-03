@@ -58,7 +58,6 @@
        (str "date: \"" (current-date) "\"\n")
        "slug: \"remerciements\"\n"
        frontmatter-delimiter "\n"))
-       
          
 (defn- donors-markdown-content 
   [donors]
@@ -82,22 +81,6 @@
 (comment 
   (donors-markdown-content donors))
 
-(defn generate-donors-page! []
-  (let [donors (->> donors-filename 
-                    (slurp) 
-                    (str/split-lines)
-                    (remove empty?)
-                    sort
-                    (into []))
-        frontmatter (donors-frontmatter donors)
-        markdown-content (donors-markdown-content donors)
-        content (str frontmatter 
-                     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
-                     markdown-content)]
-    (spit donors-content-index-page content)))
-
-(comment
-  (generate-donors-page!))
 
 (comment
   (let [sorted-donors (->> donors
@@ -352,6 +335,26 @@
 
 (comment
   (re-pattern (str video-source-folder "(.*).md")))
+
+(defn generate-donors-page! 
+  "Generates the donors page that contains all the donators listed with their nicknames."
+  []
+  (println "Generating the donors page based on the file:" donors-filename)
+  (let [donors (->> donors-filename 
+                    (slurp) 
+                    (str/split-lines)
+                    (remove empty?)
+                    sort
+                    (into []))
+        frontmatter (donors-frontmatter donors)
+        markdown-content (donors-markdown-content donors)
+        content (str frontmatter 
+                     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
+                     markdown-content)]
+    (spit donors-content-index-page content)))
+
+(comment
+  (generate-donors-page!))
 
 
 (comment

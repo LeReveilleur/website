@@ -22,5 +22,10 @@
              download-youtube-thumbnails
              validate-yaml-data-videos]
    :requires ([lereveilleur.core :as c])
-   :task (c/generate-video-posts!)}}}
+   :task (c/generate-video-posts!)}
+
+  generate-donors-page
+  {:doc "Generates the donors page"
+   :requires ([lereveilleur.core :as c])
+   :task (c/generate-donors-page!)}}}
   
