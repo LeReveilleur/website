@@ -172,6 +172,3 @@
   ;; TODO: use the var that contains this path
   ; (shell "bash -c" (str "rm -rf content/post/" prefix-str "*")))
   (shell "bash -c" "rm -rf content/post/auto_generated__*"))
-
-(defn main []
-  (println "HELLO WORLD"))
