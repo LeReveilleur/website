@@ -178,6 +178,7 @@ videos:
     tags:
       - "carbon"
       - "science"
+      - "summary"
 
   - youtube_id: "NcEI76hJVR0"
     title: "Cycle du carbone océanique et devenir de nos émissions"
@@ -200,3 +201,13 @@ videos:
     tags:
       - "carbon"
       - "science"
+
+  - youtube_id: "t-gqGlIcIYA"
+    title: "[Résumé][Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra"
+    description: |
+      Cette vidéo est un résumé de la précédente où je réponds à un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo 
+    date: "2020-03-23"
+    tags:
+      - "nuclear"
+      - "analysis"
+      - "summary"
