@@ -3,7 +3,6 @@ videos:
     title: "Taux de retour énergétique : J.M. Jancovici dans l'erreur ?"
     description: "Le taux de retour énergétique est le ratio entre l’énergie délivrée par un système énergétique et l’énergie investie dans ce système. J'essaye de comprendre quelles sont les implications de ce concept pour la transition énergétique et j'analyse certains discours qui s'en servent." 
     date: "2023-10-08"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "energy"
       - "science"
@@ -12,7 +11,6 @@ videos:
     title: "Comprendre le GIEC et ses rapports"
     description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)." 
     date: "2021-08-08"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "climate"
       - "politics"
@@ -21,7 +19,6 @@ videos:
     title: "Taxe carbone : nécessaire ?"
     description: "Ici, on voit ce qu’est une tarification du carbone, quelles sont les émissions ciblées et quels sont ses avantages et ses insuffisances. Je me concentre sur les propriétés d'une tarification du carbone qui s'appliquerait au niveau mondial."
     date: "2023-06-06"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "climate"
       - "politics"
@@ -30,7 +27,6 @@ videos:
     title: "Voiture à hydrogène: l'impasse ?"
     description: "Je vous parle de la voiture à hydrogène et de ses limites."
     date: "2023-05-15"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "transport"
       - "energy"
@@ -40,7 +36,6 @@ videos:
     title: "Les subtilités de l'effet de serre"
     description: "Dans cette vidéo, je fais le bilan énergétique de la Terre pour comprendre son climat. Ce qui m'amène à expliquer le phénomène physique de l'effet de serre qui joue un rôle indiscutable dans la température à la surface de notre belle planète."
     date: "2022-12-08"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "science"
       - "climate"
@@ -49,7 +44,6 @@ videos:
     title: "Réchauffement climatique: le rôle de la vapeur d'eau"
     description: "Je fais le point sur le rôle de la vapeur d'eau dans le changement climatique. Qu'est-ce qui fixe le contenu en vapeur d'eau dans l'atmosphère ? La vapeur d'eau peut-elle causer un changement climatique ? Peut-elle agir sur les changements climatiques sans être une cause ? Son rôle est-il étudié par les climatologues ? Est-ce que les émissions de vapeur d'eau par les sociétés humaines ont une influence sur le climat ?"
     date: "2022-08-17"
-    cover_path: "assets/img/covers/giec_rapports.jpg"
     tags:
       - "science"
       - "climate"
