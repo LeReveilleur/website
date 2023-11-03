@@ -140,9 +140,16 @@ videos:
       - "climate"
 
   - youtube_id: "goceQuwWwKA"
-    title: "Les dessous de l'électricité verte"
-    description: "Dans cette vidéo je vous parle des offres d'électricité \"verte\", ou plutôt, des offres d'électricité 100% renouvelable. Vous comprendrez comment fonctionne ces offres et, du coup, quels sont leurs implications, leurs avantages et leurs limites."
+    title: "les dessous de l'électricité verte"
+    description: "dans cette vidéo je vous parle des offres d'électricité \"verte\", ou plutôt, des offres d'électricité 100% renouvelable. vous comprendrez comment fonctionne ces offres et, du coup, quels sont leurs implications, leurs avantages et leurs limites."
     date: "2020-11-03"
     tags:
       - "energy"
       - "electricity"
+
+  - youtube_id: "AQlqQEhVi1M"
+    title: "La Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
+    description: "Dans cette vidéo, je vous parle de la Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
+    date: "2020-09-23"
+    tags:
+      - "carbon"
