@@ -75,3 +75,20 @@ videos:
       - "science"
       - "energy"
       - "windmill"
+
+  - youtube_id: "XbrcUz0pu80"
+    title: "Quelle électricité pour demain ?"
+    description: "Dans cette vidéo, je vous parle de l'évolution du système électrique français en me servant du récent rapport de RTE: Futurs Énergétiques 2050."
+    date: "2021-12-21"
+    tags:
+      - "energy"
+      - "electricity"
+
+  - youtube_id: "OAyYSlMhgI4"
+    title: "Les terres rares"
+    description: "Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi elles servent et quels sont les problèmes qu'elles soulèvent."
+    date: "2021-10-12"
+    tags:
+      - "energy"
+      - "resource"
+      - "metals"
