@@ -4,6 +4,7 @@ description: ""
 date: "2023-11-03"
 slug: "remerciements"
 ---
+Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :
 ## A à D [838]
 - A
 - A.b-s
@@ -3309,7 +3310,7 @@ slug: "remerciements"
 - zick zack
 - zimmer
 
-## Others [14]
+## Autres [14]
 - .Kyrillos_L.on.Spotify
 - 0ziblam
 - 123boiscerise

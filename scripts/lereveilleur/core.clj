@@ -18,6 +18,11 @@
 ;; Utils to work with donors
 ;; -------------------------
 
+(defn- current-date []
+  (.format 
+    (java.text.SimpleDateFormat. "yyyy-MM-dd") 
+    (java.util.Date.)))
+
 (comment
   (def donors 
     (str/split-lines (slurp donors-filename))))
@@ -50,8 +55,7 @@
   (str frontmatter-delimiter "\n"
        "title: \"Remerciements\"\n"
        "description: \"\"\n"
-       ;; TODO use today's date
-       "date: \"2023-11-03\"\n"
+       (str "date: \"" (current-date) "\"\n")
        "slug: \"remerciements\"\n"
        frontmatter-delimiter "\n"))
        
@@ -87,7 +91,9 @@
                     (into []))
         frontmatter (donors-frontmatter donors)
         markdown-content (donors-markdown-content donors)
-        content (str frontmatter markdown-content)]
+        content (str frontmatter 
+                     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
+                     markdown-content)]
     (spit donors-content-index-page content)))
 
 (comment
