@@ -211,3 +211,12 @@ videos:
       - "nuclear"
       - "analysis"
       - "summary"
+
+  - youtube_id: "k3mUS3JM4aM"
+    title: "[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra"
+    description: |
+      Dans cette vidéo, j'analyse longuement un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo.
+    date: "2020-03-23"
+    tags:
+      - "nuclear"
+      - "analysis"
