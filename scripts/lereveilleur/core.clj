@@ -78,17 +78,24 @@
          "_"
          title-str)))
 
+(defn- video-source-content 
+  [source-markdown]
+  (str "# Sources\n" source-markdown))
+
 (defn- article-mardown 
-  "Returns a markdown string for the video"
-  [video]
+  "Returns a markdown string for the video. It includes the sources if it 
+  exists."
+  [{:keys [video source-markdown]}]
   (let [{:keys [youtube_id]} video
-        frontmatter-delimiter "---"]
-    (str frontmatter-delimiter 
-         "\n"
-         (frontmatter-yaml-str video)
-         frontmatter-delimiter
-         "\n\n"
-         "{{< youtube " youtube_id " >}}")))
+        frontmatter-delimiter "---"
+        video-content (str "{{< youtube " youtube_id " >}}")
+        frontmatter-content (str frontmatter-delimiter "\n"
+                                 (frontmatter-yaml-str video)
+                                 frontmatter-delimiter)]
+    (cond-> frontmatter-content
+      :always (str "\n\n")
+      :always (str video-content)
+      source-markdown (str "\n\n" (video-source-content source-markdown)))))
 
 (defn- make-video-post!
   "Creates the actual video post entry. It does the following: 
@@ -96,11 +103,11 @@
   - copy over the video thumbnail or use default if not found
   - create the index.md file with the filled content
   "
-  [{:keys [video youtube-id->markdown] :as _opt}]
+  [{:keys [video source-markdown] :as _opt}]
   (let [{:keys [youtube_id]} video
         directory-name (article-folder-name video)
         path (str "content/post/" directory-name)
-        content (article-mardown video)
+        content (article-mardown {:video video :source-markdown source-markdown})
         asset-path "assets/img/video_thumbnail/"
         video-thumbnail-filename (str asset-path youtube_id ".jpg")
         thumbnail-default (str asset-path "default.jpg")
@@ -202,9 +209,14 @@
   []
   (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
         youtube-id->markdown (make-youtube-id->markdown! video-source-folder)]
-    (doseq [video videos]
-      (println (str "Generating post for: " (:title video)))
-      (make-video-post! {:video video}))))
+    (doseq [{:keys [youtube_id title] :as video} videos]
+      (println (str "Generating post for: " title))
+      (make-video-post! {:video video 
+                         :source-markdown (get youtube-id->markdown youtube_id)}))))
+
+(comment
+  (get {:a 1} :a)
+  (get {:a 1} :b))
 
 (defn clean-video-posts! 
   "Cleans the generated video posts"
