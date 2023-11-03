@@ -119,3 +119,13 @@ videos:
       - "energy"
       - "hydrogen"
       - "industry"
+
+
+  - youtube_id: "_sqYx8K_m9c"
+    title: "Hydrogène : comment le produire ?"
+    description: "Dans cette première vidéo sur l'hydrogène, je m'intéresse à sa production. Après un rapide détour par l'hydrogène naturel, je détaille la production à partir de ressources fossiles très majoritaire aujourd'hui. Je parle ensuite de l'électrolyse (on reviendra dessus dans la prochaine vidéo sur l'hydrogène). Puis, j'expose le sujet de la capture et séquestration de carbone qui est très présent dans les documents scientifiques traitant de l'hydrogène. Enfin, je me penche sur des modes de production moins matures mais avec du potentiel (craquage du méthane, cycles thermochimiques... etc)."
+    date: "2020-12-29"
+    tags:
+      - "energy"
+      - "hydrogen"
+      - "industry"
