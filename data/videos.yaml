@@ -101,3 +101,21 @@ videos:
       - "transport"
       - "car"
       - "electricity"
+
+  - youtube_id: "xVroWRO0duI"
+    title: "Voiture électrique : un problème de batterie ?"
+    description: "Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique."
+    date: "2021-06-07"
+    tags:
+      - "transport"
+      - "car"
+      - "electricity"
+
+  - youtube_id: "NB9We5wwGPo"
+    title: "Hydrogène : un enjeu industriel !"
+    description: "Dans cette seconde vidéo sur l'hydrogène, je m'intéresse aux grands usages industriels de l'hydrogène. Aujourd'hui, la majorité de l'hydrogène produit dans le monde l'est à partir de ressources fossiles et sert au raffinage et à la production d'ammoniac, de méthanol et d'acier. Réussir à réduire les émissions de cette production existante d'hydrogène est un enjeu industriel important pour la transition énergétique. De l'hydrogène produit avec peu d'émissions pourrait également réduire considérablement les émissions de la production d'acier qui repose, encore aujourd'hui, principalement sur le charbon."
+    date: "2021-02-18"
+    tags:
+      - "energy"
+      - "hydrogen"
+      - "industry"
