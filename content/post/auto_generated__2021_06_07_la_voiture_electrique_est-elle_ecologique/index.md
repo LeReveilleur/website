@@ -1,13 +1,16 @@
 ---
-description: Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique.
-article_type: youtube_video
-tags: [transport, car, electricity]
+title: La voiture électrique est-elle écologique ?
 date: '2021-06-07'
 youtube_id: zjaUqUozwdc
-video-thumbnail: cover.jpg
-title: La voiture électrique est-elle écologique ?
+tags: [transport, car, electricity]
+article_type: youtube_video
 image-header: header.jpg
+video-thumbnail: cover.jpg
 image: cover.jpg
 ---
 
+## Vidéo
+
 {{< youtube zjaUqUozwdc >}}
+
+Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique.

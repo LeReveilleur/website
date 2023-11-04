@@ -184,17 +184,20 @@
 
 (defn- video-source-content
   [source-markdown]
-  (str source-markdown))
+  (str "<hr>\n\n" source-markdown))
 
 (defn- article-mardown
   "Returns a markdown string for the video. It includes the sources if it 
   exists."
   [{:keys [video source-markdown]}]
-  (let [{:keys [youtube_id]} video
+  (let [{:keys [youtube_id description]} video
         frontmatter-delimiter "---"
-        video-content (str "{{< youtube " youtube_id " >}}")
+        video-content (str "## Vidéo\n\n"
+                           "{{< youtube " youtube_id " >}}"
+                           "\n\n"
+                           description)
         frontmatter-content (str frontmatter-delimiter "\n"
-                                 (frontmatter-yaml-str video)
+                                 (frontmatter-yaml-str (dissoc video :description))
                                  frontmatter-delimiter)]
     (cond-> frontmatter-content
       :always (str "\n\n")

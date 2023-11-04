@@ -1,5 +1,6 @@
 # TODO
 
+* add a favicon
 * add a hr before sources bibliographiques
 * add graphs and plots directly in some sources bibliographiques
 * deploy to netlify
