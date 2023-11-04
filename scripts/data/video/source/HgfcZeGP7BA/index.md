@@ -13,7 +13,8 @@
 - Le rapport de RTE [Futurs Énergétiques 2050](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques) (février 2022)
 - [Le troisième groupe de travail du sixième rapport du GIEC](https://www.ipcc.ch/report/ar6/wg3/) mentionne peu le taux de retour énergétique. Pour la partie sur le potentiel des renouvelables, je m’appuie sur la figure 7 et le point C12 du résumé à l’intention des décideurs :
 
-> Mitigation options costing USD100 tCO2-eq–1 or less could reduce global GHG emissions by at least half the 2019 level by 2030 (high confidence).
+> Mitigation options costing USD100 tCO2-eq–1 or less could reduce global GHG emissions by at least half the 2019 level by 2030 (high confidence).<br>
+> — <cite>GIEC: Résumé à l'intention des décideur</cite>
 
 #### Articles de vulgarisation
 
@@ -62,7 +63,8 @@ Controverse où un papier de mauvaise qualité (pourtant beaucoup utilisé !) se
 - Weißbach, D., Ruprecht, G., Huke, A., Czerski, K., Gottlieb, S., & Hussein, A. (2013). [Reply on “Comments on ‘Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants’ – Making clear of quite some confusion”](https://www.sciencedirect.com/science/article/abs/pii/S0360544214001601). _Energy_, 68, 1004-1006.
 - Raugei, M., Carbajales-Dale, M., Barnhart, C. J., & Fthenakis, V. (2015). [Rebuttal:“Comments on ‘Energy intensities, EROIs (energy returned on invested), and energy payback times of electricity generating power plants’–Making clear of quite some confusion”](https://www.sciencedirect.com/science/article/abs/pii/S0360544214014327). _Energy_, (82), 1088-1091. Article concluant:
 
-> In conclusion, we cannot help but reiterate here Raugei’s previous conclusions that “in the light of all of the above, there appears to be ample reason to question the reliability of the authors’ numerical results, and, most importantly, their internal as well as external comparability to those produced by previously published studies.” In addition, the authors make a number of physically impossible statements, such as “only exergy is generated and destroyed” [[3], p. 212] (exergy can only be destroyed, never created), which could be forgiven as a typographical error (though suggesting a lack in methodological rigour) were it not for the fact that it was compounded four sentences later with discussion of ”generated exergy” suggesting (perhaps even worse) that the authors lack a fundamental grasp of basic thermodynamics, further underlining the need to question the original analysis. Finally, Weißbach et al.’s defence of their untenable assertions by setting up straw man arguments and misinterpreting and misquoting Raugei’s comments comes across as a worrying indication of their seeming lack of familiarity with scientific standards and widely accepted methodological conventions. 
+> In conclusion, we cannot help but reiterate here Raugei’s previous conclusions that “in the light of all of the above, there appears to be ample reason to question the reliability of the authors’ numerical results, and, most importantly, their internal as well as external comparability to those produced by previously published studies.” In addition, the authors make a number of physically impossible statements, such as “only exergy is generated and destroyed” [[3], p. 212] (exergy can only be destroyed, never created), which could be forgiven as a typographical error (though suggesting a lack in methodological rigour) were it not for the fact that it was compounded four sentences later with discussion of ”generated exergy” suggesting (perhaps even worse) that the authors lack a fundamental grasp of basic thermodynamics, further underlining the need to question the original analysis. Finally, Weißbach et al.’s defence of their untenable assertions by setting up straw man arguments and misinterpreting and misquoting Raugei’s comments comes across as a worrying indication of their seeming lack of familiarity with scientific standards and widely accepted methodological conventions.<br>
+> — <cite>Rebuttal conclusion</cite>
 
 #### Autre exemple de controverse
 
@@ -84,7 +86,7 @@ Controverse où un papier de mauvaise qualité (pourtant beaucoup utilisé !) se
 - [Une analyse du cycle de vie de Vestas](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20V136-4.2MW%20Wind%20Plant_Final.pdf.coredownload.inline.pdf) (2022) (littérature grise mais pas mal d’informations intéressantes, une des meilleures sources sur le sujet à mon avis).
 - Quantification plus basse pour l’éolien à large échelle en Chine: Feng, J., Feng, L., Wang, J., & King, C. W. (2020). [Evaluation of the onshore wind energy potential in mainland China—Based on GIS modeling and EROI analysis](https://www.sciencedirect.com/science/article/pii/S0921344919303908). _Resources, Conservation and Recycling_, 152, 104484.
 - Valeurs plus basses ici: Dupont, E., Koppelaar, R., & Jeanmart, H. (2018). [Global available wind energy with physical and energy return on investment constraints](https://www.sciencedirect.com/science/article/abs/pii/S0306261917313673). _Applied Energy_, 209, 322-338.
-__Commentaire__ : Données des sources datées (2002-2009). Conversion de l’électricité en énergie primaire.
+> __Commentaire__ : Données des sources datées (2002-2009). Conversion de l’électricité en énergie primaire.
 
 #### Photovoltaïque
 
@@ -101,10 +103,10 @@ __Commentaire__ : Données des sources datées (2002-2009). Conversion de l’é
 Même dans la littérature récente, __certains auteurs trouvent des résultats en contradiction avec le reste de la littérature__ et, donc, cette vidéo. Je pense notamment à Iñigo Capellán-Pérez et Carlos de Castro:
 - Capellán-Pérez, I., De Castro, C., & González, L. J. M. (2019). [Dynamic Energy Return on Energy Investment (EROI) and material requirements in scenarios of global transition to renewable energies](https://www.sciencedirect.com/science/article/pii/S2211467X19300926). _Energy strategy reviews_, 26, 100399.
 
-__Commentaire__: Les valeurs pour les taux de retour énergétique des technologies de production électrique à partir de ressources fossiles semblent très hautes. Malheureusement, je n’arrive pas à comprendre d’où viennent les valeurs des fossiles à la lecture de l’article. L’évaluation pour les fossiles et pour les renouvelables n’a pas l’air de prendre les mêmes choses en compte. À cela s’ajoute les discussions méthodologiques habituelles (périmètre de l’Eroi,ext discutable, évaluation qui rate le saut d’efficacité entre l’énergie finale et l’énergie utile, prise en compte du stockage discutable… etc).
+> __Commentaire__: Les valeurs pour les taux de retour énergétique des technologies de production électrique à partir de ressources fossiles semblent très hautes. Malheureusement, je n’arrive pas à comprendre d’où viennent les valeurs des fossiles à la lecture de l’article. L’évaluation pour les fossiles et pour les renouvelables n’a pas l’air de prendre les mêmes choses en compte. À cela s’ajoute les discussions méthodologiques habituelles (périmètre de l’Eroi,ext discutable, évaluation qui rate le saut d’efficacité entre l’énergie finale et l’énergie utile, prise en compte du stockage discutable… etc).
 - de Castro, C., & Capellán-Pérez, I. (2020). [Standard, point of use, and extended energy return on energy invested (EROI) from comprehensive material requirements of present global wind, solar, and hydro power technologies](https://www.mdpi.com/1996-1073/13/12/3036). _Energies_, 13(12), 3036.
 
-__Commentaire :__ Il aurait fallu comparer avec les technologies fossiles en appliquant la même méthodologie pour voir si les renouvelables s’en sortent moins bien. Cette étude seule ne permet pas de déduire quoi que ce soit. Vu ce que j’ai trouvé sur les ressources fossiles, je serai même tenté de croire que prendre l’approche de cet article en actualisant les données des renouvelables et en l’appliquant aussi aux ressources fossiles montrerait que les taux de retour énergétiques des renouvelables et supérieures à celui des fossiles.
+> __Commentaire :__ Il aurait fallu comparer avec les technologies fossiles en appliquant la même méthodologie pour voir si les renouvelables s’en sortent moins bien. Cette étude seule ne permet pas de déduire quoi que ce soit. Vu ce que j’ai trouvé sur les ressources fossiles, je serai même tenté de croire que prendre l’approche de cet article en actualisant les données des renouvelables et en l’appliquant aussi aux ressources fossiles montrerait que les taux de retour énergétiques des renouvelables et supérieures à celui des fossiles.
 
 ### Méthodologie 
 
@@ -126,4 +128,6 @@ __Commentaire :__ Il aurait fallu comparer avec les technologies fossiles en app
 - [Flux d’exergie](https://stem.guide/wp-content/uploads/2018/08/GCEP_Exergy_Poster_web-REV-1024x587.png)
 - Il est probable qu’un blog [The Oil Drum](http://theoildrum.com/special/archives) ait joué un rôle important dans la construction de l’idée que j’attaque ici.
 - Voir Figure 2.5 et Figure 2.15 du rapport https://www.ipcc.ch/sr15/ pour comprendre les scénarios montrés dans la partie sur le taux de retour agrégé.
+
+![GCEP Energy Poster](bibliography/gcep-energy-poster.png) ![IPCC figure 2.5](bibliography/ipcc-figure2-5.jpg) ![IPCC figure 2.15](bibliography/ipcc-figure2-15.jpg)
 
