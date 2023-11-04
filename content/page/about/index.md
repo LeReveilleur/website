@@ -19,5 +19,5 @@ Au cours de mon doctorat, je me suis vite rendu compte que les problèmes enviro
 
 Mon doctorat en poche, je suis toujours aussi convaincu de l’importance des enjeux environnementaux et d’une bonne vulgarisation à leur sujet. Mon activité de vulgarisation est aujourd’hui mon activité principale.
 
-J’espère que vous trouverez des informations intéressantes sur ce site et sur ma chaîne Youtube.
+J’espère que vous trouverez des informations intéressantes sur ce site et sur ma [chaîne Youtube](https://www.youtube.com/@LeReveilleur).
 
