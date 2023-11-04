@@ -241,28 +241,6 @@
   "Creates the actual video post entry. It does the following: 
   - create a directory in content/post/ with the name of the video
   - copy over the video thumbnail or use default if not found
-  - create the index.md file with the filled content
-  "
-  [{:keys [video source-markdown] :as _opt}]
-  (let [{:keys [youtube_id]} video
-        directory-name (article-folder-name video)
-        path (str "content/post/" directory-name)
-        content (article-mardown {:video video :source-markdown source-markdown})
-        asset-path "assets/img/video_thumbnail/"
-        video-thumbnail-filename (str asset-path youtube_id ".jpg")
-        thumbnail-default (str asset-path "default.jpg")
-        thumb (if (fs/exists? video-thumbnail-filename)
-                video-thumbnail-filename
-                thumbnail-default)]
-    (fs/create-dir path)
-    (fs/copy thumb (str path "/cover.jpg"))
-    (fs/copy thumbnail-default (str path "/header.jpg"))
-    (spit (str path "/index.md") content)))
-
-(defn- make-video-post2!
-  "Creates the actual video post entry. It does the following: 
-  - create a directory in content/post/ with the name of the video
-  - copy over the video thumbnail or use default if not found
   - copy over the bibliography folder that contains assets
   - create the index.md file with the filled content
   "
@@ -279,8 +257,6 @@
                 video-thumbnail-filename
                 thumbnail-default)]
 
-    (println "Making video post: " bibliography-folder)
-    (println "source-data: " source-data)
     (fs/create-dir path)
     (fs/copy thumb (str path "/cover.jpg"))
     (fs/copy thumbnail-default (str path "/header.jpg"))
@@ -384,8 +360,8 @@
         youtube-id->source-data (make-youtube-id->source-data! video-source-folder)]
     (doseq [{:keys [youtube_id title] :as video} videos]
       (println (str "Generating post for: " title))
-      (make-video-post2! {:video video
-                          :source-data (get youtube-id->source-data youtube_id)}))))
+      (make-video-post! {:video video
+                         :source-data (get youtube-id->source-data youtube_id)}))))
 
 (comment
   (clean-video-posts!)
