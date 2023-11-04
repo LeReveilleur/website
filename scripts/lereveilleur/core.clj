@@ -1,11 +1,11 @@
 (ns lereveilleur.core
-  (:require 
-    [babashka.fs :as fs]
-    [babashka.http-client :as http]
-    [babashka.process :refer [shell]]
-    [clj-yaml.core :as yaml]
-    [clojure.java.io :as io]
-    [clojure.string :as str]))
+  (:require
+   [babashka.fs :as fs]
+   [babashka.http-client :as http]
+   [babashka.process :refer [shell]]
+   [clj-yaml.core :as yaml]
+   [clojure.java.io :as io]
+   [clojure.string :as str]))
 
 (def videos-data-path "data/videos.yaml")
 (def prefix-str "auto_generated__")
@@ -19,36 +19,35 @@
 ;; -------------------------
 
 (defn- current-date []
-  (.format 
-    (java.text.SimpleDateFormat. "yyyy-MM-dd") 
-    (java.util.Date.)))
+  (.format
+   (java.text.SimpleDateFormat. "yyyy-MM-dd")
+   (java.util.Date.)))
 
 (comment
-  (def donors 
+  (def donors
     (str/split-lines (slurp donors-filename))))
 
 (comment
   (filter (fn [donor] (re-find #"(?i)^[^a-z]" donor)) donors))
 
-
-(defn- greedy-regex-match 
+(defn- greedy-regex-match
   [range-regexes s]
-  (if (empty? range-regexes) 
+  (if (empty? range-regexes)
     :unmatched
     (if (re-find (:regex (first range-regexes)) s)
       (:bucket-range (first range-regexes))
       (greedy-regex-match (rest range-regexes) s))))
 
-(defn- bucket-range->markdown-content 
+(defn- bucket-range->markdown-content
   [{:keys [bucket-range donors]}]
-  (let [title (if (= bucket-range :unmatched) 
-                (str "## Autres [" (count donors) "]") 
+  (let [title (if (= bucket-range :unmatched)
+                (str "## Autres [" (count donors) "]")
                 (let [[s e] bucket-range]
                   (str "## " (str/upper-case s) " à " (str/upper-case e) " [" (count donors) "]")))
         section-content (->> donors
                              (mapv (fn [donor] (str "- " donor "\n")))
                              (reduce str ""))]
-    (str title "\n" 
+    (str title "\n"
          section-content "\n")))
 
 (defn donors-frontmatter [donors]
@@ -58,8 +57,8 @@
        (str "date: \"" (current-date) "\"\n")
        "slug: \"remerciements\"\n"
        frontmatter-delimiter "\n"))
-         
-(defn- donors-markdown-content 
+
+(defn- donors-markdown-content
   [donors]
   (let [exclusive-ranges [["a" "d"]
                           ["e" "h"]
@@ -67,20 +66,19 @@
                           ["m" "p"]
                           ["q" "t"]
                           ["u" "z"]]
-        bucket-regexes (mapv (fn [[s e]] 
+        bucket-regexes (mapv (fn [[s e]]
                                {:bucket-range [s e]
-                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))}) 
+                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))})
                              exclusive-ranges)
         bucket-range->donors (group-by (partial greedy-regex-match bucket-regexes) donors)]
     (->> (into exclusive-ranges [:unmatched])
-         (mapv (fn [bucket-range] (bucket-range->markdown-content 
-                                    {:bucket-range bucket-range 
-                                     :donors (get bucket-range->donors bucket-range)})))
+         (mapv (fn [bucket-range] (bucket-range->markdown-content
+                                   {:bucket-range bucket-range
+                                    :donors (get bucket-range->donors bucket-range)})))
          (reduce str))))
 
-(comment 
+(comment
   (donors-markdown-content donors))
-
 
 (comment
   (let [sorted-donors (->> donors
@@ -94,18 +92,18 @@
                           ["m" "p"]
                           ["q" "t"]
                           ["u" "z"]]
-        bucket-regexes (mapv (fn [[s e]] 
+        bucket-regexes (mapv (fn [[s e]]
                                {:range [s e]
-                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))}) 
+                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))})
                              exclusive-ranges)
         bucket-range->donors (group-by (partial greedy-regex-match bucket-regexes) donors)]
     (->> (into exclusive-ranges [:unmatched])
-         (mapv (fn [bucket-range] (bucket-range->markdown-content 
-                                    {:bucket-range bucket-range 
-                                     :donors (get bucket-range->donors bucket-range)})))
+         (mapv (fn [bucket-range] (bucket-range->markdown-content
+                                   {:bucket-range bucket-range
+                                    :donors (get bucket-range->donors bucket-range)})))
          (reduce str))
     ; bucket-range
-    
+
     ; (map (fn [[r xs]] [r (count xs)]) bucket-range->donors)
     ; (->> bucket-regexes
     ;      (mapv (fn [bucket-regex])))
@@ -117,26 +115,25 @@
            (drop 10)
            (take 10))))
 
-
 ;; -------------------------------
 ;; Utils to work with bibliography
 ;; -------------------------------
 
-(defn- source-path->youtube-id 
+(defn- source-path->youtube-id
   "Given a `source-path`, returns the `youtube-id` string."
   [path]
   (let [regex (re-pattern (str video-source-folder "(.*).md"))]
     (->> path
          (str)
          (re-find regex)
-         (second)))) 
+         (second))))
 
 (defn- source-path->markdown!
   "Given a `source-path` returns a `markdown` content."
   [path]
   (slurp (str path)))
 
-(defn- make-youtube-id->markdown! 
+(defn- make-youtube-id->markdown!
   "Returns a youtube-id to markdown content mapping."
   [video-source-folder]
   (let [source-paths (fs/list-dir video-source-folder)]
@@ -161,7 +158,7 @@
       (assoc :image "cover.jpg")
       (yaml/generate-string)))
 
-(defn- sanitize 
+(defn- sanitize
   [str]
   (-> str
       (str/lower-case)
@@ -176,7 +173,7 @@
       (str/trim)
       (str/replace #"\s+" "_")))
 
-(defn- article-folder-name 
+(defn- article-folder-name
   [{:keys [date title] :as _video}]
   (let [date-str (str/replace date #"-" "_")
         title-str (sanitize title)]
@@ -185,11 +182,11 @@
          "_"
          title-str)))
 
-(defn- video-source-content 
+(defn- video-source-content
   [source-markdown]
   (str source-markdown))
 
-(defn- article-mardown 
+(defn- article-mardown
   "Returns a markdown string for the video. It includes the sources if it 
   exists."
   [{:keys [video source-markdown]}]
@@ -218,8 +215,8 @@
         asset-path "assets/img/video_thumbnail/"
         video-thumbnail-filename (str asset-path youtube_id ".jpg")
         thumbnail-default (str asset-path "default.jpg")
-        thumb (if (fs/exists? video-thumbnail-filename) 
-                video-thumbnail-filename 
+        thumb (if (fs/exists? video-thumbnail-filename)
+                video-thumbnail-filename
                 thumbnail-default)]
     (fs/create-dir path)
     (fs/copy thumb (str path "/cover.jpg"))
@@ -231,35 +228,35 @@
   (fs/exists? "assets/img/video_thumbnail/default2.jpg"))
 
 (comment
-  
+
   ;; asset download
-  (let [youtube-id "C_UTlTiVQ_0" 
+  (let [youtube-id "C_UTlTiVQ_0"
         url "https://i.ytimg.com/vi/C_UTlTiVQ_0/maxresdefault.jpg"
         path (str "/tmp/" youtube-id ".jpg")]
     (io/copy
-      (:body (http/get url {:as :stream}))
-      (io/file path))
+     (:body (http/get url {:as :stream}))
+     (io/file path))
     (.length (io/file path))))
 
-(defn- youtube-id->thumbnail-url 
+(defn- youtube-id->thumbnail-url
   "Use `yt-dlp` to find the best thumbnail-url for the youtube video."
   [youtube-id]
   (let [{:keys [out]} (shell {:out :string} "yt-dlp" "--list-thumbnails" youtube-id)]
     (re-find #"https://i.ytimg.com.*maxresdefault.jpg" out)))
 
-(defn- download-asset! 
+(defn- download-asset!
   "Downloads `url` and stores it at `path`."
   [{:keys [url path]}]
   (io/copy
-    (:body (http/get url {:as :stream}))
-    (io/file path)))
+   (:body (http/get url {:as :stream}))
+   (io/file path)))
 
-(defn- youtube-thumbnail-path 
+(defn- youtube-thumbnail-path
   "Returns the path used to store the youtube thumbnail."
   [{:keys [file-format youtube-id]}]
   (str "assets/img/video_thumbnail/" youtube-id "." file-format))
 
-(defn- download-youtube-thumbnail! 
+(defn- download-youtube-thumbnail!
   "Downloads the best thumbnail for the given `youtube-id`."
   [youtube-id]
   (let [thumbnail-url (youtube-id->thumbnail-url youtube-id)
@@ -283,7 +280,7 @@
 
 ;; Public API used in babashka tasks
 
-(defn download-youtube-thumbnails! 
+(defn download-youtube-thumbnails!
   "Downloads all video thumbnails. 
   If `force` is set to true, then it will download and overwrite the local thumbnails."
   [{:keys [force] :as _opt}]
@@ -293,7 +290,7 @@
       (let [path (youtube-thumbnail-path {:file-format "jpg" :youtube-id youtube_id})]
         (if (fs/exists? path)
           (println "youtube_id: " youtube_id " - skipping")
-          (do 
+          (do
             (println "youtube_id: " youtube_id " - downloading...")
             (download-youtube-thumbnail! youtube_id)))))))
 
@@ -310,22 +307,22 @@
   []
   (println "Validating yaml data: scripts/data/video/source/ folder")
   true)
-  
-(defn generate-video-posts! 
+
+(defn generate-video-posts!
   "Generates all the video posts based on the `videos-data-path"
   []
   (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
         youtube-id->markdown (make-youtube-id->markdown! video-source-folder)]
     (doseq [{:keys [youtube_id title] :as video} videos]
       (println (str "Generating post for: " title))
-      (make-video-post! {:video video 
+      (make-video-post! {:video video
                          :source-markdown (get youtube-id->markdown youtube_id)}))))
 
 (comment
   (get {:a 1} :a)
   (get {:a 1} :b))
 
-(defn clean-video-posts! 
+(defn clean-video-posts!
   "Cleans the generated video posts"
   []
   (println "Clearing generated video posts")
@@ -336,19 +333,19 @@
 (comment
   (re-pattern (str video-source-folder "(.*).md")))
 
-(defn generate-donors-page! 
+(defn generate-donors-page!
   "Generates the donors page that contains all the donators listed with their nicknames."
   []
   (println "Generating the donors page based on the file:" donors-filename)
-  (let [donors (->> donors-filename 
-                    (slurp) 
+  (let [donors (->> donors-filename
+                    (slurp)
                     (str/split-lines)
                     (remove empty?)
                     sort
                     (into []))
         frontmatter (donors-frontmatter donors)
         markdown-content (donors-markdown-content donors)
-        content (str frontmatter 
+        content (str frontmatter
                      "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
                      markdown-content)]
     (spit donors-content-index-page content)))
@@ -356,13 +353,12 @@
 (comment
   (generate-donors-page!))
 
-
 (comment
   (fs/list-dir "scripts/data/video/source/")
   (source-path->youtube-id (first (fs/list-dir "scripts/data/video/source/")))
   (source-path->markdown! (first (fs/list-dir "scripts/data/video/source/")))
   (def youtube-id->markdown (make-youtube-id->markdown! video-source-folder))
-  youtube-id->markdown 
+  youtube-id->markdown
   (->> (fs/list-dir "scripts/data/video/source/")
        first
        str

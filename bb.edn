@@ -18,7 +18,7 @@
 
   generate-video-posts
   {:doc "Generates the video posts"
-   :depends [clean-video-posts 
+   :depends [clean-video-posts
              download-youtube-thumbnails
              validate-yaml-data-videos]
    :requires ([lereveilleur.core :as c])
@@ -28,4 +28,4 @@
   {:doc "Generates the donors page"
    :requires ([lereveilleur.core :as c])
    :task (c/generate-donors-page!)}}}
-  
+
