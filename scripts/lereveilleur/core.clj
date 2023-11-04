@@ -138,9 +138,42 @@
   [video-source-folder]
   (let [source-paths (fs/list-dir video-source-folder)]
     (->> source-paths
+         (filter (complement fs/directory?))
          (mapv (fn [source-path] [(source-path->youtube-id source-path)
                                   (source-path->markdown! source-path)]))
          (into {}))))
+
+(defn- make-youtube-id->source-data!
+  "Returns a `youtube-id` to a map with the following keys:
+  - `dir`: str - directory of the content
+  - `bibliography-folder`: str [optional] - directory folder when there are some files in it
+  - `index-filename`: str [optional] - the filename of the markdown content
+  - `index-markdown`: str [optional] - the content of the markdown
+  "
+  [video-source-folder]
+  (let [source-paths (fs/list-dir video-source-folder)]
+    (->> source-paths
+         (filter fs/directory?)
+         (mapv (fn [dir]
+                 (let [bibliography-folder (str dir "/bibliography")
+                       index-filename (str dir "/index.md")]
+                   [(fs/file-name dir)
+                    (cond-> {:dir (str dir)}
+                      (and (fs/exists? bibliography-folder)
+                           (fs/directory? bibliography-folder))
+                      (assoc :bibliography-folder bibliography-folder)
+
+                      (fs/exists? index-filename)
+                      (merge {:index-filename index-filename
+                              :index-markdown (slurp index-filename)}))])))
+         (into {}))))
+         ; first
+         ; second
+         ; :index-markdown)))
+
+         ; (mapv (fn [source-path] [(source-path->youtube-id source-path)
+         ;                          (source-path->markdown! source-path)]))
+         ; (into {}))))
 
 ;; --------------------------------------
 ;; End of Utils to work with bibliography
@@ -225,6 +258,31 @@
     (fs/copy thumb (str path "/cover.jpg"))
     (fs/copy thumbnail-default (str path "/header.jpg"))
     (spit (str path "/index.md") content)))
+
+(defn- make-video-post2!
+  "Creates the actual video post entry. It does the following: 
+  - create a directory in content/post/ with the name of the video
+  - copy over the video thumbnail or use default if not found
+  - copy over the bibliography folder that contains assets
+  - create the index.md file with the filled content
+  "
+  [{:keys [video source-data] :as _opt}]
+  (let [{:keys [youtube_id]} video
+        {:keys [index-markdown bibliography-folder]} source-data
+        directory-name (article-folder-name video)
+        path (str "content/post/" directory-name)
+        content (article-mardown {:video video :source-markdown index-markdown})
+        asset-path "assets/img/video_thumbnail/"
+        video-thumbnail-filename (str asset-path youtube_id ".jpg")
+        thumbnail-default (str asset-path "default.jpg")
+        thumb (if (fs/exists? video-thumbnail-filename)
+                video-thumbnail-filename
+                thumbnail-default)]
+    (println "Making video post: " bibliography-folder)))
+    ; (fs/create-dir path)
+    ; (fs/copy thumb (str path "/cover.jpg"))
+    ; (fs/copy thumbnail-default (str path "/header.jpg"))
+    ; (spit (str path "/index.md") content)))
 
 (comment
   (fs/exists? "assets/img/video_thumbnail/default.jpg")
@@ -315,11 +373,26 @@
   "Generates all the video posts based on the `videos-data-path"
   []
   (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
-        youtube-id->markdown (make-youtube-id->markdown! video-source-folder)]
+        youtube-id->source-data (make-youtube-id->source-data! video-source-folder)]
     (doseq [{:keys [youtube_id title] :as video} videos]
       (println (str "Generating post for: " title))
-      (make-video-post! {:video video
-                         :source-markdown (get youtube-id->markdown youtube_id)}))))
+      (make-video-post2! {:video video
+                          :source-data (get youtube-id->source-data youtube_id)}))))
+      ; (make-video-post! {:video video
+      ;                    :source-markdown (get youtube-id->markdown youtube_id)}))))
+
+(comment
+  (generate-video-posts!))
+
+(defn generate-video-posts2!
+  "Generates all the video posts based on the `videos-data-path"
+  []
+  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
+        youtube-id->source-data (make-youtube-id->source-data! video-source-folder)]
+    (doseq [{:keys [youtube_id title] :as video} videos]
+      (println (str "Generating post for: " title))
+      (make-video-post2! {:video video
+                          :source-data (get youtube-id->source-data youtube_id)}))))
 
 (comment
   (get {:a 1} :a)
