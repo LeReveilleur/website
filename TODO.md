@@ -1,7 +1,11 @@
 # TODO
 
+* core: Include assets in generated bibliography
+* autres section
+  * add Flux d'energie photo in biblio
+  * add figure 1 and figure 2 du rapport du giec
+* add summary instead of empty description in accueil
 * add a favicon
-* add a hr before sources bibliographiques
 * add graphs and plots directly in some sources bibliographiques
 * deploy to netlify
 * about page
