@@ -145,3 +145,4 @@ __Commentaire :__ Il aurait fallu comparer avec les technologies fossiles en app
 - [Flux d’exergie](https://stem.guide/wp-content/uploads/2018/08/GCEP_Exergy_Poster_web-REV-1024x587.png)
 - Il est probable qu’un blog [The Oil Drum](http://theoildrum.com/special/archives) ait joué un rôle important dans la construction de l’idée que j’attaque ici.
 - Voir Figure 2.5 et Figure 2.15 du rapport https://www.ipcc.ch/sr15/ pour comprendre les scénarios montrés dans la partie sur le taux de retour agrégé.
+

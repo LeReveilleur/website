@@ -279,18 +279,18 @@
                 video-thumbnail-filename
                 thumbnail-default)]
 
-    (when bibliography-folder
-      (println "copying bibliography folder")
-      (fs/copy-tree bibliography-folder
-                    (str path "/bibliography")
-                    {:replace-existing true}))
-
     (println "Making video post: " bibliography-folder)
     (println "source-data: " source-data)
     (fs/create-dir path)
     (fs/copy thumb (str path "/cover.jpg"))
     (fs/copy thumbnail-default (str path "/header.jpg"))
-    (spit (str path "/index.md") content)))
+    (spit (str path "/index.md") content)
+
+    (when bibliography-folder
+      (println "copying bibliography folder")
+      (fs/copy-tree bibliography-folder
+                    (str path "/bibliography")
+                    {:replace-existing true}))))
 
 (comment
   (fs/exists? "assets/img/video_thumbnail/default.jpg")
@@ -386,22 +386,10 @@
       (println (str "Generating post for: " title))
       (make-video-post2! {:video video
                           :source-data (get youtube-id->source-data youtube_id)}))))
-      ; (make-video-post! {:video video
-      ;                    :source-markdown (get youtube-id->markdown youtube_id)}))))
 
 (comment
   (clean-video-posts!)
   (generate-video-posts!))
-
-(defn generate-video-posts2!
-  "Generates all the video posts based on the `videos-data-path"
-  []
-  (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))
-        youtube-id->source-data (make-youtube-id->source-data! video-source-folder)]
-    (doseq [{:keys [youtube_id title] :as video} videos]
-      (println (str "Generating post for: " title))
-      (make-video-post2! {:video video
-                          :source-data (get youtube-id->source-data youtube_id)}))))
 
 (comment
   (get {:a 1} :a)
