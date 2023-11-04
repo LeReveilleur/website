@@ -1,12 +1,9 @@
 # TODO
 
-* core: Include assets in generated bibliography
-* autres section
-  * add Flux d'energie photo in biblio
-  * add figure 1 and figure 2 du rapport du giec
+* i18n for mots clefs and categories
+* get rid of the test category
 * add summary instead of empty description in accueil
 * add a favicon
-* add graphs and plots directly in some sources bibliographiques
 * deploy to netlify
 * about page
   * write
@@ -15,7 +12,6 @@
   * about
   * home
 * Split config into different files
-* staging: deploy to netlify on other branches
 * Write the readme
   * How to setup
   * How to add articles
