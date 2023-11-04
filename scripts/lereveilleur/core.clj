@@ -278,11 +278,19 @@
         thumb (if (fs/exists? video-thumbnail-filename)
                 video-thumbnail-filename
                 thumbnail-default)]
-    (println "Making video post: " bibliography-folder)))
-    ; (fs/create-dir path)
-    ; (fs/copy thumb (str path "/cover.jpg"))
-    ; (fs/copy thumbnail-default (str path "/header.jpg"))
-    ; (spit (str path "/index.md") content)))
+
+    (when bibliography-folder
+      (println "copying bibliography folder")
+      (fs/copy-tree bibliography-folder
+                    (str path "/bibliography")
+                    {:replace-existing true}))
+
+    (println "Making video post: " bibliography-folder)
+    (println "source-data: " source-data)
+    (fs/create-dir path)
+    (fs/copy thumb (str path "/cover.jpg"))
+    (fs/copy thumbnail-default (str path "/header.jpg"))
+    (spit (str path "/index.md") content)))
 
 (comment
   (fs/exists? "assets/img/video_thumbnail/default.jpg")
@@ -382,6 +390,7 @@
       ;                    :source-markdown (get youtube-id->markdown youtube_id)}))))
 
 (comment
+  (clean-video-posts!)
   (generate-video-posts!))
 
 (defn generate-video-posts2!
