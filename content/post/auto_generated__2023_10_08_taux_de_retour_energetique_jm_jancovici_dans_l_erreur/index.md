@@ -50,11 +50,11 @@ Le taux de retour énergétique est le ratio entre l’énergie délivrée par u
 - [Énergie primaire dans le monde](https://ourworldindata.org/grapher/global-primary-energy), _Our World In Data_
 - [La méthode de substitution](https://ourworldindata.org/energy-substitution-method), _Our World In Data_ (et des résultats obtenus avec cette méthode par le [chercheur Peter Glens](https://twitter.com/Peters_Glen/status/1696771480925737319)).
 
-![Share of primary energy](bibliography/share-of-primary-energy.png)
 
 - Vitesse de déploiement des renouvelables: [de belles figures](https://onclimatechangepolicydotorg.wordpress.com/low-carbon-technologies-section-overview/1-the-rate-of-growth-of-energy-technologies/) (avec un axe logarithmique). et [un autre exemple](https://twitter.com/JomauxJulien/status/1693992622443167933).
 
-![Energy technology deployment](bibliography/energy-technology-deployment.png) ![Useful energy production](bibliography/useful-energy-production.png) ![Solar is fastest](bibliography/solar-is-fastest.png)
+![Share of primary energy](bibliography/share-of-primary-energy.png) ![Energy technology deployment](bibliography/energy-technology-deployment.png) 
+![Useful energy production](bibliography/useful-energy-production.png) ![Solar is fastest](bibliography/solar-is-fastest.png)
 
 #### Conventions dans le monde de l'énergie 
 
