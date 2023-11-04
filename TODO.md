@@ -1,5 +1,8 @@
 # TODO
 
+* add a hr before sources bibliographiques
+* add graphs and plots directly in some sources bibliographiques
+* deploy to netlify
 * about page
   * write
   * translate english version
@@ -7,11 +10,6 @@
   * about
   * home
 * Split config into different files
-* Add social media icons from same icon set
-  * twitter
-  * twitch
-  * youtube
-* deploy to netlify
 * staging: deploy to netlify on other branches
 * Write the readme
   * How to setup
