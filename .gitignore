@@ -1,4 +1,5 @@
-public/
+public/*
+!public/.gitkeep
 resources/
 .hugo_build.lock
 .clj-kondo/
