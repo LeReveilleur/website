@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, windmill, electricity]
+tags: [energy, solar, electricity]
 date: '2020-03-10'
 slug: eolien,_photovoltaïque_et_reseau_electrique_-_partie_2_2
 youtube_id: uXrhrIw-mwk
