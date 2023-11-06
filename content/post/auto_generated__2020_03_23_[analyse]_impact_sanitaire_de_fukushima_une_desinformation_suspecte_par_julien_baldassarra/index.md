@@ -1,11 +1,12 @@
 ---
-title: '[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra'
-date: '2020-03-23'
-youtube_id: k3mUS3JM4aM
-tags: [nuclear, analysis]
 article_type: youtube_video
-image-header: header.jpg
+tags: [nuclear, analysis]
+date: '2020-03-23'
+slug: '[analyse]_impact_sanitaire_de_fukushima_une_desinformation_suspecte_par_julien_baldassarra'
+youtube_id: k3mUS3JM4aM
 video-thumbnail: cover.jpg
+title: '[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra'
+image-header: header.jpg
 image: cover.jpg
 ---
 

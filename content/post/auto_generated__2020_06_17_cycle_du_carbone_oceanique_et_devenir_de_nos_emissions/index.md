@@ -1,11 +1,12 @@
 ---
-title: Cycle du carbone océanique et devenir de nos émissions
-date: '2020-06-17'
-youtube_id: NcEI76hJVR0
-tags: [carbon, ocean, science]
 article_type: youtube_video
-image-header: header.jpg
+tags: [carbon, ocean, science]
+date: '2020-06-17'
+slug: cycle_du_carbone_oceanique_et_devenir_de_nos_emissions
+youtube_id: NcEI76hJVR0
 video-thumbnail: cover.jpg
+title: Cycle du carbone océanique et devenir de nos émissions
+image-header: header.jpg
 image: cover.jpg
 ---
 

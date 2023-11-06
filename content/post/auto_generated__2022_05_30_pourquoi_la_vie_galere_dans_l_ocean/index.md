@@ -1,11 +1,12 @@
 ---
-title: Pourquoi la vie galère dans l'océan ?
-date: '2022-05-30'
-youtube_id: 3105ScO53fo
-tags: [science, life, water]
 article_type: youtube_video
-image-header: header.jpg
+tags: [science, life, water]
+date: '2022-05-30'
+slug: pourquoi_la_vie_galere_dans_l_ocean
+youtube_id: 3105ScO53fo
 video-thumbnail: cover.jpg
+title: Pourquoi la vie galère dans l'océan ?
+image-header: header.jpg
 image: cover.jpg
 ---
 

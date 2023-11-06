@@ -1,11 +1,12 @@
 ---
-title: Que se passerait-il si on arrêtait nos émissions de CO2 ?
-date: '2022-03-14'
-youtube_id: iiKuUElvGhM
-tags: [science, carbon, climate]
 article_type: youtube_video
-image-header: header.jpg
+tags: [science, carbon, climate]
+date: '2022-03-14'
+slug: que_se_passerait-il_si_on_arretait_nos_emissions_de_co2
+youtube_id: iiKuUElvGhM
 video-thumbnail: cover.jpg
+title: Que se passerait-il si on arrêtait nos émissions de CO2 ?
+image-header: header.jpg
 image: cover.jpg
 ---
 

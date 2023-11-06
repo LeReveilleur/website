@@ -179,23 +179,11 @@
 ;; End of Utils to work with bibliography
 ;; --------------------------------------
 
-(defn- frontmatter-yaml-str
-  "Returns the frontmatter in yaml string format given a video entry."
-  [video]
-  (-> video
-      (select-keys [:title :date :description :youtube_id :tags])
-      (assoc :article_type "youtube_video")
-      (assoc :image-header "header.jpg")
-      (assoc :video-thumbnail "cover.jpg")
-      ;; TODO: deprecate image?
-      (assoc :image "cover.jpg")
-      (yaml/generate-string)))
-
 (defn- sanitize
   [str]
   (-> str
       (str/lower-case)
-      (str/replace #"['\"]" "_")
+      (str/replace #"['\"\/]" "_")
       (str/replace #"[?!:.]" "")
       (str/replace #"[áàâã]" "a")
       (str/replace #"[éèêẽ]" "e")
@@ -205,6 +193,22 @@
       (str/replace #"[ç]" "c")
       (str/trim)
       (str/replace #"\s+" "_")))
+
+(defn- frontmatter-yaml-str
+  "Returns the frontmatter in yaml string format given a video entry."
+  [video]
+  (-> video
+      (select-keys [:title :date :description :youtube_id :tags])
+      (update :slug (fn [slug] (or slug (sanitize (:title video)))))
+      (assoc :article_type "youtube_video")
+      (assoc :image-header "header.jpg")
+      (assoc :video-thumbnail "cover.jpg")
+      ;; TODO: deprecate image?
+      (assoc :image "cover.jpg")
+      (yaml/generate-string)))
+
+(comment
+  (str/replace "partie2/2" #"\/" "_"))
 
 (defn- article-folder-name
   [{:keys [date title] :as _video}]

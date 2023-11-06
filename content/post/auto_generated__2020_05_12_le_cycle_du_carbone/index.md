@@ -1,11 +1,12 @@
 ---
-title: Le cycle du carbone
-date: '2020-05-12'
-youtube_id: vHCQk2_8pew
-tags: [carbon, science]
 article_type: youtube_video
-image-header: header.jpg
+tags: [carbon, science]
+date: '2020-05-12'
+slug: le_cycle_du_carbone
+youtube_id: vHCQk2_8pew
 video-thumbnail: cover.jpg
+title: Le cycle du carbone
+image-header: header.jpg
 image: cover.jpg
 ---
 

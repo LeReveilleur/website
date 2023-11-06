@@ -1,11 +1,12 @@
 ---
-title: Éolien en mer
-date: '2022-01-14'
-youtube_id: xbdUlfYCRwc
-tags: [science, energy, windmill]
 article_type: youtube_video
-image-header: header.jpg
+tags: [science, energy, windmill]
+date: '2022-01-14'
+slug: eolien_en_mer
+youtube_id: xbdUlfYCRwc
 video-thumbnail: cover.jpg
+title: Éolien en mer
+image-header: header.jpg
 image: cover.jpg
 ---
 

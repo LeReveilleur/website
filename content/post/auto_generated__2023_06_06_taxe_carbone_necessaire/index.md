@@ -1,11 +1,12 @@
 ---
-title: 'Taxe carbone : nécessaire ?'
-date: '2023-06-06'
-youtube_id: N2fgaITIwZ0
-tags: [climate, politics]
 article_type: youtube_video
-image-header: header.jpg
+tags: [climate, politics]
+date: '2023-06-06'
+slug: taxe_carbone_necessaire
+youtube_id: N2fgaITIwZ0
 video-thumbnail: cover.jpg
+title: 'Taxe carbone : nécessaire ?'
+image-header: header.jpg
 image: cover.jpg
 ---
 

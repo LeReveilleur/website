@@ -1,11 +1,12 @@
 ---
-title: Les climats du passé
-date: '2020-08-24'
-youtube_id: NRdaPrMNrkI
-tags: [science, climate]
 article_type: youtube_video
-image-header: header.jpg
+tags: [science, climate]
+date: '2020-08-24'
+slug: les_climats_du_passe
+youtube_id: NRdaPrMNrkI
 video-thumbnail: cover.jpg
+title: Les climats du passé
+image-header: header.jpg
 image: cover.jpg
 ---
 

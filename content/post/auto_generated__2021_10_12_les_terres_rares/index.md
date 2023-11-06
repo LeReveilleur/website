@@ -1,11 +1,12 @@
 ---
-title: Les terres rares
-date: '2021-10-12'
-youtube_id: OAyYSlMhgI4
-tags: [energy, resource, metals]
 article_type: youtube_video
-image-header: header.jpg
+tags: [energy, resource, metals]
+date: '2021-10-12'
+slug: les_terres_rares
+youtube_id: OAyYSlMhgI4
 video-thumbnail: cover.jpg
+title: Les terres rares
+image-header: header.jpg
 image: cover.jpg
 ---
 

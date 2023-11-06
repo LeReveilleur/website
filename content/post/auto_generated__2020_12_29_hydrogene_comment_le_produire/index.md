@@ -1,11 +1,12 @@
 ---
-title: 'Hydrogène : comment le produire ?'
-date: '2020-12-29'
-youtube_id: _sqYx8K_m9c
-tags: [energy, hydrogen, industry]
 article_type: youtube_video
-image-header: header.jpg
+tags: [energy, hydrogen, industry]
+date: '2020-12-29'
+slug: hydrogene_comment_le_produire
+youtube_id: _sqYx8K_m9c
 video-thumbnail: cover.jpg
+title: 'Hydrogène : comment le produire ?'
+image-header: header.jpg
 image: cover.jpg
 ---
 

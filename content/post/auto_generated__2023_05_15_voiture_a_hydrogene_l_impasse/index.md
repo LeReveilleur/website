@@ -1,11 +1,12 @@
 ---
-title: 'Voiture à hydrogène: l''impasse ?'
-date: '2023-05-15'
-youtube_id: hNMRSUFuHPg
-tags: [transport, energy, hydrogen]
 article_type: youtube_video
-image-header: header.jpg
+tags: [transport, energy, hydrogen]
+date: '2023-05-15'
+slug: voiture_a_hydrogene_l_impasse
+youtube_id: hNMRSUFuHPg
 video-thumbnail: cover.jpg
+title: 'Voiture à hydrogène: l''impasse ?'
+image-header: header.jpg
 image: cover.jpg
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: Fermeture de Fessenheim, une victoire pour l'écologie ?
-date: '2020-08-08'
-youtube_id: Bcg9yDp4Azs
-tags: [industry, politics, nuclear]
 article_type: youtube_video
-image-header: header.jpg
+tags: [industry, politics, nuclear]
+date: '2020-08-08'
+slug: fermeture_de_fessenheim,_une_victoire_pour_l_ecologie
+youtube_id: Bcg9yDp4Azs
 video-thumbnail: cover.jpg
+title: Fermeture de Fessenheim, une victoire pour l'écologie ?
+image-header: header.jpg
 image: cover.jpg
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: '[Résumé] Qu''advient-il de nos émissions de CO2 ?'
-date: '2020-06-17'
-youtube_id: kqBCN-w-lGU
-tags: [carbon, science, summary]
 article_type: youtube_video
-image-header: header.jpg
+tags: [carbon, science, summary]
+date: '2020-06-17'
+slug: '[resume]_qu_advient-il_de_nos_emissions_de_co2'
+youtube_id: kqBCN-w-lGU
 video-thumbnail: cover.jpg
+title: '[Résumé] Qu''advient-il de nos émissions de CO2 ?'
+image-header: header.jpg
 image: cover.jpg
 ---
 

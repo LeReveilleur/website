@@ -1,11 +1,12 @@
 ---
-title: La Capture et Séquestration de Carbone pour réduire nos émissions de CO2
-date: '2020-09-23'
-youtube_id: AQlqQEhVi1M
-tags: [carbon]
 article_type: youtube_video
-image-header: header.jpg
+tags: [carbon]
+date: '2020-09-23'
+slug: la_capture_et_sequestration_de_carbone_pour_reduire_nos_emissions_de_co2
+youtube_id: AQlqQEhVi1M
 video-thumbnail: cover.jpg
+title: La Capture et Séquestration de Carbone pour réduire nos émissions de CO2
+image-header: header.jpg
 image: cover.jpg
 ---
 

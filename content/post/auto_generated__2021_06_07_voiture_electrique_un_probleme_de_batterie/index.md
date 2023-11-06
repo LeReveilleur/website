@@ -1,11 +1,12 @@
 ---
-title: 'Voiture électrique : un problème de batterie ?'
-date: '2021-06-07'
-youtube_id: xVroWRO0duI
-tags: [transport, car, electricity]
 article_type: youtube_video
-image-header: header.jpg
+tags: [transport, car, electricity]
+date: '2021-06-07'
+slug: voiture_electrique_un_probleme_de_batterie
+youtube_id: xVroWRO0duI
 video-thumbnail: cover.jpg
+title: 'Voiture électrique : un problème de batterie ?'
+image-header: header.jpg
 image: cover.jpg
 ---
 
