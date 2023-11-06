@@ -1,4 +1,5 @@
 ---
+title: Accueil
 menu:
     main:
         name: Accueil
