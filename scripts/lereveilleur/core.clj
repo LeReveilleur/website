@@ -184,7 +184,7 @@
   (-> str
       (str/lower-case)
       (str/replace #"['\"\/]" "_")
-      (str/replace #"[?!:.]" "")
+      (str/replace #"[?!:.#]" "")
       (str/replace #"[áàâã]" "a")
       (str/replace #"[éèêẽ]" "e")
       (str/replace #"[íìîĩ]" "i")
