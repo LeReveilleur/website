@@ -254,11 +254,31 @@ videos:
       - "electricity"
 
   - youtube_id: "E3YLYzs_1Es"
-    title: "Stockage géologique profond des déchets radioactifs - DÉCHETS RADIOACTIFS #4"
+    title: "Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
     description: |
       Dans cette quatrième vidéo sur les déchets radioactifs, je vous parle enfin du mode préférentielle pour la gestion à long terme (sur des dizaines de milliers d’années) des déchets radioactifs les plus dangereux: le stockage géologique profond. Après un résumé rapide des épisodes précédents, je rappelle la problématique: Comment s’assurer que la radioactivité des déchets de haute activité et de moyenne activité à vie longue ne présente pas de risques pour l’environnement et les sociétés humaines sur le long terme. Je présente les principes généraux du stockage géologique profond avant d’exposer la fascinante anecdote des réacteurs naturels d’Oklo (10:28). Je me concentre ensuite le projet Cigéo: le projet français de stockage géologique profond (14:22). J’y aborde pleins d’aspects différents: refroidissement des colis (17:33), impacts des fuites de radionucléides (22:26) ou encore la question de la mémoire (24:42). Je prends aussi le temps d’expliquer l’impact de ce stockage sur les émissions de CO2 du nucléaire (32:40) et je touche quelques mots des opposants et de Greenpeace en particulier (35:39) avant de conclure (39:00).
-    date: "2020-02-17"
+    date: "2019-12-09"
     tags:
       - "energy"
       - "nuclear"
-      - "electricity"
+      - "nuclear waste"
+
+  - youtube_id: "8ef25x7sM-I"
+    title: "Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3"
+    description: |
+      Dans cette troisième vidéo, on va s'intéresser à tous les déchets radioactifs ! Dans un premier temps (1:56), je vous parle des déchets radioactifs à vie très courte (avec une période radioactive de moins de 100 jours) qui sont majoritairement produits par le médical. Je vous parle ensuite (8:32) des déchets radioactifs de moyenne activité à vie longue qui posent des problèmes assez proches des déchets de haute activité dont on a parlé dans les deux dernières vidéos. Ces déchets sont radioactifs à cause du phénomène d'activation neutronique qui est aussi responsable de la radioactivité résiduelle dans les centrales nucléaires à l'arrêt. C'est donc l'occasion de vous parler du démantèlement des centrales nucléaires (15:00). Je vous explique comment on démantèle, quels sont les enjeux, les coûts... etc. Du coup, j'aborde deux autres catégories de déchets qui forment l'essentiel des déchets produits par le démantèlement des centrales nucléaires: les déchets de faible et moyenne à vie courte (25:00) et les déchets radioactifs de très faible activité (26:38). Après un passage par la dernière catégorie de déchets radioactifs, celle des déchets de faible activité à vie longue (39:18), il est temps de conclure (43:15).
+    date: "2019-11-04"
+    tags:
+      - "energy"
+      - "nuclear"
+      - "nuclear waste"
+
+  - youtube_id: "yr-tn-Xj-vw"
+    title: "Peut-on faire disparaître les déchets radioactifs ?"
+    description: |
+      Dans cette seconde vidéo sur les déchets radioactifs, j'explique comment on essaye de réduire la radiotoxicité des déchets radioactifs. Je parle donc de la transmutation. La logique de la transmutation des déchets radioactifs est de modifier la structure de certains radionucléides pour les rendre moins dangereux. La transmutation a des avantages mais également des défauts qui limitent considérablement son usage aujourd'hui et questionne son usage à l'avenir (7:18). J'aborde notamment la transmutation par laser qui a beaucoup fait parler d'elle, malgré des applications limitées (9:18). Je me penche ensuite sur le MOx (14:50): ce combustible qu'on produit à partir du plutonium issu du retraitement et de l'uranium appauvri. C'est l'occasion de parler de l'utilisation potentielle du plutonium de retraitement dans des bombes nucléaires et des avantages environnementaux du MOx qui est, au final, une forme de recyclage partielle des déchets nucléaires. Enfin, je discute un peu de l'influence du futur du nucléaire (déploiement d'une quatrième génération ou arrêt du nucléaire) sur la question des déchets radioactifs (32:36) avant de conclure (38:24).
+    date: "2019-10-10"
+    tags:
+      - "energy"
+      - "nuclear"
+      - "nuclear waste"
