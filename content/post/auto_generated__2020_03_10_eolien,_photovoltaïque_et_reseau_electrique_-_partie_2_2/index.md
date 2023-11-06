@@ -6,6 +6,7 @@ slug: eolien,_photovoltaïque_et_reseau_electrique_-_partie_2_2
 youtube_id: uXrhrIw-mwk
 video-thumbnail: cover.jpg
 title: Éolien, photovoltaïque et réseau électrique - Partie 2/2
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

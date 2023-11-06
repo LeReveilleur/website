@@ -6,6 +6,7 @@ slug: la_convention_citoyenne_pour_le_climat,_utile
 youtube_id: yuopYkpmvCo
 video-thumbnail: cover.jpg
 title: La Convention Citoyenne pour le Climat, utile ?
+categories: [policy]
 image-header: header.jpg
 image: cover.jpg
 ---

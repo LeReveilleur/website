@@ -6,6 +6,7 @@ slug: que_se_passerait-il_si_on_arretait_nos_emissions_de_co2
 youtube_id: iiKuUElvGhM
 video-thumbnail: cover.jpg
 title: Que se passerait-il si on arrêtait nos émissions de CO2 ?
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

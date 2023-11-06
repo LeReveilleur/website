@@ -6,6 +6,7 @@ slug: pourquoi_la_vie_galere_dans_l_ocean
 youtube_id: 3105ScO53fo
 video-thumbnail: cover.jpg
 title: Pourquoi la vie galère dans l'océan ?
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

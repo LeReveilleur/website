@@ -6,6 +6,7 @@ slug: le_cycle_du_carbone
 youtube_id: vHCQk2_8pew
 video-thumbnail: cover.jpg
 title: Le cycle du carbone
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

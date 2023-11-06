@@ -6,6 +6,7 @@ slug: eolien_en_mer
 youtube_id: xbdUlfYCRwc
 video-thumbnail: cover.jpg
 title: Éolien en mer
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

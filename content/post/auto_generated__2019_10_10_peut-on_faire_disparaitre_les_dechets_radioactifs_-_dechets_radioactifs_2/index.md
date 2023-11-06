@@ -6,6 +6,7 @@ slug: peut-on_faire_disparaitre_les_dechets_radioactifs_-_dechets_radioactifs_2
 youtube_id: yr-tn-Xj-vw
 video-thumbnail: cover.jpg
 title: 'Peut-on faire disparaître les déchets radioactifs ? - Déchets radioactifs #2'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

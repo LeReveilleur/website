@@ -6,6 +6,7 @@ slug: '[resume]_qu_advient-il_de_nos_emissions_de_co2'
 youtube_id: kqBCN-w-lGU
 video-thumbnail: cover.jpg
 title: '[Résumé] Qu''advient-il de nos émissions de CO2 ?'
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

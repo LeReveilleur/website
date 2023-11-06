@@ -6,6 +6,7 @@ slug: quelle_electricite_pour_demain
 youtube_id: XbrcUz0pu80
 video-thumbnail: cover.jpg
 title: Quelle électricité pour demain ?
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

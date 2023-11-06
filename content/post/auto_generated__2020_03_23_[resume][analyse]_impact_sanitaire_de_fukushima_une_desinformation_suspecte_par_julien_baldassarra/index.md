@@ -6,6 +6,7 @@ slug: '[resume][analyse]_impact_sanitaire_de_fukushima_une_desinformation_suspec
 youtube_id: t-gqGlIcIYA
 video-thumbnail: cover.jpg
 title: '[Résumé][Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra'
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

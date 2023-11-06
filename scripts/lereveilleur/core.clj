@@ -198,7 +198,8 @@
   "Returns the frontmatter in yaml string format given a video entry."
   [video]
   (-> video
-      (select-keys [:title :date :description :youtube_id :tags])
+      (select-keys [:title :date :description :youtube_id :tags :categories])
+      ;; TODO: reorganize the sanitizing functions
       (update :slug (fn [slug] (or slug (sanitize (:title video)))))
       (assoc :article_type "youtube_video")
       (assoc :image-header "header.jpg")

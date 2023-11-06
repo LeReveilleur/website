@@ -6,6 +6,7 @@ slug: les_climats_du_passe
 youtube_id: NRdaPrMNrkI
 video-thumbnail: cover.jpg
 title: Les climats du passé
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

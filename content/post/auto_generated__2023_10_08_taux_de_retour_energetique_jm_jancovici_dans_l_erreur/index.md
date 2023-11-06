@@ -6,6 +6,7 @@ slug: taux_de_retour_energetique_jm_jancovici_dans_l_erreur
 youtube_id: HgfcZeGP7BA
 video-thumbnail: cover.jpg
 title: 'Taux de retour énergétique : J.M. Jancovici dans l''erreur ?'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

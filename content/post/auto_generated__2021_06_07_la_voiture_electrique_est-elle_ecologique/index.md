@@ -6,6 +6,7 @@ slug: la_voiture_electrique_est-elle_ecologique
 youtube_id: zjaUqUozwdc
 video-thumbnail: cover.jpg
 title: La voiture électrique est-elle écologique ?
+categories: [transport]
 image-header: header.jpg
 image: cover.jpg
 ---

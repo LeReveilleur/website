@@ -6,6 +6,7 @@ slug: cycle_du_carbone_oceanique_et_devenir_de_nos_emissions
 youtube_id: NcEI76hJVR0
 video-thumbnail: cover.jpg
 title: Cycle du carbone océanique et devenir de nos émissions
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

@@ -6,6 +6,7 @@ slug: stockage_geologique_profond_des_dechets_radioactifs_-_dechets_radioactifs_
 youtube_id: E3YLYzs_1Es
 video-thumbnail: cover.jpg
 title: 'Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

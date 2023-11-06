@@ -6,6 +6,7 @@ slug: hydrogene_comment_le_produire
 youtube_id: _sqYx8K_m9c
 video-thumbnail: cover.jpg
 title: 'Hydrogène : comment le produire ?'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

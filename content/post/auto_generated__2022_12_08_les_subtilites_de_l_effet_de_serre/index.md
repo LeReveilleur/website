@@ -6,6 +6,7 @@ slug: les_subtilites_de_l_effet_de_serre
 youtube_id: rXlEcth5Gxc
 video-thumbnail: cover.jpg
 title: Les subtilités de l'effet de serre
+categories: [science]
 image-header: header.jpg
 image: cover.jpg
 ---

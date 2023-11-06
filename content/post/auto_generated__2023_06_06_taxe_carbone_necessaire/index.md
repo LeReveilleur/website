@@ -6,6 +6,7 @@ slug: taxe_carbone_necessaire
 youtube_id: N2fgaITIwZ0
 video-thumbnail: cover.jpg
 title: 'Taxe carbone : nécessaire ?'
+categories: [policy]
 image-header: header.jpg
 image: cover.jpg
 ---

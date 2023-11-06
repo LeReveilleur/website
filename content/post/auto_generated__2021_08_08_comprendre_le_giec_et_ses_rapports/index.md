@@ -6,6 +6,7 @@ slug: comprendre_le_giec_et_ses_rapports
 youtube_id: C_UTlTiVQ_0
 video-thumbnail: cover.jpg
 title: Comprendre le GIEC et ses rapports
+categories: [policy]
 image-header: header.jpg
 image: cover.jpg
 ---

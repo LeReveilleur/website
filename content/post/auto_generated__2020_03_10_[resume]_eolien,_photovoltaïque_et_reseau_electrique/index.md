@@ -6,6 +6,7 @@ slug: '[resume]_eolien,_photovoltaïque_et_reseau_electrique'
 youtube_id: QnP7YOk3PMs
 video-thumbnail: cover.jpg
 title: '[Résumé] Éolien, photovoltaïque et réseau électrique'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

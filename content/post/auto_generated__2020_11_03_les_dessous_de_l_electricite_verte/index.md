@@ -6,6 +6,7 @@ slug: les_dessous_de_l_electricite_verte
 youtube_id: goceQuwWwKA
 video-thumbnail: cover.jpg
 title: les dessous de l'électricité verte
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

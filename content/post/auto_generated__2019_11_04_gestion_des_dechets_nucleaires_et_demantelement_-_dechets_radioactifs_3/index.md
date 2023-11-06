@@ -6,6 +6,7 @@ slug: gestion_des_dechets_nucleaires_et_demantelement_-_dechets_radioactifs_3
 youtube_id: 8ef25x7sM-I
 video-thumbnail: cover.jpg
 title: 'Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---

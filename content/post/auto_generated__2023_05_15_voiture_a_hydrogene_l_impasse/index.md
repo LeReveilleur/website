@@ -6,6 +6,7 @@ slug: voiture_a_hydrogene_l_impasse
 youtube_id: hNMRSUFuHPg
 video-thumbnail: cover.jpg
 title: 'Voiture à hydrogène: l''impasse ?'
+categories: [transport]
 image-header: header.jpg
 image: cover.jpg
 ---

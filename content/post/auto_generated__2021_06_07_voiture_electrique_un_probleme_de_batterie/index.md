@@ -6,6 +6,7 @@ slug: voiture_electrique_un_probleme_de_batterie
 youtube_id: xVroWRO0duI
 video-thumbnail: cover.jpg
 title: 'Voiture électrique : un problème de batterie ?'
+categories: [transport]
 image-header: header.jpg
 image: cover.jpg
 ---

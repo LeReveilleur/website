@@ -6,6 +6,7 @@ slug: de_la_centrale_aux_dechets_radioactifs_-_dechets_radioactifs_1
 youtube_id: p0zX8eUW_jQ
 video-thumbnail: cover.jpg
 title: 'De la centrale aux déchets radioactifs - Déchets radioactifs #1'
+categories: [energy]
 image-header: header.jpg
 image: cover.jpg
 ---
