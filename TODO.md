@@ -1,5 +1,6 @@
 # TODO
 
+* Add ToS
 * get all the videos from youtube
 * scripts
   * escape all donors names (safety)
