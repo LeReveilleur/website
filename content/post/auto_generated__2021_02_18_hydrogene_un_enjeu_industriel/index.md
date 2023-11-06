@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [énergie, hydrogène, industry]
+tags: [énergie, hydrogène, industrie]
 date: '2021-02-18'
 slug: hydrogene_un_enjeu_industriel
 youtube_id: NB9We5wwGPo
