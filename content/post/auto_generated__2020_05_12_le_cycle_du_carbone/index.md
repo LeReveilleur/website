@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [carbon, science]
+tags: [carbone, science]
 date: '2020-05-12'
 slug: le_cycle_du_carbone
 youtube_id: vHCQk2_8pew

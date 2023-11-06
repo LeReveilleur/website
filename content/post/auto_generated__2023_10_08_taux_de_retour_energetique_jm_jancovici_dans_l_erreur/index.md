@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, science]
+tags: [énergie, science]
 date: '2023-10-08'
 slug: taux_de_retour_energetique_jm_jancovici_dans_l_erreur
 youtube_id: HgfcZeGP7BA

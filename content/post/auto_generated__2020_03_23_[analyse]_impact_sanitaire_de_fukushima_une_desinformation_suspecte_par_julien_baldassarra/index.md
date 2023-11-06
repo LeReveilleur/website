@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [nuclear, analysis]
+tags: [nucléaire, analysis]
 date: '2020-03-23'
 slug: '[analyse]_impact_sanitaire_de_fukushima_une_desinformation_suspecte_par_julien_baldassarra'
 youtube_id: k3mUS3JM4aM

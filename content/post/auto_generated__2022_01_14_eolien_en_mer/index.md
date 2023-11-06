@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, energy, windmill]
+tags: [science, énergie, éolien]
 date: '2022-01-14'
 slug: eolien_en_mer
 youtube_id: xbdUlfYCRwc

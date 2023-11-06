@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [transport, car, electricity]
+tags: [transport, car, électricité]
 date: '2021-06-07'
 slug: voiture_electrique_un_probleme_de_batterie
 youtube_id: xVroWRO0duI

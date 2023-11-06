@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, carbon]
+tags: [science, carbone]
 date: '2020-09-23'
 slug: la_capture_et_sequestration_de_carbone_pour_reduire_nos_emissions_de_co2
 youtube_id: AQlqQEhVi1M

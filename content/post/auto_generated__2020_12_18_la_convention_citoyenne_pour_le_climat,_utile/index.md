@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [politics, society, climate]
+tags: [politique, society, climat]
 date: '2020-12-18'
 slug: la_convention_citoyenne_pour_le_climat,_utile
 youtube_id: yuopYkpmvCo

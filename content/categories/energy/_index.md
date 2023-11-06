@@ -1,7 +1,7 @@
 ---
 title: "Energie"
 description: ""
-slug: "energy"
+slug: "énergie"
 image: "energy.jpg"
 style:
     background: "#2a9d8f"

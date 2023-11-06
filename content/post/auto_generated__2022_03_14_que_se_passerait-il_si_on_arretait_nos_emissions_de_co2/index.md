@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, carbon, climate]
+tags: [science, carbone, climat]
 date: '2022-03-14'
 slug: que_se_passerait-il_si_on_arretait_nos_emissions_de_co2
 youtube_id: iiKuUElvGhM

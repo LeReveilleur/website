@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, electricity]
+tags: [énergie, électricité]
 date: '2020-11-03'
 slug: les_dessous_de_l_electricite_verte
 youtube_id: goceQuwWwKA

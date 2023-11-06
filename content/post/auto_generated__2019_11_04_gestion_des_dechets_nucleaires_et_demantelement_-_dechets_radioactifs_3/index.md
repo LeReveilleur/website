@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, nuclear, nuclear waste]
+tags: [énergie, nucléaire, déchets radioactifs]
 date: '2019-11-04'
 slug: gestion_des_dechets_nucleaires_et_demantelement_-_dechets_radioactifs_3
 youtube_id: 8ef25x7sM-I

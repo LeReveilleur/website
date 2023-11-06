@@ -6,7 +6,7 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
+      - "énergie"
       - "science"
 
   - youtube_id: "C_UTlTiVQ_0"
@@ -16,8 +16,8 @@ videos:
     categories:
       - "policy"
     tags:
-      - "climate"
-      - "politics"
+      - "climat"
+      - "politique"
 
   - youtube_id: "N2fgaITIwZ0"
     title: "Taxe carbone : nécessaire ?"
@@ -26,8 +26,8 @@ videos:
     categories:
       - "policy"
     tags:
-      - "climate"
-      - "politics"
+      - "climat"
+      - "politique"
 
   - youtube_id: "hNMRSUFuHPg"
     title: "Voiture à hydrogène: l'impasse ?"
@@ -37,8 +37,8 @@ videos:
       - "transport"
     tags:
       - "transport"
-      - "energy"
-      - "hydrogen"
+      - "énergie"
+      - "hydrogène"
 
   - youtube_id: "rXlEcth5Gxc"
     title: "Les subtilités de l'effet de serre"
@@ -48,7 +48,7 @@ videos:
       - "science"
     tags:
       - "science"
-      - "climate"
+      - "climat"
 
   - youtube_id: "cN_QaUxRsaw"
     title: "Réchauffement climatique: le rôle de la vapeur d'eau"
@@ -58,8 +58,8 @@ videos:
       - "science"
     tags:
       - "science"
-      - "climate"
-      - "water"
+      - "climat"
+      - "eau"
 
   - youtube_id: "3105ScO53fo"
     title: "Pourquoi la vie galère dans l'océan ?"
@@ -69,8 +69,8 @@ videos:
       - "science"
     tags:
       - "science"
-      - "life"
-      - "water"
+      - "vivant"
+      - "eau"
 
   - youtube_id: "iiKuUElvGhM"
     title: "Que se passerait-il si on arrêtait nos émissions de CO2 ?"
@@ -80,8 +80,8 @@ videos:
       - "science"
     tags:
       - "science"
-      - "carbon"
-      - "climate"
+      - "carbone"
+      - "climat"
  
   - youtube_id: "xbdUlfYCRwc"
     title: "Éolien en mer"
@@ -91,8 +91,8 @@ videos:
       - "energy"
     tags:
       - "science"
-      - "energy"
-      - "windmill"
+      - "énergie"
+      - "éolien"
 
   - youtube_id: "XbrcUz0pu80"
     title: "Quelle électricité pour demain ?"
@@ -101,8 +101,8 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "electricity"
+      - "énergie"
+      - "électricité"
 
   - youtube_id: "OAyYSlMhgI4"
     title: "Les terres rares"
@@ -122,7 +122,7 @@ videos:
     tags:
       - "transport"
       - "car"
-      - "electricity"
+      - "électricité"
 
   - youtube_id: "xVroWRO0duI"
     title: "Voiture électrique : un problème de batterie ?"
@@ -133,7 +133,7 @@ videos:
     tags:
       - "transport"
       - "car"
-      - "electricity"
+      - "électricité"
 
   - youtube_id: "NB9We5wwGPo"
     title: "Hydrogène : un enjeu industriel !"
@@ -142,8 +142,8 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "hydrogen"
+      - "énergie"
+      - "hydrogène"
       - "industry"
 
 
@@ -154,8 +154,8 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "hydrogen"
+      - "énergie"
+      - "hydrogène"
       - "industry"
 
   - youtube_id: "yuopYkpmvCo"
@@ -165,9 +165,9 @@ videos:
     categories:
       - "policy"
     tags:
-      - "politics"
+      - "politique"
       - "society"
-      - "climate"
+      - "climat"
 
   - youtube_id: "goceQuwWwKA"
     title: "les dessous de l'électricité verte"
@@ -176,8 +176,8 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "electricity"
+      - "énergie"
+      - "électricité"
 
   - youtube_id: "AQlqQEhVi1M"
     title: "La Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
@@ -187,7 +187,7 @@ videos:
       - "science"
     tags:
       - "science"
-      - "carbon"
+      - "carbone"
 
   - youtube_id: "NRdaPrMNrkI"
     title: "Les climats du passé"
@@ -197,7 +197,7 @@ videos:
       - "science"
     tags:
       - "science"
-      - "climate"
+      - "climat"
 
   - youtube_id: "Bcg9yDp4Azs"
     title: "Fermeture de Fessenheim, une victoire pour l'écologie ?"
@@ -207,8 +207,8 @@ videos:
       - "policy"
     tags:
       - "industry"
-      - "politics"
-      - "nuclear"
+      - "politique"
+      - "nucléaire"
 
   - youtube_id: "kqBCN-w-lGU"
     title: "[Résumé] Qu'advient-il de nos émissions de CO2 ?"
@@ -217,7 +217,7 @@ videos:
     categories:
       - "science"
     tags:
-      - "carbon"
+      - "carbone"
       - "science"
       - "summary"
 
@@ -231,7 +231,7 @@ videos:
     categories:
       - "science"
     tags:
-      - "carbon"
+      - "carbone"
       - "ocean"
       - "science"
 
@@ -244,7 +244,7 @@ videos:
     categories:
       - "science"
     tags:
-      - "carbon"
+      - "carbone"
       - "science"
 
   - youtube_id: "t-gqGlIcIYA"
@@ -255,7 +255,7 @@ videos:
     categories:
       - "science"
     tags:
-      - "nuclear"
+      - "nucléaire"
       - "analysis"
       - "summary"
 
@@ -267,7 +267,7 @@ videos:
     categories:
       - "science"
     tags:
-      - "nuclear"
+      - "nucléaire"
       - "analysis"
 
   - youtube_id: "uXrhrIw-mwk"
@@ -279,9 +279,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "solar"
-      - "electricity"
+      - "énergie"
+      - "photovoltaïque"
+      - "électricité"
 
   - youtube_id: "QnP7YOk3PMs"
     title: "[Résumé] Éolien, photovoltaïque et réseau électrique"
@@ -291,9 +291,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "solar"
-      - "electricity"
+      - "énergie"
+      - "photovoltaïque"
+      - "électricité"
 
   - youtube_id: "m5zl8NWMfWE"
     title: "Éolien, photovoltaïque et réseau électrique - Partie 1/2"
@@ -304,9 +304,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "solar"
-      - "electricity"
+      - "énergie"
+      - "photovoltaïque"
+      - "électricité"
 
   - youtube_id: "_GvOOfDA-E0"
     title: "[ANNEXE] Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
@@ -327,9 +327,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "nuclear"
-      - "nuclear waste"
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"
 
   - youtube_id: "E3YLYzs_1Es"
     title: "Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
@@ -339,9 +339,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "nuclear"
-      - "nuclear waste"
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"
 
   - youtube_id: "8ef25x7sM-I"
     title: "Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3"
@@ -351,9 +351,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "nuclear"
-      - "nuclear waste"
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"
 
   - youtube_id: "yr-tn-Xj-vw"
     title: "Peut-on faire disparaître les déchets radioactifs ? - Déchets radioactifs #2"
@@ -363,9 +363,9 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "nuclear"
-      - "nuclear waste"
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"
 
   - youtube_id: "p0zX8eUW_jQ"
     title: "De la centrale aux déchets radioactifs - Déchets radioactifs #1"
@@ -376,6 +376,6 @@ videos:
     categories:
       - "energy"
     tags:
-      - "energy"
-      - "nuclear"
-      - "nuclear waste"
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"

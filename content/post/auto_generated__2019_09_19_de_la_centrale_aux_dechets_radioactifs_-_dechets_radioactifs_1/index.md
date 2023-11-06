@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, nuclear, nuclear waste]
+tags: [énergie, nucléaire, déchets radioactifs]
 date: '2019-09-19'
 slug: de_la_centrale_aux_dechets_radioactifs_-_dechets_radioactifs_1
 youtube_id: p0zX8eUW_jQ

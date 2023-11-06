@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, climate, water]
+tags: [science, climat, eau]
 date: '2022-08-17'
 slug: rechauffement_climatique_le_role_de_la_vapeur_d_eau
 youtube_id: cN_QaUxRsaw

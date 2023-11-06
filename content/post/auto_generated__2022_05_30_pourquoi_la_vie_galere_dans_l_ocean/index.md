@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, life, water]
+tags: [science, vivant, eau]
 date: '2022-05-30'
 slug: pourquoi_la_vie_galere_dans_l_ocean
 youtube_id: 3105ScO53fo

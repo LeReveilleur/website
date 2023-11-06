@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [carbon, ocean, science]
+tags: [carbone, ocean, science]
 date: '2020-06-17'
 slug: cycle_du_carbone_oceanique_et_devenir_de_nos_emissions
 youtube_id: NcEI76hJVR0

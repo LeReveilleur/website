@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [carbon, science, summary]
+tags: [carbone, science, summary]
 date: '2020-06-17'
 slug: '[resume]_qu_advient-il_de_nos_emissions_de_co2'
 youtube_id: kqBCN-w-lGU

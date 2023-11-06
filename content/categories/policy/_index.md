@@ -1,7 +1,7 @@
 ---
 title: "Politique"
 description: ""
-slug: "policy"
+slug: "politique"
 image: "policy.jpg"
 style:
     background: "#2a9d8f"

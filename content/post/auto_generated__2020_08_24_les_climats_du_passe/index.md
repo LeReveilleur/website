@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, climate]
+tags: [science, climat]
 date: '2020-08-24'
 slug: les_climats_du_passe
 youtube_id: NRdaPrMNrkI

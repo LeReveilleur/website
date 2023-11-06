@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, nuclear, nuclear waste]
+tags: [énergie, nucléaire, déchets radioactifs]
 date: '2019-12-09'
 slug: '[annexe]_stockage_geologique_profond_des_dechets_radioactifs_-_dechets_radioactifs_4'
 youtube_id: _GvOOfDA-E0

@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, solar, electricity]
+tags: [énergie, photovoltaïque, électricité]
 date: '2020-02-17'
 slug: eolien,_photovoltaïque_et_reseau_electrique_-_partie_1_2
 youtube_id: m5zl8NWMfWE

@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, electricity]
+tags: [énergie, électricité]
 date: '2021-12-21'
 slug: quelle_electricite_pour_demain
 youtube_id: XbrcUz0pu80

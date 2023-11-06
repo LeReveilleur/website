@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [energy, hydrogen, industry]
+tags: [énergie, hydrogène, industry]
 date: '2020-12-29'
 slug: hydrogene_comment_le_produire
 youtube_id: _sqYx8K_m9c
