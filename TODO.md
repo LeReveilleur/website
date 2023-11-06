@@ -1,5 +1,8 @@
 # TODO
 
+* get all the videos from youtube
+* scripts
+  * escape all donors names (safety)
 * i18n for mots clefs and categories
 * get rid of the test category
 * add summary instead of empty description in accueil
