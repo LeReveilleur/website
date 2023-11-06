@@ -41,9 +41,9 @@
 (defn- bucket-range->markdown-content
   [{:keys [bucket-range donors]}]
   (let [title (if (= bucket-range :unmatched)
-                (str "## Autres [" (count donors) "]")
+                (str "## Autres")
                 (let [[s e] bucket-range]
-                  (str "## " (str/upper-case s) " à " (str/upper-case e) " [" (count donors) "]")))
+                  (str "## " (str/upper-case s) " à " (str/upper-case e))))
         section-content (->> donors
                              (mapv (fn [donor] (str "- " donor "\n")))
                              (reduce str ""))]
