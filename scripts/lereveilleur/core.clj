@@ -5,7 +5,8 @@
    [babashka.process :refer [shell]]
    [clj-yaml.core :as yaml]
    [clojure.java.io :as io]
-   [clojure.string :as str]))
+   [clojure.string :as str]
+   [lereveilleur.donors :as donors]))
 
 (def videos-data-path "data/videos.yaml")
 (def prefix-str "auto_generated__")
@@ -387,22 +388,7 @@
 (comment
   (re-pattern (str video-source-folder "(.*).md")))
 
-(defn generate-donors-page!
-  "Generates the donors page that contains all the donators listed with their nicknames."
-  []
-  (println "Generating the donors page based on the file:" donors-filename)
-  (let [donors (->> donors-filename
-                    (slurp)
-                    (str/split-lines)
-                    (remove empty?)
-                    sort
-                    (into []))
-        frontmatter (donors-frontmatter donors)
-        markdown-content (donors-markdown-content donors)
-        content (str frontmatter
-                     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
-                     markdown-content)]
-    (spit donors-content-index-page content)))
+(def generate-donors-page! donors/generate-donors-page!)
 
 (comment
   (generate-donors-page!))

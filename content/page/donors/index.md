@@ -1,7 +1,7 @@
 ---
 title: "Remerciements"
 description: ""
-date: "2023-11-06"
+date: "2023-11-07"
 slug: "remerciements"
 ---
 Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :
