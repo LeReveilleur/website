@@ -1,20 +1,19 @@
 # TODO
 
 * Add ToS
+* update og tags in config
+* Setup Google Analytics
 * get all the videos from youtube
 * scripts
   * escape all donors names (safety)
 * mini serie
   * dechets radioactifs
 * add summary instead of empty description in accueil
-* add a favicon
-* deploy to netlify
 * about page
   * write
   * translate english version
 * i18n
   * about
-  * home
 * Split config into different files
 * Write the readme
   * How to setup
