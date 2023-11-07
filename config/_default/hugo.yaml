@@ -11,11 +11,12 @@ languages:
         title: Le Réveilleur
         weight: 1
         params:
-            description: Example description
+            description: | 
+              La majeure partie de mon travail concerne la vulgarisation des connaissances scientifiques sur l'environnement. Vous trouverez donc plein de choses sur l'épuisement des ressources, le climat et les autres formes de pollution.
 
     en:
         languageName: English
-        title: Example Site
+        title: Le Réveilleur
         weight: 1
         params:
             description: Example description
