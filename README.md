@@ -28,7 +28,10 @@ The content page located at `content/page/donors/index.md` will be updated to in
 ### How to add a new video post?
 
 Add an entry in `data/videos.yaml` following the spec. 
-Then run the following script: `bb generate-video-posts`. The script will automatically generate the article in the folder `content/post` with the name `auto_generated__{$CREATION_DATE}_{$TITLE}`.
+Then run the following script: 
+```bb generate-video-posts```
+
+The script will automatically generate the article in the folder `content/post` with the name `auto_generated__{$CREATION_DATE}_{$TITLE}`.
 
 ### How to add the bibliography sources for a video post?
 
