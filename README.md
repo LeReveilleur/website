@@ -29,7 +29,9 @@ The content page located at `content/page/donors/index.md` will be updated to in
 
 Add an entry in `data/videos.yaml` following the spec. 
 Then run the following script: 
-```bb generate-video-posts```
+```
+bb generate-video-posts
+```
 
 The script will automatically generate the article in the folder `content/post` with the name `auto_generated__{$CREATION_DATE}_{$TITLE}`.
 
