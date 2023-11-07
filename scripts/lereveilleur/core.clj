@@ -11,112 +11,7 @@
 (def videos-data-path "data/videos.yaml")
 (def prefix-str "auto_generated__")
 (def video-source-folder "scripts/data/video/source/")
-(def donors-filename "scripts/data/donors.txt")
-(def donors-content-index-page  "content/page/donors/index.md")
-(def frontmatter-delimiter "---")
 
-;; -------------------------
-;; Utils to work with donors
-;; -------------------------
-
-(defn- current-date []
-  (.format
-   (java.text.SimpleDateFormat. "yyyy-MM-dd")
-   (java.util.Date.)))
-
-(comment
-  (def donors
-    (str/split-lines (slurp donors-filename))))
-
-(comment
-  (filter (fn [donor] (re-find #"(?i)^[^a-z]" donor)) donors))
-
-(defn- greedy-regex-match
-  [range-regexes s]
-  (if (empty? range-regexes)
-    :unmatched
-    (if (re-find (:regex (first range-regexes)) s)
-      (:bucket-range (first range-regexes))
-      (greedy-regex-match (rest range-regexes) s))))
-
-(defn- bucket-range->markdown-content
-  [{:keys [bucket-range donors]}]
-  (let [title (if (= bucket-range :unmatched)
-                (str "## Autres")
-                (let [[s e] bucket-range]
-                  (str "## " (str/upper-case s) " à " (str/upper-case e))))
-        section-content (->> donors
-                             (mapv (fn [donor] (str "- " donor "\n")))
-                             (reduce str ""))]
-    (str title "\n"
-         section-content "\n")))
-
-(defn donors-frontmatter [donors]
-  (str frontmatter-delimiter "\n"
-       "title: \"Remerciements\"\n"
-       "description: \"\"\n"
-       (str "date: \"" (current-date) "\"\n")
-       "slug: \"remerciements\"\n"
-       frontmatter-delimiter "\n"))
-
-(defn- donors-markdown-content
-  [donors]
-  (let [exclusive-ranges [["a" "d"]
-                          ["e" "h"]
-                          ["i" "l"]
-                          ["m" "p"]
-                          ["q" "t"]
-                          ["u" "z"]]
-        bucket-regexes (mapv (fn [[s e]]
-                               {:bucket-range [s e]
-                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))})
-                             exclusive-ranges)
-        bucket-range->donors (group-by (partial greedy-regex-match bucket-regexes) donors)]
-    (->> (into exclusive-ranges [:unmatched])
-         (mapv (fn [bucket-range] (bucket-range->markdown-content
-                                   {:bucket-range bucket-range
-                                    :donors (get bucket-range->donors bucket-range)})))
-         (reduce str))))
-
-(comment
-  (donors-markdown-content donors))
-
-(comment
-  (let [sorted-donors (->> donors
-                           (remove empty?)
-                           (sort))]
-    [(count donors)
-     (count sorted-donors)])
-  (let [exclusive-ranges [["a" "d"]
-                          ["e" "h"]
-                          ["i" "l"]
-                          ["m" "p"]
-                          ["q" "t"]
-                          ["u" "z"]]
-        bucket-regexes (mapv (fn [[s e]]
-                               {:range [s e]
-                                :regex (re-pattern (str "(?i)^[" s "-" e "]"))})
-                             exclusive-ranges)
-        bucket-range->donors (group-by (partial greedy-regex-match bucket-regexes) donors)]
-    (->> (into exclusive-ranges [:unmatched])
-         (mapv (fn [bucket-range] (bucket-range->markdown-content
-                                   {:bucket-range bucket-range
-                                    :donors (get bucket-range->donors bucket-range)})))
-         (reduce str))
-    ; bucket-range
-
-    ; (map (fn [[r xs]] [r (count xs)]) bucket-range->donors)
-    ; (->> bucket-regexes
-    ;      (mapv (fn [bucket-regex])))
-    ; (->> donors 
-    ;      (filter (fn [donor] (re-find regex donor)))
-    ;      (count))
-    #_(->> donors
-           (map (fn [donor] [donor (re-find (first bucket-predicates) donor)]))
-           (drop 10)
-           (take 10))))
-
-;; -------------------------------
 ;; Utils to work with bibliography
 ;; -------------------------------
 
@@ -168,13 +63,6 @@
                       (merge {:index-filename index-filename
                               :index-markdown (slurp index-filename)}))])))
          (into {}))))
-         ; first
-         ; second
-         ; :index-markdown)))
-
-         ; (mapv (fn [source-path] [(source-path->youtube-id source-path)
-         ;                          (source-path->markdown! source-path)]))
-         ; (into {}))))
 
 ;; --------------------------------------
 ;; End of Utils to work with bibliography
