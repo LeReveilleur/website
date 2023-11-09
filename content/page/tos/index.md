@@ -2,6 +2,7 @@
 title: "Conditions d'utilisation"
 date: '2018-09-07'
 slug: tos
+hideLastModified: true
 readingTime: true
 ---
 
