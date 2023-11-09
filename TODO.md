@@ -1,7 +1,7 @@
 # TODO
 
+* Add dates to video posts
 * Add ToS
-* update og tags in config
 * Setup Google Analytics
 * get all the videos from youtube
 * scripts

@@ -1,7 +1,8 @@
 ---
 title: Qui suis-je?
 description: ""
-date: '2023-10-26'
+# date: '2023-10-26'
+readingTime: false
 menu:
     main: 
         weight: -90
