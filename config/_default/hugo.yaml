@@ -69,7 +69,7 @@ params:
 
     sidebar:
         # emoji: 🍥
-        subtitle: Il est l'heure de se réveiller sur les enjeux environnementaux
+        subtitle: Il est l'heure de se réveiller face aux enjeux environnementaux
         avatar:
             enabled: true
             local: true
