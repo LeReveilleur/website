@@ -1,0 +1,32 @@
+.contact-form {
+    label {
+        display: block;
+    }
+    input {
+        width: 100%;
+        padding: 1rem;
+        background-color: #efefee;
+        border: 1px solid #dadada;
+        margin-bottom: 1em;
+    }
+    textarea {
+        width: 100%;
+        min-height: 150px;
+        padding: 1rem;
+        background-color: #efefee;
+        border: 1px solid #dadada;
+        margin-bottom: 1em;
+    }
+    button {
+        border: none;
+        cursor: pointer;
+        font-size: 30px;
+        padding: 8px 16px;
+        border-radius: 4px;
+        display: inline-block;
+        font-size: 1.4rem;
+        margin-right: 15px;
+        background-color: var(--accent-color);
+        color: var(--accent-color-text);
+    }
+}
