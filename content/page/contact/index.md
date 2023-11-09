@@ -2,6 +2,7 @@
 title: "Contact"
 slug: "contact"
 readingTime: false
+hideLastModified: true
 menu:
     main: 
         weight: 10
