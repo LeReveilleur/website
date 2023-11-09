@@ -36,6 +36,7 @@
        "title: \"Remerciements\"\n"
        "description: \"\"\n"
        (str "date: \"" (current-date) "\"\n")
+       "hideLastModified: true\n"
        "slug: \"remerciements\"\n"
        frontmatter-delimiter "\n"))
 
