@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [science, Le Monde, climat]
+tags: [science, Le Monde, collaboration, climat]
 date: '2021-07-11'
 slug: comment_le_rechauffement_climatique_va_bouleverser_l’humanite
 youtube_id: 8nzRXxPnlPQ
