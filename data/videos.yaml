@@ -452,3 +452,21 @@ videos:
       - "nucléaire"
       - "uranium"
       - "ressources"
+
+  - youtube_id: "utyT8Z4qEaA"
+    title: "Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire"
+    description: |
+      Mesure des rayonnement (4:19)<br>
+      Effets Déterministes (7:48)<br>
+      Effets Stochastiques (14:39)<br>
+      Impact sanitaires des Bombes d’Hiroshima et Nagasaki (18:58)<br>
+      Connaissances sur les doses inférieurs à 100mSv (26:41)<br>
+      Impacts sanitaires : Tchernobyl (33:53)<br>
+      Impacts sanitaires : Fukushima (43:42)<br>
+      Conclusion (50:17)
+    date: "2019-05-08"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "nucléaire"
