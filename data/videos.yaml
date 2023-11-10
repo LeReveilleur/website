@@ -9,16 +9,6 @@ videos:
       - "énergie"
       - "science"
 
-  - youtube_id: "C_UTlTiVQ_0"
-    title: "Comprendre le GIEC et ses rapports"
-    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)." 
-    date: "2021-08-08"
-    categories:
-      - "policy"
-    tags:
-      - "climat"
-      - "politique"
-
   - youtube_id: "N2fgaITIwZ0"
     title: "Taxe carbone : nécessaire ?"
     description: "Ici, on voit ce qu’est une tarification du carbone, quelles sont les émissions ciblées et quels sont ses avantages et ses insuffisances. Je me concentre sur les propriétés d'une tarification du carbone qui s'appliquerait au niveau mondial."
@@ -112,6 +102,16 @@ videos:
       - "energy"
       - "resource"
       - "metals"
+
+  - youtube_id: "C_UTlTiVQ_0"
+    title: "Comprendre le GIEC et ses rapports"
+    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)." 
+    date: "2021-08-08"
+    categories:
+      - "policy"
+    tags:
+      - "climat"
+      - "politique"
 
   - youtube_id: "zjaUqUozwdc"
     title: "La voiture électrique est-elle écologique ?"
