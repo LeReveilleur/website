@@ -481,3 +481,16 @@ videos:
     tags:
       - "énergie"
       - "stockage"
+
+  - youtube_id: "mqAaokrY1NU"
+    title: "[Analyse] Analyse du discours d'un climato-sceptique : François Gervais. (2/2)"
+    description: |
+      Dans cette vidéo, j’analyse en profondeur une partie (de 25:40 à 34:40) de la conférence de M. Gervais.
+    date: "2019-03-11"
+    categories:
+      - "policy"
+    tags:
+      - "science"
+      - "politique"
+      - "analyse" 
+      - "climatosceptique"
