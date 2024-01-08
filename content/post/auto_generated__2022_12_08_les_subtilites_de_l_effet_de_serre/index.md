@@ -15,4 +15,7 @@ image: cover.jpg
 
 {{< youtube rXlEcth5Gxc >}}
 
-Dans cette vidéo, je fais le bilan énergétique de la Terre pour comprendre son climat. Ce qui m'amène à expliquer le phénomène physique de l'effet de serre qui joue un rôle indiscutable dans la température à la surface de notre belle planète.
+Dans cette vidéo, je fais le bilan énergétique de la Terre pour
+comprendre son climat. Ce qui m'amène à expliquer le phénomène physique
+de l'effet de serre qui joue un rôle indiscutable dans la température à
+la surface de notre belle planète.

@@ -15,7 +15,11 @@ image: cover.jpg
 
 {{< youtube HgfcZeGP7BA >}}
 
-Le taux de retour énergétique est le ratio entre l’énergie délivrée par un système énergétique et l’énergie investie dans ce système. J'essaye de comprendre quelles sont les implications de ce concept pour la transition énergétique et j'analyse certains discours qui s'en servent.
+Le taux de retour énergétique est le ratio entre l’énergie délivrée par
+un système énergétique et l’énergie investie dans ce système. J'essaye de
+comprendre quelles sont les implications de ce concept pour la transition
+énergétique et j'analyse certains discours qui s'en servent.
+
 
 <hr>
 

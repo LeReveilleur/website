@@ -15,4 +15,10 @@ image: cover.jpg
 
 {{< youtube uIXEnRB7TXc >}}
 
-Bienvenue dans cette vidéo où je vous parle d'abord des ressources ultimes d'uranium, de quelques considérations sur le prix de cette ressource et des ressources non conventionnelles. On voit ensuite comment (et par qui) l'uranium est extrait. J'explique aussi la fission nucléaire et l'incroyable densité énergétique de l'uranium avant d'aborder l'enrichissement. Je finis en parlant de la surgénération avant de conclure.
+Bienvenue dans cette vidéo où je vous parle d'abord des ressources
+ultimes d'uranium, de quelques considérations sur le prix de cette
+ressource et des ressources non conventionnelles. On voit ensuite comment
+(et par qui) l'uranium est extrait. J'explique aussi la fission nucléaire
+et l'incroyable densité énergétique de l'uranium avant d'aborder
+l'enrichissement. Je finis en parlant de la surgénération avant de
+conclure.

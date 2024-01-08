@@ -1,7 +1,12 @@
+---
 videos:
   - youtube_id: "HgfcZeGP7BA"
     title: "Taux de retour énergétique : J.M. Jancovici dans l'erreur ?"
-    description: "Le taux de retour énergétique est le ratio entre l’énergie délivrée par un système énergétique et l’énergie investie dans ce système. J'essaye de comprendre quelles sont les implications de ce concept pour la transition énergétique et j'analyse certains discours qui s'en servent." 
+    description: |
+      Le taux de retour énergétique est le ratio entre l’énergie délivrée par
+      un système énergétique et l’énergie investie dans ce système. J'essaye de
+      comprendre quelles sont les implications de ce concept pour la transition
+      énergétique et j'analyse certains discours qui s'en servent.
     date: "2023-10-08"
     categories:
       - "energy"
@@ -11,7 +16,11 @@ videos:
 
   - youtube_id: "N2fgaITIwZ0"
     title: "Taxe carbone : nécessaire ?"
-    description: "Ici, on voit ce qu’est une tarification du carbone, quelles sont les émissions ciblées et quels sont ses avantages et ses insuffisances. Je me concentre sur les propriétés d'une tarification du carbone qui s'appliquerait au niveau mondial."
+    description: |
+      Ici, on voit ce qu’est une tarification du carbone, quelles sont les
+      émissions ciblées et quels sont ses avantages et ses insuffisances. Je me
+      concentre sur les propriétés d'une tarification du carbone qui
+      s'appliquerait au niveau mondial.
     date: "2023-06-06"
     categories:
       - "policy"
@@ -32,7 +41,11 @@ videos:
 
   - youtube_id: "rXlEcth5Gxc"
     title: "Les subtilités de l'effet de serre"
-    description: "Dans cette vidéo, je fais le bilan énergétique de la Terre pour comprendre son climat. Ce qui m'amène à expliquer le phénomène physique de l'effet de serre qui joue un rôle indiscutable dans la température à la surface de notre belle planète."
+    description: |
+      Dans cette vidéo, je fais le bilan énergétique de la Terre pour
+      comprendre son climat. Ce qui m'amène à expliquer le phénomène physique
+      de l'effet de serre qui joue un rôle indiscutable dans la température à
+      la surface de notre belle planète.
     date: "2022-12-08"
     categories:
       - "science"
@@ -42,7 +55,14 @@ videos:
 
   - youtube_id: "cN_QaUxRsaw"
     title: "Réchauffement climatique: le rôle de la vapeur d'eau"
-    description: "Je fais le point sur le rôle de la vapeur d'eau dans le changement climatique. Qu'est-ce qui fixe le contenu en vapeur d'eau dans l'atmosphère ? La vapeur d'eau peut-elle causer un changement climatique ? Peut-elle agir sur les changements climatiques sans être une cause ? Son rôle est-il étudié par les climatologues ? Est-ce que les émissions de vapeur d'eau par les sociétés humaines ont une influence sur le climat ?"
+    description: |
+      Je fais le point sur le rôle de la vapeur d'eau dans le changement
+      climatique. Qu'est-ce qui fixe le contenu en vapeur d'eau dans
+      l'atmosphère ? La vapeur d'eau peut-elle causer un changement climatique
+      ? Peut-elle agir sur les changements climatiques sans être une cause ?
+      Son rôle est-il étudié par les climatologues ? Est-ce que les émissions
+      de vapeur d'eau par les sociétés humaines ont une influence sur le climat
+      ?
     date: "2022-08-17"
     categories:
       - "science"
@@ -53,7 +73,14 @@ videos:
 
   - youtube_id: "3105ScO53fo"
     title: "Pourquoi la vie galère dans l'océan ?"
-    description: "Dans cette vidéo, je vous parle du fonctionnement de la vie dans les océans et en particulier des limites que rencontrent le développement du phytoplancton. Après une explication des grands mécanismes qui fixent la fertilité dans les océans, je vous parle plus particulièrement de l'expédition océanographique Tonga. Vous présenter ces travaux me permet de toucher quelques mots de l'importance de la recherche sur ces enjeux et d'une idée de géoingénierie: la fertilisation de l'océan par du fer."
+    description: |
+      Dans cette vidéo, je vous parle du fonctionnement de la vie dans les
+      océans et en particulier des limites que rencontrent le développement du
+      phytoplancton. Après une explication des grands mécanismes qui fixent la
+      fertilité dans les océans, je vous parle plus particulièrement de
+      l'expédition océanographique Tonga. Vous présenter ces travaux me permet
+      de toucher quelques mots de l'importance de la recherche sur ces enjeux
+      et d'une idée de géoingénierie: la fertilisation de l'océan par du fer.
     date: "2022-05-30"
     categories:
       - "science"
@@ -64,7 +91,11 @@ videos:
 
   - youtube_id: "iiKuUElvGhM"
     title: "Que se passerait-il si on arrêtait nos émissions de CO2 ?"
-    description: "Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ? Et si on prend en compte l'inertie de nos sociétés ? Y a-t-il des conséquences de nos émissions avec de longues inerties ?"
+    description: |
+      Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les
+      émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ?
+      Et si on prend en compte l'inertie de nos sociétés ? Y a-t-il des
+      conséquences de nos émissions avec de longues inerties ?
     date: "2022-03-14"
     categories:
       - "science"
@@ -72,10 +103,10 @@ videos:
       - "science"
       - "carbone"
       - "climat"
- 
+
   - youtube_id: "xbdUlfYCRwc"
     title: "Éolien en mer"
-    description: "Cette vidéo est financée par le débat public \"Éoliennes en mer Nouvelle-Aquitaine\""
+    description: 'Cette vidéo est financée par le débat public "Éoliennes en mer Nouvelle-Aquitaine"'
     date: "2022-01-14"
     categories:
       - "energy"
@@ -105,7 +136,7 @@ videos:
 
   - youtube_id: "C_UTlTiVQ_0"
     title: "Comprendre le GIEC et ses rapports"
-    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)." 
+    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)."
     date: "2021-08-08"
     categories:
       - "policy"
@@ -168,329 +199,3 @@ videos:
     date: "2021-06-07"
     categories:
       - "transport"
-    tags:
-      - "transport"
-      - "car"
-      - "électricité"
-
-  - youtube_id: "xVroWRO0duI"
-    title: "Voiture électrique : un problème de batterie ?"
-    description: "Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique."
-    date: "2021-06-07"
-    categories:
-      - "transport"
-    tags:
-      - "transport"
-      - "car"
-      - "électricité"
-
-  - youtube_id: "NB9We5wwGPo"
-    title: "Hydrogène : un enjeu industriel !"
-    description: "Dans cette seconde vidéo sur l'hydrogène, je m'intéresse aux grands usages industriels de l'hydrogène. Aujourd'hui, la majorité de l'hydrogène produit dans le monde l'est à partir de ressources fossiles et sert au raffinage et à la production d'ammoniac, de méthanol et d'acier. Réussir à réduire les émissions de cette production existante d'hydrogène est un enjeu industriel important pour la transition énergétique. De l'hydrogène produit avec peu d'émissions pourrait également réduire considérablement les émissions de la production d'acier qui repose, encore aujourd'hui, principalement sur le charbon."
-    date: "2021-02-18"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "hydrogène"
-      - "industrie"
-
-
-  - youtube_id: "_sqYx8K_m9c"
-    title: "Hydrogène : comment le produire ?"
-    description: "Dans cette première vidéo sur l'hydrogène, je m'intéresse à sa production. Après un rapide détour par l'hydrogène naturel, je détaille la production à partir de ressources fossiles très majoritaire aujourd'hui. Je parle ensuite de l'électrolyse (on reviendra dessus dans la prochaine vidéo sur l'hydrogène). Puis, j'expose le sujet de la capture et séquestration de carbone qui est très présent dans les documents scientifiques traitant de l'hydrogène. Enfin, je me penche sur des modes de production moins matures mais avec du potentiel (craquage du méthane, cycles thermochimiques... etc)."
-    date: "2020-12-29"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "hydrogène"
-      - "industrie"
-
-  - youtube_id: "yuopYkpmvCo"
-    title: "La Convention Citoyenne pour le Climat, utile ?"
-    description: "Dans cette vidéo, je me sers de la proposition de passer la vitesse de 130 km/h à 110 km/h pour mettre en évidence la complexité à apprécier ce type de proposition et l'intérêt des conventions citoyennes pour aborder des problèmes politiquement complexes."
-    date: "2020-12-18"
-    categories:
-      - "policy"
-    tags:
-      - "politique"
-      - "society"
-      - "climat"
-
-  - youtube_id: "goceQuwWwKA"
-    title: "les dessous de l'électricité verte"
-    description: "dans cette vidéo je vous parle des offres d'électricité \"verte\", ou plutôt, des offres d'électricité 100% renouvelable. vous comprendrez comment fonctionne ces offres et, du coup, quels sont leurs implications, leurs avantages et leurs limites."
-    date: "2020-11-03"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "électricité"
-
-  - youtube_id: "AQlqQEhVi1M"
-    title: "La Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
-    description: "Dans cette vidéo, je vous parle de la Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
-    date: "2020-09-23"
-    categories:
-      - "science"
-    tags:
-      - "science"
-      - "carbone"
-
-  - youtube_id: "NRdaPrMNrkI"
-    title: "Les climats du passé"
-    description: "Dans cette vidéo, je vous parle des climats du passé et de l'évolution de la concentration en CO2 atmosphérique sur le très long terme (supérieur au million d'années). Le plan de la vidéo est disponible dans la barre de lecture pour vous y retrouver rapidement."
-    date: "2020-08-24"
-    categories:
-      - "science"
-    tags:
-      - "science"
-      - "climat"
-
-  - youtube_id: "Bcg9yDp4Azs"
-    title: "Fermeture de Fessenheim, une victoire pour l'écologie ?"
-    description: "Dans cette vidéo, je vous parle de la fermeture de la centrale nucléaire de Fessenheim."
-    date: "2020-08-08"
-    categories:
-      - "policy"
-    tags:
-      - "industrie"
-      - "politique"
-      - "nucléaire"
-
-  - youtube_id: "kqBCN-w-lGU"
-    title: "[Résumé] Qu'advient-il de nos émissions de CO2 ?"
-    description: "Dans cette vidéo, je présente le devenir de nos émissions de CO2. On voit qu'une fraction d'un surplus de CO2 atmosphérique est rapidement sorti de l'atmosphère alors qu'une autre fraction va y rester pour un temps long (plus de 10 000 ans). Ce sont les océans qui jouent un rôle de premier plan dans la réduction à long terme du cycle de la concentration en CO2 atmosphérique."
-    date: "2020-06-17"
-    categories:
-      - "science"
-    tags:
-      - "carbone"
-      - "science"
-      - "summary"
-
-  - youtube_id: "NcEI76hJVR0"
-    title: "Cycle du carbone océanique et devenir de nos émissions"
-    description: | 
-      Dans cette vidéo, je décris la partie océanique du cycle du carbone pour comprendre combien de temps nos émissions de CO2 vont rester dans l'atmosphère.
-
-      On voit d'abord la structure des océans et la circulation océanique avant de s'intéresser à la vie dans les océans. Pour compléter notre cycle du carbone océanique, il faut s'intéresser au calcaire produit par les organismes marins. Du carbone organique et du calcaire peuvent, à terme, former des roches sédimentaires ce qui fait entrer du carbone dans une longue boucle de plusieurs centaines de milliers d'années. Les mécanismes décrits permettent de parler du devenir de nos émissions de CO2.
-    date: "2020-06-17"
-    categories:
-      - "science"
-    tags:
-      - "carbone"
-      - "ocean"
-      - "science"
-
-  - youtube_id: "vHCQk2_8pew"
-    title: "Le cycle du carbone"
-    description: | 
-      Dans cette vidéo, je vous présente le cycle du carbone. Je commence par parler du carbone dans le corps humain avant de voir le carbone stocké par les organismes vivants. La variation saisonnière de la concentration en CO2 atmosphérique permet de montrer que le carbone dans la végétation et celui de l'atmosphère se comporte comme de l'eau dans des vases communicants, c'est la même chose pour le carbone en surface des océans et celui de l'atmosphère. 
-      Avec tout ce qu'on sait, on peut regarder un peu ce qu'il s'est passé pendant les derniers millénaires. Je présente ensuite les modifications récentes (depuis 1850) du cycle du carbone: combustion de ressources fossiles, changement d'affectation des sols, flux de carbone continentaux, flux de carbone océaniques avant de quantifier tous ces flux et d'aborder la question des stocks de carbone sur Terre.
-    date: "2020-05-12"
-    categories:
-      - "science"
-    tags:
-      - "carbone"
-      - "science"
-
-  - youtube_id: "t-gqGlIcIYA"
-    title: "[Résumé][Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra"
-    description: |
-      Cette vidéo est un résumé de la précédente où je réponds à un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo 
-    date: "2020-03-23"
-    categories:
-      - "science"
-    tags:
-      - "nucléaire"
-      - "analysis"
-      - "summary"
-
-  - youtube_id: "k3mUS3JM4aM"
-    title: "[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra"
-    description: |
-      Dans cette vidéo, j'analyse longuement un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo.
-    date: "2020-03-23"
-    categories:
-      - "science"
-    tags:
-      - "nucléaire"
-      - "analysis"
-
-  - youtube_id: "uXrhrIw-mwk"
-    title: "Éolien, photovoltaïque et réseau électrique - Partie 2/2"
-    description: |
-      Dans cette vidéo, je continue de regarder quelles sont les contraintes que la physique de l'électricité et du réseau impose aux moyens de production intermittents (éolien et photovoltaïque). Après un passage rapide sur le stockage qui aura le droit à d'autres vidéos, je parle du couplage sectoriel et du pilotage de la demande. Comme toutes les techniques abordées ne sont pas suffisantes pour gérer l'intermittence, il faut compléter la production avec des moyens de production pilotables.
-      Je vous parle ensuite de l'effet des moyen de productions intermittent sur la structure du réseau électrique, sur l'équilibrage du réseau électrique et sur son inertie. C'est le moment de se rendre compte que les moyens intermittents ne participent pas à la stabilité du réseau électrique ou à sa résistance à des perturbations. Je finis en parlant des coûts d'intégration, de leur évolution en fonction du pourcentage de moyens intermittents et de la production électrique européenne.
-    date: "2020-03-10"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "photovoltaïque"
-      - "électricité"
-
-  - youtube_id: "QnP7YOk3PMs"
-    title: "[Résumé] Éolien, photovoltaïque et réseau électrique"
-    description: |
-      Dans cette vidéo, je regarde quelles sont les contraintes que la physique de l'électricité et du réseau électrique impose aux différents modes de production et en particulier aux moyens intermittents comme l'éolien ou le photovoltaïque. La variabilité subie de ces moyens de production rend leur intégration dans le réseau électrique difficile parce que, sur le réseau, il faut toujours que production et consommation électrique soient en équilibre. J'explique donc quelles sont les techniques qu'on peut utiliser pour intégrer plus de moyens intermittents et quels sont les limites de cette intégration.
-    date: "2020-03-10"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "photovoltaïque"
-      - "électricité"
-
-  - youtube_id: "m5zl8NWMfWE"
-    title: "Éolien, photovoltaïque et réseau électrique - Partie 1/2"
-    description: |
-       Dans cette vidéo, je regarde quelles sont les contraintes que la physique de l'électricité et du réseau électrique impose aux différents modes de production. J'explique d'abord comment les réseaux électriques fonctionnaient jusque-là avec des centrales électriques fonctionnant "en base" et d'autres modulant leur production pour ajuster la production électrique à la demande. L'arrivée de moyens de production dits intermittents, notamment la production éolienne et photovoltaïque, chamboulent ce fonctionnement historique. Puisqu'on ne contrôle pas la météo, la variabilité de ces moyens de productions est subie et le reste du système de production électrique doit s'adapter en conséquence.<br><br>
-       Je quantifie cette intermittence (10:47). Je parle ensuite du foisonnement (13:56), l'idée que vu qu'il y aurait toujours du vent quelque part, il suffirait de répartir géographiquement les moyens renouvelables intermittents pour pallier l'intermittence. Ce qui nous amène à parler un peu des échanges d'électricité entre pays européens (20:02). Enfin, je parle de l'écrêtement (22:55), la possibilité de surdimensionner les moyens de production intermittents pour augmenter la part de l'électricité pouvant être produit par ces moyens au prix d'une faible surproduction.
-    date: "2020-02-17"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "photovoltaïque"
-      - "électricité"
-
-  - youtube_id: "_GvOOfDA-E0"
-    title: "[ANNEXE] Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
-    description: |
-      Cette vidéo est une annexe à la vidéo sur le stockage géologique profond qu'il vaut mieux avoir vu avant.<br>
-      Dans cette vidéo, je vous parle des alternatives au stockage géologique profond:
-      - Les immersions de déchets solides en mer (0:20)
-      - Les rejets liquides qui ont encore lieu (2:50)
-      - Le stockage dans les fonds marins ou utilisant la subduction (5:07)
-      - L'envoi de déchets dans l'espace (5:47)
-      - Leur stockage dans des glaciers (6:30)
-      - Les stocker sur des sites déjà contaminés (Tchernobyl, mines... etc) (6:55)
-      - Le stockage en forage (7:30).
-      <br><br>
-
-       On voit ensuite un mode de gestion possible en cas de catastrophe (9:18), les problématiques de l'hydrogène, des déchets bitumineux et des incendies (10:40) et le stockage géologique ailleurs dans le monde (13:57).
-    date: "2019-12-09"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "déchets radioactifs"
-
-  - youtube_id: "E3YLYzs_1Es"
-    title: "Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
-    description: |
-      Dans cette quatrième vidéo sur les déchets radioactifs, je vous parle enfin du mode préférentielle pour la gestion à long terme (sur des dizaines de milliers d’années) des déchets radioactifs les plus dangereux: le stockage géologique profond. Après un résumé rapide des épisodes précédents, je rappelle la problématique: Comment s’assurer que la radioactivité des déchets de haute activité et de moyenne activité à vie longue ne présente pas de risques pour l’environnement et les sociétés humaines sur le long terme. Je présente les principes généraux du stockage géologique profond avant d’exposer la fascinante anecdote des réacteurs naturels d’Oklo (10:28). Je me concentre ensuite le projet Cigéo: le projet français de stockage géologique profond (14:22). J’y aborde pleins d’aspects différents: refroidissement des colis (17:33), impacts des fuites de radionucléides (22:26) ou encore la question de la mémoire (24:42). Je prends aussi le temps d’expliquer l’impact de ce stockage sur les émissions de CO2 du nucléaire (32:40) et je touche quelques mots des opposants et de Greenpeace en particulier (35:39) avant de conclure (39:00).
-    date: "2019-12-09"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "déchets radioactifs"
-
-  - youtube_id: "8ef25x7sM-I"
-    title: "Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3"
-    description: |
-      Dans cette troisième vidéo, on va s'intéresser à tous les déchets radioactifs ! Dans un premier temps (1:56), je vous parle des déchets radioactifs à vie très courte (avec une période radioactive de moins de 100 jours) qui sont majoritairement produits par le médical. Je vous parle ensuite (8:32) des déchets radioactifs de moyenne activité à vie longue qui posent des problèmes assez proches des déchets de haute activité dont on a parlé dans les deux dernières vidéos. Ces déchets sont radioactifs à cause du phénomène d'activation neutronique qui est aussi responsable de la radioactivité résiduelle dans les centrales nucléaires à l'arrêt. C'est donc l'occasion de vous parler du démantèlement des centrales nucléaires (15:00). Je vous explique comment on démantèle, quels sont les enjeux, les coûts... etc. Du coup, j'aborde deux autres catégories de déchets qui forment l'essentiel des déchets produits par le démantèlement des centrales nucléaires: les déchets de faible et moyenne à vie courte (25:00) et les déchets radioactifs de très faible activité (26:38). Après un passage par la dernière catégorie de déchets radioactifs, celle des déchets de faible activité à vie longue (39:18), il est temps de conclure (43:15).
-    date: "2019-11-04"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "déchets radioactifs"
-
-  - youtube_id: "yr-tn-Xj-vw"
-    title: "Peut-on faire disparaître les déchets radioactifs ? - Déchets radioactifs #2"
-    description: |
-      Dans cette seconde vidéo sur les déchets radioactifs, j'explique comment on essaye de réduire la radiotoxicité des déchets radioactifs. Je parle donc de la transmutation. La logique de la transmutation des déchets radioactifs est de modifier la structure de certains radionucléides pour les rendre moins dangereux. La transmutation a des avantages mais également des défauts qui limitent considérablement son usage aujourd'hui et questionne son usage à l'avenir (7:18). J'aborde notamment la transmutation par laser qui a beaucoup fait parler d'elle, malgré des applications limitées (9:18). Je me penche ensuite sur le MOx (14:50): ce combustible qu'on produit à partir du plutonium issu du retraitement et de l'uranium appauvri. C'est l'occasion de parler de l'utilisation potentielle du plutonium de retraitement dans des bombes nucléaires et des avantages environnementaux du MOx qui est, au final, une forme de recyclage partielle des déchets nucléaires. Enfin, je discute un peu de l'influence du futur du nucléaire (déploiement d'une quatrième génération ou arrêt du nucléaire) sur la question des déchets radioactifs (32:36) avant de conclure (38:24).
-    date: "2019-10-10"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "déchets radioactifs"
-
-  - youtube_id: "p0zX8eUW_jQ"
-    title: "De la centrale aux déchets radioactifs - Déchets radioactifs #1"
-    description: |
-      Dans cette vidéo, j'introduis le sujet des déchets radioactifs. J'explique rapidement ma méthode et je donne quelques sources utiles. Je définis ensuite ce qu'est un déchet radioactif et j'oriente la vidéo vers les déchets dits de "haute activité" qui sont les plus dangereux. C'est l'occasion de rappeler la différence entre danger et risque qui est fondamentale pour bien comprendre cette question. Je m'intéresse ensuite à ce qu'il y a dans le combustible usé des centrales nucléaires et la façon dont on le gère. Après un entreposage obligatoire en piscine, le combustible usé est entièrement considéré comme un déchet radioactif dans certains pays (dont les États-Unis) avant d'être entreposé à sec. D'autres pays (dont la France) ont fait le choix de retraiter le combustible et donc de séparer les éléments les plus gênants (produits de fission et actinides mineurs) des éléments valorisables (uranium et plutonium).<br><br>
-      Dans la prochaine vidéo de cette mini-série, on parlera de la transmutation, du combustible MOx (avantage et défauts) et, logiquement, de l'influence du futur du nucléaire sur la gestion de ces déchets.
-    date: "2019-09-19"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "déchets radioactifs"
-
-  - youtube_id: "HMystmGbctw"
-    title: "Fonctionnement des centrales nucléaires (canicule, tritium, durée de vie...)"
-    description: |
-      Dans cette vidéo, je vous parle du fonctionnement des centrales nucléaires et, plus précisément, des réacteurs à eau pressurisée puisque c'est la technologie dominante dans le monde et la seule exploitée en France. Après une explication du fonctionnement, on s'intéresse plus précisément à l'évacuation de la chaleur et aux besoins en eau (13:35), ce qui m'amène à parler des effets des canicules (16:56). Je parle ensuite des rejets des centrales en fonctionnement normal et notamment du tritium (20:08). J'aborde ensuite un sujet peu évoqué: la cogénération nucléaire, donc la possibilité de produire de la chaleur avec le nucléaire (24:53). Enfin, je vous parle des émissions de dioxyde de carbone (28:23), du facteur de charge (30:05), du caractère pilotable du nucléaire (31:40), du taux de retour énergétique (34:35), de la sûreté (et notamment des barrières de confinement) (35:38) pour finir par la durée de vie et l'entretien des centrales nucléaires (37:44).
-    date: "2019-07-26"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-
-  - youtube_id: "uIXEnRB7TXc"
-    title: "Les ressources d'uranium"
-    description: |
-      Bienvenue dans cette vidéo où je vous parle d'abord des ressources ultimes d'uranium, de quelques considérations sur le prix de cette ressource et des ressources non conventionnelles. On voit ensuite comment (et par qui) l'uranium est extrait. J'explique aussi la fission nucléaire et l'incroyable densité énergétique de l'uranium avant d'aborder l'enrichissement. Je finis en parlant de la surgénération avant de conclure.
-    date: "2019-07-01"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-      - "uranium"
-      - "ressources"
-
-  - youtube_id: "utyT8Z4qEaA"
-    title: "Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire"
-    description: |
-      Mesure des rayonnement (4:19)<br>
-      Effets Déterministes (7:48)<br>
-      Effets Stochastiques (14:39)<br>
-      Impact sanitaires des Bombes d’Hiroshima et Nagasaki (18:58)<br>
-      Connaissances sur les doses inférieurs à 100mSv (26:41)<br>
-      Impacts sanitaires : Tchernobyl (33:53)<br>
-      Impacts sanitaires : Fukushima (43:42)<br>
-      Conclusion (50:17)
-    date: "2019-05-08"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "nucléaire"
-
-  - youtube_id: "S6Y4XVa8tew"
-    title: "Un stockage en béton ?"
-    description: |
-      Dans cette vidéo, je vous parle d’une solution de stockage qui m’avait échappé. Une start-up envisage de stocker de l’énergie sous forme potentielle en empilant des blocs de béton. L’installation n’existant pas encore, je me livre à quelques raisonnements pour juger la pertinence de cette invention sur les promesses des concepteurs. C’est un exercice un peu périlleux et j’espère que ça vous plaira !
-    date: "2019-04-26"
-    categories:
-      - "energy"
-    tags:
-      - "énergie"
-      - "stockage"
-
-  - youtube_id: "mqAaokrY1NU"
-    title: "[Analyse] Analyse du discours d'un climato-sceptique : François Gervais. (2/2)"
-    description: |
-      Dans cette vidéo, j’analyse en profondeur une partie (de 25:40 à 34:40) de la conférence de M. Gervais.
-    date: "2019-03-11"
-    categories:
-      - "policy"
-    tags:
-      - "science"
-      - "politique"
-      - "analyse" 
-      - "climatosceptique"

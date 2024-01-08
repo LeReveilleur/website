@@ -15,4 +15,4 @@ image: cover.jpg
 
 {{< youtube t-gqGlIcIYA >}}
 
-Cette vidéo est un résumé de la précédente où je réponds à un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo 
+Cette vidéo est un résumé de la précédente où je réponds à un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo
