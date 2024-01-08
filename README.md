@@ -4,9 +4,16 @@ Hugo website for Le Réveilleur
 
 ## Deploy
 
-Pushing code to the main github branch will trigger a
-[netlify](https://www.netlify.com/) build which is configured in
-[this config file](./netlify.toml)
+### Netlify
+
+Deployment is done via [Netlify](https://www.netlify.com) that is configured to
+trigger a build when new code is pushed into the main branch.
+
+One can find the netlify config file [here](./netlify.toml).
+
+### DNS setup
+
+To setup the DNS, it is done through Netlify directly.
 
 ## Development
 
