@@ -2,7 +2,7 @@
 article_type: youtube_video
 tags: [énergie, photovoltaïque, électricité]
 date: '2020-03-10'
-slug: '[resume]_eolien,_photovoltaïque_et_reseau_electrique'
+slug: '[resume]_eolien__photovoltaïque_et_reseau_electrique'
 youtube_id: QnP7YOk3PMs
 video-thumbnail: cover.jpg
 title: '[Résumé] Éolien, photovoltaïque et réseau électrique'

@@ -2,7 +2,7 @@
 article_type: youtube_video
 tags: [politique, society, climat]
 date: '2020-12-18'
-slug: la_convention_citoyenne_pour_le_climat,_utile
+slug: la_convention_citoyenne_pour_le_climat__utile
 youtube_id: yuopYkpmvCo
 video-thumbnail: cover.jpg
 title: La Convention Citoyenne pour le Climat, utile ?

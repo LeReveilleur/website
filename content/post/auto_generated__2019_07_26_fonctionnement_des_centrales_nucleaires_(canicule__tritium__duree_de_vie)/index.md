@@ -2,7 +2,7 @@
 article_type: youtube_video
 tags: [énergie, nucléaire]
 date: '2019-07-26'
-slug: fonctionnement_des_centrales_nucleaires_(canicule,_tritium,_duree_de_vie)
+slug: fonctionnement_des_centrales_nucleaires_(canicule__tritium__duree_de_vie)
 youtube_id: HMystmGbctw
 video-thumbnail: cover.jpg
 title: Fonctionnement des centrales nucléaires (canicule, tritium, durée de vie...)
