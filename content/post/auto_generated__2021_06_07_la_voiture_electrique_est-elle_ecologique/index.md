@@ -1,6 +1,5 @@
 ---
 article_type: youtube_video
-tags: [transport, car, électricité]
 date: '2021-06-07'
 slug: la_voiture_electrique_est-elle_ecologique
 youtube_id: zjaUqUozwdc

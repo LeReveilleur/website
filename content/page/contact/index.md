@@ -10,10 +10,7 @@ menu:
             icon: contact
 ---
 
-<form 
-    action="https://formspree.io/f/mwkdzzdg" 
-    method="POST" 
-    class="contact-form">
+<form action="https://formspree.io/f/mwkdzzdg" method="POST" class="contact-form">
   <label for="contact-form-name">Nom</label>
   <input type="text" id="contact-form-name" name="name" required>
   <label for="contact-form-email">Email</label>

@@ -15,4 +15,7 @@ image: cover.jpg
 
 {{< youtube iiKuUElvGhM >}}
 
-Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ? Et si on prend en compte l'inertie de nos sociétés ? Y a-t-il des conséquences de nos émissions avec de longues inerties ?
+Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les
+émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ?
+Et si on prend en compte l'inertie de nos sociétés ? Y a-t-il des
+conséquences de nos émissions avec de longues inerties ?

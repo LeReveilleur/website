@@ -1,7 +1,6 @@
 (ns lereveilleur.core
-  (:require
-   [lereveilleur.video :as video]
-   [lereveilleur.donors :as donors]))
+  (:require [lereveilleur.video :as video]
+            [lereveilleur.donors :as donors]))
 
 (def generate-donors-page! donors/generate-donors-page!)
 (def download-youtube-thumbnails! video/download-youtube-thumbnails!)
