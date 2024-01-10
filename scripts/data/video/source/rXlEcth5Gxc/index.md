@@ -1,28 +1,3 @@
----
-article_type: youtube_video
-tags: [science, climat]
-date: '2022-12-08'
-slug: les_subtilites_de_l_effet_de_serre
-youtube_id: rXlEcth5Gxc
-video-thumbnail: cover.jpg
-title: Les subtilités de l'effet de serre
-categories: [science]
-image-header: header.jpg
-image: cover.jpg
----
-
-## Vidéo
-
-{{< youtube rXlEcth5Gxc >}}
-
-Dans cette vidéo, je fais le bilan énergétique de la Terre pour
-comprendre son climat. Ce qui m'amène à expliquer le phénomène physique
-de l'effet de serre qui joue un rôle indiscutable dans la température à
-la surface de notre belle planète.
-
-
-<hr>
-
 ## Sources bibliographiques
 
 J’ai pas mal utilisé ce __modèle physique de l’atmosphère__: [MODTRAN](http://climatemodels.uchicago.edu/modtran/). Pour retrouver les conditions de la vidéo, il faut mettre l’axe en _Wavelength_ (longueur d’onde) au lieu de _Wavenumber_. Et passer _Locality_ à _Midlatitude Winter_.
