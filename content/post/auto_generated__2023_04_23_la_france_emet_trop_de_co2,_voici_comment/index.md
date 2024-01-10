@@ -15,6 +15,15 @@ image: cover.jpg
 
 {{< youtube sDxvadwizw8 >}}
 
-La France émet près de 400 millions de tonnes d'équivalent CO2 chaque année. Pour limiter le réchauffement climatique et ses conséquences, il faut réduire ces émissions de gaz à effet de serre. En France, l’objectif est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est l’objectif de neutralité carbone.
+La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
+année. Pour limiter le réchauffement climatique et ses conséquences, il
+faut réduire ces émissions de gaz à effet de serre. En France, l’objectif
+est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est
+l’objectif de neutralité carbone.
 
-Pour espérer relever ce défi immense, il faut comprendre d’ou viennent le CO2, le méthane et les autres gaz émis par la France. C’est en identifiant la source du problème qu’on pourra trouver des solutions. D’autant que tous les secteurs d’activité sont concernés : aussi bien les transports, que l’industrie, l’agriculture ou encore de l’énergie. Il faut tout repenser pour décarboner le pays.
+Pour espérer relever ce défi immense, il faut comprendre d’ou viennent le
+CO2, le méthane et les autres gaz émis par la France. C’est en
+identifiant la source du problème qu’on pourra trouver des solutions.
+D’autant que tous les secteurs d’activité sont concernés : aussi bien les
+transports, que l’industrie, l’agriculture ou encore de l’énergie. Il
+faut tout repenser pour décarboner le pays.

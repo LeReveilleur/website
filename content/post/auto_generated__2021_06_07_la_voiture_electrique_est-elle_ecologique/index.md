@@ -14,4 +14,6 @@ image: cover.jpg
 
 {{< youtube zjaUqUozwdc >}}
 
-Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique.
+Dans cette vidéo, je vous reparle de la voiture électrique. J'y
+compare, notamment, les impacts environnementaux de la voiture électrique
+et de la voiture thermique.

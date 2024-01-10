@@ -15,4 +15,6 @@ image: cover.jpg
 
 {{< youtube XbrcUz0pu80 >}}
 
-Dans cette vidéo, je vous parle de l'évolution du système électrique français en me servant du récent rapport de RTE: Futurs Énergétiques 2050.
+Dans cette vidéo, je vous parle de l'évolution du système électrique
+français en me servant du récent rapport de RTE: Futurs Énergétiques
+2050.

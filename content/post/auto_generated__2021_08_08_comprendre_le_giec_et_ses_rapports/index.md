@@ -15,4 +15,5 @@ image: cover.jpg
 
 {{< youtube C_UTlTiVQ_0 >}}
 
-GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais).
+GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat
+(GIEC, IPCC en anglais).

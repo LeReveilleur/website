@@ -14,4 +14,5 @@ image: cover.jpg
 
 {{< youtube OAyYSlMhgI4 >}}
 
-Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi elles servent et quels sont les problèmes qu'elles soulèvent.
+Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi
+elles servent et quels sont les problèmes qu'elles soulèvent.

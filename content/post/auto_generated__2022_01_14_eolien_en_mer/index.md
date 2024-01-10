@@ -15,4 +15,5 @@ image: cover.jpg
 
 {{< youtube xbdUlfYCRwc >}}
 
-Cette vidéo est financée par le débat public "Éoliennes en mer Nouvelle-Aquitaine"
+Cette vidéo est financée par le débat public 'Éoliennes en mer
+Nouvelle-Aquitaine'

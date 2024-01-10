@@ -106,7 +106,9 @@ videos:
 
   - youtube_id: "xbdUlfYCRwc"
     title: "Éolien en mer"
-    description: 'Cette vidéo est financée par le débat public "Éoliennes en mer Nouvelle-Aquitaine"'
+    description: |
+      Cette vidéo est financée par le débat public 'Éoliennes en mer
+      Nouvelle-Aquitaine'
     date: "2022-01-14"
     categories:
       - "energy"
@@ -117,7 +119,10 @@ videos:
 
   - youtube_id: "XbrcUz0pu80"
     title: "Quelle électricité pour demain ?"
-    description: "Dans cette vidéo, je vous parle de l'évolution du système électrique français en me servant du récent rapport de RTE: Futurs Énergétiques 2050."
+    description: |
+      Dans cette vidéo, je vous parle de l'évolution du système électrique
+      français en me servant du récent rapport de RTE: Futurs Énergétiques
+      2050.
     date: "2021-12-21"
     categories:
       - "energy"
@@ -127,7 +132,9 @@ videos:
 
   - youtube_id: "OAyYSlMhgI4"
     title: "Les terres rares"
-    description: "Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi elles servent et quels sont les problèmes qu'elles soulèvent."
+    description: |
+      Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi
+      elles servent et quels sont les problèmes qu'elles soulèvent.
     date: "2021-10-12"
     tags:
       - "energy"
@@ -136,7 +143,9 @@ videos:
 
   - youtube_id: "C_UTlTiVQ_0"
     title: "Comprendre le GIEC et ses rapports"
-    description: "GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC, IPCC en anglais)."
+    description: |
+      GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat
+      (GIEC, IPCC en anglais).
     date: "2021-08-08"
     categories:
       - "policy"
@@ -147,13 +156,29 @@ videos:
   - youtube_id: "8nzRXxPnlPQ"
     title: "Comment le réchauffement climatique va bouleverser l’humanité"
     description: |
-      Un degré, deux degrés, quatre degrés… Au cours du siècle à venir, la température de la planète va continuer de monter. Plus l’humanité émettra de gaz à effet de serre, plus le réchauffement climatique sera important. Les rapports du GIEC alertent sur cette situation et les conférences internationales comme la COP26 promettent des solutions. Mais en quoi ce dérèglement du climat est-il un problème ? Pourquoi doit-on se soucier de quelques degrés de plus ?
+      Un degré, deux degrés, quatre degrés… Au cours du siècle à venir, la
+      température de la planète va continuer de monter. Plus l’humanité émettra
+      de gaz à effet de serre, plus le réchauffement climatique sera important.
+      Les rapports du GIEC alertent sur cette situation et les conférences
+      internationales comme la COP26 promettent des solutions. Mais en quoi ce
+      dérèglement du climat est-il un problème ? Pourquoi doit-on se soucier de
+      quelques degrés de plus ?
 
-      Naturellement, la hausse des températures va avant tout entraîner des canicules de plus en plus fréquentes et meurtrières. Et ces épisodes de chaleur s’accompagneront de sécheresses très problématiques pour l’agriculture.
+      Naturellement, la hausse des températures va avant tout entraîner des
+      canicules de plus en plus fréquentes et meurtrières. Et ces épisodes de
+      chaleur s’accompagneront de sécheresses très problématiques pour
+      l’agriculture.
 
-      Mais ce n’est pas tout. Un autre mécanisme risque d’être mis à rude épreuve : le cycle de l’eau. Entre la fonte des glaciers, la montée des eaux et les inondations, les conséquences pourraient bien être meurtrières pour les humains, mais aussi pour l’ensemble de la biodiversité.
+      Mais ce n’est pas tout. Un autre mécanisme risque d’être mis à rude
+      épreuve : le cycle de l’eau. Entre la fonte des glaciers, la montée des
+      eaux et les inondations, les conséquences pourraient bien être
+      meurtrières pour les humains, mais aussi pour l’ensemble de la
+      biodiversité.
 
-      Cette vidéo, conçue en collaboration avec Rodolphe Meyer, présente certaines des conséquences les plus problématiques du changement climatique et permet de comprendre pourquoi c'est un défi majeur du XXIe siècle.
+      Cette vidéo, conçue en collaboration avec Rodolphe Meyer, présente
+      certaines des conséquences les plus problématiques du changement
+      climatique et permet de comprendre pourquoi c'est un défi majeur du XXIe
+      siècle.
     date: "2021-07-11"
     categories:
       - "science"
@@ -166,9 +191,17 @@ videos:
   - youtube_id: "GVJRZqI6h2k"
     title: "Qui réchauffe le climat (et comment) ?"
     description: |
-      Les vagues de chaleur et les canicules sont de plus en plus intenses et nombreuses. 🥵🌡️ En cause : le réchauffement climatique, lui-même dû à nos émissions de gaz à effet de serre. Mais quels sont ces gaz ? (Il n'y a pas que le CO2 !) Qui les émet ? Depuis quand ? Et surtout comment : Quelles sont les activités humaines qui "polluent" le plus l'atmosphère ?
+      Les vagues de chaleur et les canicules sont de plus en plus intenses et
+      nombreuses. 🥵🌡️ En cause : le réchauffement climatique, lui-même dû à
+      nos émissions de gaz à effet de serre. Mais quels sont ces gaz ? (Il n'y
+      a pas que le CO2 !) Qui les émet ? Depuis quand ? Et surtout comment :
+      Quelles sont les activités humaines qui "polluent" le plus l'atmosphère ?
 
-      Dans cette deuxième vidéo en featuring avec Rodolphe de la chaîne Youtube Le Réveilleur, on se penche sur les données les plus récentes de nos émissions de gaz à effet de serre, issues du dernier rapport du GIEC. Un gros travail nécessaire pour comprendre quels sont nos leviers d'action pour réduire ces émissions.
+      Dans cette deuxième vidéo en featuring avec Rodolphe de la chaîne Youtube
+      Le Réveilleur, on se penche sur les données les plus récentes de nos
+      émissions de gaz à effet de serre, issues du dernier rapport du GIEC. Un
+      gros travail nécessaire pour comprendre quels sont nos leviers d'action
+      pour réduire ces émissions.
     date: "2022-07-17"
     categories:
       - "science"
@@ -181,9 +214,18 @@ videos:
   - youtube_id: "sDxvadwizw8"
     title: "La France émet trop de CO2, voici comment"
     description: |
-      La France émet près de 400 millions de tonnes d'équivalent CO2 chaque année. Pour limiter le réchauffement climatique et ses conséquences, il faut réduire ces émissions de gaz à effet de serre. En France, l’objectif est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est l’objectif de neutralité carbone.
+      La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
+      année. Pour limiter le réchauffement climatique et ses conséquences, il
+      faut réduire ces émissions de gaz à effet de serre. En France, l’objectif
+      est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est
+      l’objectif de neutralité carbone.
 
-      Pour espérer relever ce défi immense, il faut comprendre d’ou viennent le CO2, le méthane et les autres gaz émis par la France. C’est en identifiant la source du problème qu’on pourra trouver des solutions. D’autant que tous les secteurs d’activité sont concernés : aussi bien les transports, que l’industrie, l’agriculture ou encore de l’énergie. Il faut tout repenser pour décarboner le pays.
+      Pour espérer relever ce défi immense, il faut comprendre d’ou viennent le
+      CO2, le méthane et les autres gaz émis par la France. C’est en
+      identifiant la source du problème qu’on pourra trouver des solutions.
+      D’autant que tous les secteurs d’activité sont concernés : aussi bien les
+      transports, que l’industrie, l’agriculture ou encore de l’énergie. Il
+      faut tout repenser pour décarboner le pays.
     date: "2023-04-23"
     categories:
       - "science"
@@ -195,7 +237,10 @@ videos:
 
   - youtube_id: "zjaUqUozwdc"
     title: "La voiture électrique est-elle écologique ?"
-    description: "Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique."
+    description: |
+      Dans cette vidéo, je vous reparle de la voiture électrique. J'y
+      compare, notamment, les impacts environnementaux de la voiture électrique
+      et de la voiture thermique.
     date: "2021-06-07"
     categories:
       - "transport"
