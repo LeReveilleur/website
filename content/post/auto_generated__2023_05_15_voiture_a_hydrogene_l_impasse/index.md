@@ -67,7 +67,7 @@ Les études récentes comparant voiture à Hydrogène __et voiture à batterie
 L’AIE fait le point sur le déploiement des voitures électriques et de leur infrastructure [\[30\]](https://www.iea.org/reports/electric-vehicles), [\[34\]](https://www.iea.org/reports/global-ev-outlook-2022/trends-in-electric-light-duty-vehicles) et sur me déploiement des voitures à hydrogène [\[35\]](https://iea.blob.core.windows.net/assets/c5bc75b1-9e4d-460d-9056-6e8e626a11c4/GlobalHydrogenReview2022.pdf).  
 Le point sur l’infrastructure en France grâce à [Avere](https://www.avere-france.org/publication/barometre-82-107-points-de-recharge-ouverts-au-public-fin-decembre-2022/) et [Enedis](https://data.enedis.fr/pages/points-de-charge/)
 
-#### Éditorial de _Nature_ dont je partage fortement la vision**
+#### Éditorial de _Nature_ dont je partage fortement la vision
 
 [Overhyping hydrogen as a fuel risks endangering net-zero goals](https://www.nature.com/articles/d41586-022-03693-6).
 
