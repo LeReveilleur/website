@@ -678,3 +678,16 @@ videos:
       - "politique"
       - "analyse"
       - "climatosceptique"
+
+  - youtube_id: "XGq4WRTLfvc"
+    title: "[Analyse] Analyse du discours d'un climato-sceptique : François Gervais. (1/2)"
+    description: |
+      Dans cette vidéo, j'analyse en profondeur une partie de la conférence de M. Gervais.
+    date: "2019-02-18"
+    categories:
+      - "policy"
+    tags:
+      - "science"
+      - "politique"
+      - "analyse"
+      - "climatosceptique"
