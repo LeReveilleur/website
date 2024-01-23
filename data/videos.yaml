@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "UXSIsb3E1X4"
+    title: "Le charbon et ses impacts"
+    description: |
+      Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre sur les impacts environnementaux et sanitaires que provoquent l'utilisation du charbon.
+    date: "2024-14-01"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "science"
+
   - youtube_id: "HgfcZeGP7BA"
     title: "Taux de retour énergétique : J.M. Jancovici dans l'erreur ?"
     description: |

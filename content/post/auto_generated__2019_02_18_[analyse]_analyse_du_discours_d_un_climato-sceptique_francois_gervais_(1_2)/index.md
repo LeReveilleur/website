@@ -65,5 +65,3 @@ Autres:
 – [Un article récent sur l’élévation du niveau des mers.](https://www.pnas.org/content/early/2017/05/16/1616007114)  
 – Reconstruction des derniers 20 000 ans basée sur [Marcott et al.](http://science.sciencemag.org/content/339/6124/1198) et [Shakun et al.](https://www.nature.com/articles/nature10915). La figure que j’utilise est piqué et adapté de [cet excellent blog.](https://tamino.wordpress.com/2013/03/22/global-temperature-change-the-big-picture/)  
 – On peut voir sur [le CV de F. Gervais](https://www.univ-tours.fr/site-de-l-universite/m-francois-gervais--235229.kjsp) qu’il est très fier de cette vidéo.
-
-Catégories [Changement climatique](https://lereveilleur.com/category/changement-climatique/)
