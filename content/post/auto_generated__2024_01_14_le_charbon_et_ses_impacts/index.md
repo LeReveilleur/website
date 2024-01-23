@@ -1,7 +1,7 @@
 ---
 article_type: youtube_video
 tags: [énergie, science]
-date: '2024-14-01'
+date: '2024-01-14'
 slug: le_charbon_et_ses_impacts
 youtube_id: UXSIsb3E1X4
 video-thumbnail: cover.jpg
@@ -22,7 +22,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 
 ## Sources
 
-### Articles principaux :  
+### Articles principaux  
 
 * Oberschelp, C., Pfister, S., Raptis, C. E., & Hellweg, S. (2019).[ Global emission hotspots of coal power generation](https://www.nature.com/articles/s41893-019-0221-6). _Nature Sustainability_, _2_(2), 113-121.
 * [Carbon Neutrality in the UNECE Region:Integrated Life-cycle Assessment of Electricity Sources](https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf), UNECE (2022) (dont[ corrigé pour l’occupation des sols](https://unece.org/sites/default/files/2022-07/Corrigendum%20to%20UNECE%20LCA%20report%20-%20land%20use.pdf))
@@ -30,7 +30,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Le GTIII du sixième rapport du GIEC](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) parle en plusieurs endroits du charbon.
 * [Coal 2022](https://iea.blob.core.windows.net/assets/91982b4e-26dc-41d5-88b1-4c47ea436882/Coal2022.pdf) – AIE (+[ Coal Market Update – July 2023](https://iea.blob.core.windows.net/assets/6d364082-35fc-49cf-bf3e-c06a05a3445d/CoalMarketUpdate_July2023.pdf))Beaucoup d’informations sur[ Global Energy Monitor](https://www.gem.wiki/Environmental_impacts_of_coal).
 
-### Ressources généralistes sur le charbon :
+### Ressources généralistes sur le charbon
 
 * [Coal – National geographic](https://education.nationalgeographic.org/resource/coal/)
 * [Energy explained : coal – AIE](https://www.eia.gov/energyexplained/coal/)
@@ -44,7 +44,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Mountain top removal analysis](https://skytruth.org/2016/06/skytruth-mountain-top-removal-analysis/) (+[ complément](https://www.gem.wiki/Large_coal_mines#How_much_land_has_been_disturbed_by_mountaintop_removal_mining_in_Central_Appalachia.3F))
 * Les centrales au charbon dans le monde avec[ Global Coal Plant Tracker – Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/tracker/)
 
-### Diverses utilisations industrielles du charbon :
+### Diverses utilisations industrielles du charbon
 
 * Osborne, D. G., & Gupta, S. K. (2013).[ Industrial uses of coal](https://www.sciencedirect.com/science/article/abs/pii/B9780857094223500017). In _The coal handbook: Towards cleaner production_ (pp. 3-30). Woodhead Publishing.
 * [Steel and raw materials – Worldsteel](https://worldsteel.org/wp-content/uploads/Fact-sheet-raw-materials-2023.pdf)
@@ -54,7 +54,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * Schumacher, G., & Juniper, L. (2013).[ Coal utilisation in the cement and concrete industries](https://www.sciencedirect.com/science/article/abs/pii/B9781782421160500153). In _The Coal Handbook: Towards Cleaner Production_ (pp. 387-426). Woodhead Publishing.
 * Miller, S. A., & Moore, F. C. (2020).[ Climate and health damages from global concrete production](https://www.nature.com/articles/s41558-020-0733-0). _Nature Climate Change_, _10_(5), 439-443.
 
-### Mine et préparation du charbon :
+### Mine et préparation du charbon
 
 * [Les plus 10 plus grosses mines de charbon du monde](https://www.mining-technology.com/features/feature-the-10-biggest-coal-mines-in-the-world/)
 * [Five Largest Surface Coal Mines in 2021](https://www.globaldata.com/data-insights/mining/global---five-largest-surface-coal-mines-in-2090683/) – GlobalData
@@ -68,7 +68,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Coal mining & Coal preparation – Britannica](https://www.britannica.com/technology/coal-mining/Coal-preparation)
 * Concernant les impacts environnementaux des mines et leurs évaluations :[ Guidebook for Evaluating Mining Project EIAs](https://elaw.org/resource/guidebook-evaluating-mining-project-eias)
 
-### Sortir du charbon pour réduire l’extraction : 
+### Sortir du charbon pour réduire l’extraction 
 
 * [Visualizing the Scale of Global Fossil Fuel Production](https://www.visualcapitalist.com/visualizing-the-scale-of-global-fossil-fuel-production/)
 * [Quantités de ressources fossiles extraites par an](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil)
@@ -79,7 +79,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * Maus, V., Giljum, S., Gutschlhofer, J. et al.[ A global-scale data set of mining areas](https://doi.org/10.1038/s41597-020-00624-w). Sci Data 7, 289 (2020).
 * [Number of active mines by sector and year, 1983 – 2022 – CDC](https://wwwn.cdc.gov/niosh-mining/MMWC/Mine) (seulement pour les US : 991 mines de charbon, 280 mines de métaux, 859 de non métaux (et une majorité de carrières)).
 
-### Transport :
+### Transport
 
 * [Oberschelp et al., (2019).](https://www.nature.com/articles/s41893-019-0221-6) https://www.nature.com/articles/s41893-019-0221-6
 * [REVIEW OF MARITIME TRANSPORT 2022](https://unctad.org/system/files/official-document/rmt2022_en.pdf), CNUCED tableau 1.1 1.7 et 1.9
@@ -90,7 +90,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * J’ai trouvé des données plus récentes sur la Chine avec quelques quantifications sur le transport. On y voit que le charbon passant par voie maritime fait en moyenne 2 261 km.
 * Khan Ankur, A., Kraus, S., Grube, T., Castro, R., & Stolten, D. (2022).[ A Versatile Model for Estimating the Fuel Consumption of a Wide Range of Transport Modes](https://www.mdpi.com/1996-1073/15/6/2232). _Energies_, _15_(6), 2232.
 
-### Pollution de l’air :
+### Pollution de l’air
 
 * [Were Impressionist Masters Painting a Polluted Reality?](https://eos.org/articles/were-impressionist-masters-painting-a-polluted-reality) – Eos
 * [Coal power air pollution in Europe](https://ember-climate.org/insights/research/coal-power-air-pollution/) – Ember
@@ -102,7 +102,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Causes, effects and prevention of Spontaneous combustion of Coal](https://globalroadtechnology.com/spontaneous-combustion-of-coal/)
 * [Stockage et problèmes de conservation du charbonCoal fires](https://www.techniques-ingenieur.fr/base-documentaire/energies-th4/combustibles-fossiles-42215210/combustibles-solides-charbon-be8533/stockage-et-problemes-de-conservation-du-charbon-be8533v2niv10003.html) – Global Energy Monitor
 
-### Cendres :
+### Cendres
 
 * Concernant la France :[ Les cendres de charbon et les phosphogypses](https://ecolo.org/documents/documents_in_french/charbon-cendres-Robin-Bois_09_V2.pdf)
 * [Vulgarisation en français des impacts environnementaux du charbon et de ses cendres](https://oeil.nc/sites/default/files/pdf/FICHES%20DESC/3-%20CHARBON/oeil_-_fiche_charbon_pa_page_a_page.pdf)
@@ -133,7 +133,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * Mohammed, S. A., Koting, S., Katman, H. Y. B., Babalghaith, A. M., Abdul Patah, M. F., Ibrahim, M. R., & Karim, M. R. (2021).[ A review of the utilization of coal bottom ash (CBA) in the construction industry](https://www.mdpi.com/2071-1050/13/14/8031). _Sustainability_, _13_(14), 8031.
 * [Exemples de réhabilitation de sites américains](https://environmental.pasenategop.com/wp-content/uploads/sites/34/2015/06/Brisini-Testimony3.pdf)
 
-### Déversement accidentel de cendres : 
+### Déversement accidentel de cendres 
 
 * [TVA Kingston Fossil Plant coal ash spill](https://www.gem.wiki/TVA_Kingston_Fossil_Plant_coal_ash_spill)<span style="text-decoration:underline;"> </span>– Global Energy Monitor
 * [Lasting Impact of the Kingston Fossil Plant Coal Ash Spill](https://www.napolilaw.com/article/lasting-impact-kingston-fossil-plant-coal-ash-spill/) – Napoli Shkolnik
@@ -144,7 +144,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [A legacy of contamination : how the Kingston coal ash spill unearthed a nuclear nightmare – Grist](https://grist.org/justice/tva-kingston-coal-ash-spill-nuclear/)
 * [Coal mining disasters – Global Energy Monitor](https://www.gem.wiki/Coal_mining_disasters#Coal_Sludge_Spills)
 
-### Radioactivité & cendres de charbon :
+### Radioactivité et cendres de charbon
 
 
 
@@ -153,7 +153,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [What Are the Physiological Effects of Uranium Exposure? – Environmental Medicine | ATSDRThorium – Cancer-Causing Substances – NCI](https://www.atsdr.cdc.gov/csem/uranium/physiological_effects.html)
 * Sun, Y., Qi, G., Lei, X., Xu, H., & Wang, Y. (2016).[ Extraction of uranium in bottom ash derived from high-germanium coals](https://www.sciencedirect.com/science/article/pii/S1878029616000979). _Procedia Environmental Sciences_, _31_, 589-597.
 
-### Climat et méthane :
+### Climat et méthane
 
 * [Global Carbon Budget 2023](https://essd.copernicus.org/articles/15/5301/2023/)
 * [About Coal Mine Methane](https://www.epa.gov/cmop/about-coal-mine-methane)<span style="text-decoration:underline;"> </span>– US EPA
@@ -169,26 +169,26 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Q&A: What does China’s new methane plan mean for its climate goals?](https://www.carbonbrief.org/qa-what-does-chinas-new-methane-plan-mean-for-its-climate-goals/)<span style="text-decoration:underline;"> </span>– Carbon Brief
 * [COP28 : des engagements mondiaux pour réduire les émissions de méthane](https://www.euractiv.fr/section/cop/news/cop28-des-engagements-mondiaux-pour-reduire-les-emissions-de-methane/)<span style="text-decoration:underline;"> </span>– Euractiv FR
 
-### Eau et charbon :
+### Eau et charbon
 
 * [Aren’t we in a drought? The Australian black coal industry uses enough water for over 5 million people](https://theconversation.com/arent-we-in-a-drought-the-australian-black-coal-industry-uses-enough-water-for-over-5-million-people-137591) – The Conversation.
 * [Water for coal](https://apo.org.au/sites/default/files/resource-files/2020-04/apo-nid303605.pdf) – Australian Conservation Foundation. 
 * [NSW and Queensland coal industry uses as much water as all Sydney households, report finds](https://www.theguardian.com/environment/2020/may/04/nsw-and-queensland-coal-industry-uses-as-much-water-as-all-sydney-households-report-finds) – The Guardian
 * [How it Works: Water for Coal](https://www.ucsusa.org/resources/water-coal)
 
-### Réserves & Ressources :
+### Réserves et ressources
 
 * [BP Statistical Review of World Energy 2022](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2022-full-report.pdf)
 * McGlade, C., & Ekins, P. (2015).[ The geographical distribution of fossil fuels unused when limiting global warming to 2 C](https://www.nature.com/articles/nature14016). _Nature_, _517_(7533), 187-190.
 * [How much coal is left](https://www.eia.gov/energyexplained/coal/how-much-coal-is-left.php)<span style="text-decoration:underline;"> </span>– U.S. Energy Information Administration
 * [U.S. Coal Resources and Reserves Assessment](https://www.usgs.gov/centers/central-energy-resources-science-center/science/us-coal-resources-and-reserves-assessment)<span style="text-decoration:underline;"> </span>– U.S. Geological Survey
 
-### Synthèse des impacts environnementaux :
+### Synthèse des impacts environnementaux
 
 * [Carbon Neutrality in the UNECE Region:Integrated Life-cycle Assessment of Electricity Sources](https://unece.org/sites/default/files/2022-04/LCA_3_FINAL%20March%202022.pdf), UNECE (2022) (dont[ corrigé pour l’occupation des sols](https://unece.org/sites/default/files/2022-07/Corrigendum%20to%20UNECE%20LCA%20report%20-%20land%20use.pdf)).
 * Luderer, G., Pehl, M., Arvesen, A., Gibon, T., Bodirsky, B. L., De Boer, H. S., … & Hertwich, E. G. (2019).[ Environmental co-benefits and adverse side-effects of alternative power sector decarbonization strategies](https://www.nature.com/articles/s41467-019-13067-8). _Nature communications_, _10_(1), 5229.
 
-### Our World In Data :
+### Our World In Data
 
 * [Coal consumption by region](https://ourworldindata.org/grapher/coal-consumption-by-region)
 * [Coal consumption by country](https://ourworldindata.org/grapher/coal-consumption-by-country-terawatt-hours-twh)
@@ -196,7 +196,7 @@ Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre
 * [Land Use](https://ourworldindata.org/land-use)
 * [Death rates per unit of electricity production](https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh)
 
-### Wikipédia :
+### Wikipédia
 
 * [Houillification](https://fr.wikipedia.org/wiki/Houillification)
 * [Charbon](https://fr.wikipedia.org/wiki/Charbon)
