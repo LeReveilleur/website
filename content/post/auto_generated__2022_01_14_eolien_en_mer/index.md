@@ -174,7 +174,8 @@ et du prix des métaux](https://hal.archives-ouvertes.fr/hal-02396615/document)
 ### Terres Rares
 
 Sur les __terres rares__, je vous renvoie à [mon travail sur le
-sujet](https://lereveilleur.com/les-terres-rares/).
+sujet]({{< ref "post/auto_generated__2021_10_12_les_terres_rares" >}}
+).
 
 ### Fin de vie
 
