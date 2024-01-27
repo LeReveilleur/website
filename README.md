@@ -67,6 +67,40 @@ bb generate-video-posts
 The script will automatically generate the article in the folder `content/post`
 with the name `auto_generated__{$CREATION_DATE}_{$TITLE}`.
 
+#### Git usage
+
+Use the following git commands to stage your changes.
+
+To pull the latest changes from the remote repository:
+
+```sh
+git pull origin
+```
+
+To list all the local changes:
+
+```sh
+git status
+```
+
+To add all the changes to the index:
+
+```sh
+git add .
+```
+
+To create a commit with a message:
+
+```sh
+git commit -m "Ajout de la bibliographie de la vidéo numéro 42"
+```
+
+To push to the remote repository
+
+```sh
+git push origin
+```
+
 ### How to add the bibliography sources for a video post?
 
 1. create the following directory `scripts/data/video/source/{$youtube_id}`
