@@ -1,26 +1,3 @@
----
-article_type: youtube_video
-tags: [climat, politique]
-date: '2021-08-08'
-slug: comprendre_le_giec_et_ses_rapports
-youtube_id: C_UTlTiVQ_0
-video-thumbnail: cover.jpg
-title: Comprendre le GIEC et ses rapports
-categories: [policy]
-image-header: header.jpg
-image: cover.jpg
----
-
-## Vidéo
-
-{{< youtube C_UTlTiVQ_0 >}}
-
-GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat
-(GIEC, IPCC en anglais).
-
-
-<hr>
-
 ## Sources bibliographiques
 
 N’oubliez pas d’aller voir la très bonne vidéo de l’Envers de la Blouse sur [la publication scientifique](https://www.youtube.com/watch?v=LDgd2ShMh80).
