@@ -653,14 +653,16 @@ videos:
   - youtube_id: "utyT8Z4qEaA"
     title: "Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire"
     description: |
-      Mesure des rayonnement (4:19)<br>
-      Effets Déterministes (7:48)<br>
-      Effets Stochastiques (14:39)<br>
-      Impact sanitaires des Bombes d’Hiroshima et Nagasaki (18:58)<br>
-      Connaissances sur les doses inférieurs à 100mSv (26:41)<br>
-      Impacts sanitaires : Tchernobyl (33:53)<br>
-      Impacts sanitaires : Fukushima (43:42)<br>
-      Conclusion (50:17)
+      Je vous explique d’abord comment on mesure des doses de rayonnement
+      (4:19). Puis, je parle des effets déterministes: les effets qui ont
+      forcément lieu pour des fortes doses de rayonnements ionisants (7:48).
+      Mais, il existe également des effets stochastiques et notamment les
+      cancers (14:18). Beaucoup d’informations sur les impacts sanitaires des
+      rayonnements ionisants ont été obtenu grâce à des études de cohortes et
+      notamment celle des survivants d’Hiroshima et Nagasaki (18:58). A 26:41,
+      je vous explique ce qu’on sait pour des doses reçues inférieures à 100
+      mSv. Enfin, je vous parle des impacts sanitaires de Tchernobyl (32:50) et
+      Fukushima (43:42) avant de conclure (50:17).
     date: "2019-05-08"
     categories:
       - "energy"
