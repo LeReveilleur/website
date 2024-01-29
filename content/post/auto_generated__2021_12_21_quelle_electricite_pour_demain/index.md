@@ -54,9 +54,9 @@ Cette vidéo s’appuie sur le long de travail de fond que j’ai réalisé sur 
 
 Ce contenu s’inscrit clairement __dans la continuité de mes deux vidéos__
 [(1)]({{< ref
-auto_generated__2020_02_17_eolien__photovoltaïque_et_reseau_electrique_-_partie_1_2
+auto_generated__2020_02_17_eolien__photovoltaique_et_reseau_electrique_-_partie_1_2
 >}}) [(2)]({{< ref
-auto_generated__2020_03_10_eolien__photovoltaïque_et_reseau_electrique_-_partie_2_2
+auto_generated__2020_03_10_eolien__photovoltaique_et_reseau_electrique_-_partie_2_2
 >}}) sur le réseau et l’intégration du solaire et de l’éolien.
 
 #### Moyens de production

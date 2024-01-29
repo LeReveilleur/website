@@ -2,7 +2,7 @@
 article_type: youtube_video
 tags: [énergie, photovoltaïque, électricité]
 date: '2020-03-10'
-slug: eolien__photovoltaïque_et_reseau_electrique_-_partie_2_2
+slug: eolien__photovoltaique_et_reseau_electrique_-_partie_2_2
 youtube_id: uXrhrIw-mwk
 video-thumbnail: cover.jpg
 title: Éolien, photovoltaïque et réseau électrique - Partie 2/2
