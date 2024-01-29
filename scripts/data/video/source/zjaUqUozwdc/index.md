@@ -1,27 +1,3 @@
----
-article_type: youtube_video
-tags: [transport, car, électricité]
-date: '2021-06-07'
-slug: la_voiture_electrique_est-elle_ecologique
-youtube_id: zjaUqUozwdc
-video-thumbnail: cover.jpg
-title: La voiture électrique est-elle écologique ?
-categories: [transport]
-image-header: header.jpg
-image: cover.jpg
----
-
-## Vidéo
-
-{{< youtube zjaUqUozwdc >}}
-
-Dans cette vidéo, je vous reparle de la voiture électrique. J'y
-compare, notamment, les impacts environnementaux de la voiture électrique
-et de la voiture thermique.
-
-
-<hr>
-
 ## Sources bibliographiques
 
 [Climobil](https://climobil.connecting-project.lu/?batteryLifetime=240000&batteryCapacity=30&greenhouseGas=65&electricCarRange=250&carbonElectricityMix=300&greenhouseBattery=30&greenhouseWTT=25&greenhouseTTW=150&batteryPenalty=0.9&annualMileage=20000&ICECurb=1551&ECurb=1977&NEDCpenalty=0.39&decarbonization=0) est un super site qui vous permettra de comparer des modèles de voiture électrique et de voiture thermique en ajustant vous même les paramètres clefs (n’hésitez pas à utiliser les paramètres avancés). **Utilisez le !**
