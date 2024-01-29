@@ -24,7 +24,8 @@ géologique ailleurs dans le monde
 
 ## Résumé
 
-Une vidéo qui résume le sujet est disponible ci-dessous :
+Une vidéo qui résume la série des quatre vidéos sur le sujet est disponible
+ci-dessous :
 
 {{< youtube yZ4FmDB_MXE >}}
 
