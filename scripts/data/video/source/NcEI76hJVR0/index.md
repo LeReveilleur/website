@@ -1,3 +1,10 @@
+## Résumé
+
+Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_generated__2020_06_17_[resume]_qu_advient-il_de_nos_emissions_de_co2" >}}) :
+
+{{< youtube kqBCN-w-lGU >}}
+
+
 ## Sources bibliographiques
 
 De très belles ressoures sont diponibles en français sur ocean-climate.org, notamment ces deux fiches dont j’ai utilisé une partie des illustrations: [Les interactions entre l’océan et le climat](http://www.ocean-climate.org/wp-content/uploads/2016/11/161115_DIFFCO_FR_08.pdf) et [L’océan, pompe à carbone](http://www.ocean-climate.org/wp-content/uploads/2017/02/ocean-pompe-carbone_FichesScientifiques_04-2.pdf). Vous pouvez aussi voir une vidéo de l’Esprit Sorcier sur [les océans et le climat](https://www.youtube.com/watch?v=1XXdyWK7Z-s).
