@@ -1,26 +1,3 @@
----
-article_type: youtube_video
-tags: [carbone, ocean, science]
-date: '2020-06-17'
-slug: cycle_du_carbone_oceanique_et_devenir_de_nos_emissions
-youtube_id: NcEI76hJVR0
-video-thumbnail: cover.jpg
-title: Cycle du carbone océanique et devenir de nos émissions
-categories: [science]
-image-header: header.jpg
-image: cover.jpg
----
-
-## Vidéo
-
-{{< youtube NcEI76hJVR0 >}}
-
-Dans cette vidéo, je décris la partie océanique du cycle du carbone pour comprendre combien de temps nos émissions de CO2 vont rester dans l'atmosphère.
-On voit d'abord la structure des océans et la circulation océanique avant de s'intéresser à la vie dans les océans. Pour compléter notre cycle du carbone océanique, il faut s'intéresser au calcaire produit par les organismes marins. Du carbone organique et du calcaire peuvent, à terme, former des roches sédimentaires ce qui fait entrer du carbone dans une longue boucle de plusieurs centaines de milliers d'années. Les mécanismes décrits permettent de parler du devenir de nos émissions de CO2.
-
-
-<hr>
-
 ## Sources bibliographiques
 
 De très belles ressoures sont diponibles en français sur ocean-climate.org, notamment ces deux fiches dont j’ai utilisé une partie des illustrations: [Les interactions entre l’océan et le climat](http://www.ocean-climate.org/wp-content/uploads/2016/11/161115_DIFFCO_FR_08.pdf) et [L’océan, pompe à carbone](http://www.ocean-climate.org/wp-content/uploads/2017/02/ocean-pompe-carbone_FichesScientifiques_04-2.pdf). Vous pouvez aussi voir une vidéo de l’Esprit Sorcier sur [les océans et le climat](https://www.youtube.com/watch?v=1XXdyWK7Z-s).
