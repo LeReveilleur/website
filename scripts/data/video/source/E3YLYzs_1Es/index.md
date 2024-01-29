@@ -21,7 +21,6 @@ problématiques de l’hydrogène, des déchets bitumineux et des incendies
 géologique ailleurs dans le monde
 ([13:57](https://www.youtube.com/watch?v=_GvOOfDA-E0&t=837s)).
 
-
 ## Résumé
 
 Une vidéo qui résume la série des quatre vidéos sur le sujet est disponible
