@@ -305,8 +305,12 @@ videos:
       - "climat"
 
   - youtube_id: "goceQuwWwKA"
-    title: "les dessous de l'électricité verte"
-    description: 'dans cette vidéo je vous parle des offres d''électricité "verte", ou plutôt, des offres d''électricité 100% renouvelable. vous comprendrez comment fonctionne ces offres et, du coup, quels sont leurs implications, leurs avantages et leurs limites.'
+    title: "Les dessous de l'électricité verte"
+    description: |
+      Dans cette vidéo je vous parle des offres d''électricité "verte", ou
+      plutôt, des offres d''électricité 100% renouvelable. vous comprendrez
+      comment fonctionne ces offres et, du coup, quels sont leurs implications,
+      leurs avantages et leurs limites.
     date: "2020-11-03"
     categories:
       - "energy"
