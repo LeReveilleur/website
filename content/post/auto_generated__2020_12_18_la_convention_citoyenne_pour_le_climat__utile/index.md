@@ -15,7 +15,11 @@ image: cover.jpg
 
 {{< youtube yuopYkpmvCo >}}
 
-Dans cette vidéo, je me sers de la proposition de passer la vitesse de 130 km/h à 110 km/h pour mettre en évidence la complexité à apprécier ce type de proposition et l'intérêt des conventions citoyennes pour aborder des problèmes politiquement complexes.
+Dans cette vidéo, je me sers de la proposition de passer la vitesse de
+130 km/h à 110 km/h pour mettre en évidence la complexité à apprécier ce
+type de proposition et l'intérêt des conventions citoyennes pour aborder
+des problèmes politiquement complexes.
+
 
 <hr>
 
