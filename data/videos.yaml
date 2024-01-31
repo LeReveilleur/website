@@ -815,3 +815,28 @@ videos:
       - "politique"
       - "carbone"
       - "taxe carbone"
+
+  - youtube_id: "xx55qcGdXOo"
+    title: "Électricité verte selon Greenpeace : l'écologie dogmatique"
+    description: |
+      Dans cette vidéo, je m’intéresse au [classement électricité verte produit
+      par Greenpeace](https://www.guide-electricite-verte.fr/) qui a été pas
+      mal repris par les médias et surtout mis en avant par les récents
+      mouvements de vidéastes sur la
+      plateforme [https://ilestencoretemps.fr/](https://ilestencoretemps.fr/).
+
+      On voit que ce classement prend certaines libertés avec les faits,
+      notamment sur la question du nucléaire. Ce n’est pas surprenant venant de
+      Greenpeace qui s’illustre par une position très dogmatique sur ce sujet.
+      Je pense que cette attitude est dommageable pour Greenpeace parce que ça
+      décrédibilise ses autres actions. Je pense également que des mouvements
+      écologistes qui ne sont pas rigoureux sur les questions scientifiques ne
+      parviendront pas à convaincre et peuvent mener à des initiatives inutiles
+      voir contre-productives.
+    date: "2018-11-14"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "électricité"
+      - "greenpeace"
