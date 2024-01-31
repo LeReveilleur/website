@@ -840,3 +840,23 @@ videos:
       - "énergie"
       - "électricité"
       - "greenpeace"
+
+  - youtube_id: "n-NJ-B_IIFw"
+    title: "Cycles glaciaires, paramètres de Milankovitch et CO2 [Analyse] V. Courtillot Part. 3"
+    description: |
+      Je continue l’analyse de la conférence de V. Courtillot. L’idée
+      principale de cette partie c’est que, selon V. Courtillot, la variation
+      de la concentration en CO2 atmosphérique est la conséquence de la
+      variation de température et non la cause. C’est l’occasion de parler de
+      la température lors des dernières centaines de milliers d’années, de
+      découvrir les paramètres de Milankovitch et d’expliquer une technique
+      manipulatoire: le faux dilemme. La question de l’élévation du niveau des
+      mers est également abordée de façon plus succinct.
+    date: "2018-10-24"
+    categories:
+      - "science"
+    tags:
+      - "carbone"
+      - "analyse"
+      - "cycle glaciaire"
+      - "courtillot"
