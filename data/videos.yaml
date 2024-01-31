@@ -988,3 +988,30 @@ videos:
       - "politique"
       - "carbone"
       - "taxe carbone"
+
+  - youtube_id: "wXqIZxV6VHE"
+    title: "L'éolien"
+    description: |
+      Dans cette vidéo, on étudie les éoliennes à fond. Après un petit point
+      sur l’énergie exploitée, le fonctionnement d’une éolienne est présentée.
+      On voit différents types d’éoliennes: terrestres et offshores
+      ([6:30](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=390s)). Puis, je
+      parle un peu de l’éolien domestique
+      ([9:02](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=542s)). Une fois
+      qu’on a compris comment fonctionne les éoliennes, on s’intéresse aux
+      défauts ([10:30](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=630s)):
+      impact sur les oiseaux, impacts sur la santé humaine et utilisation des
+      terres rares. Puis, ce qui est sans doute le plus gros défaut:
+      l’intermittence
+      ([17:33](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=1053s)). Il faut
+      ensuite parler des avantages, qui sont assez évidents
+      ([24:28](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=1468s)). Et enfin,
+      je parle un peu de la situation en France et dans le monde
+      ([25:28](https://www.youtube.com/watch?v=wXqIZxV6VHE&t=1528s)).
+    date: "2018-05-29"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "éolien"
+      - "énergie renouvelable"
