@@ -929,3 +929,21 @@ videos:
       - "analyse"
       - "climat"
       - "courtillot"
+
+  - youtube_id: "u3QnT73jE2U"
+    title: "L'IA face aux défis énergétiques (ft. Science4All)"
+    description: |
+      Dans cette vidéo, on parle de l’intelligence artificielle (IA). Dans un
+      premier temps, on s’intéresse à la consommation énergétique des
+      technologies numériques dont l’IA fait partie. Cet impact est déjà
+      conséquent et croît assez vite. Ensuite, on s’intéresse aux applications
+      de l’IA dans le système énergétique et notamment aux smartgrids. L’IA
+      peut nous aider à mieux gérer l’intégration de moyens intermittents de
+      production d’électricité.
+    date: "2018-07-30"
+    categories:
+      - "science"
+    tags:
+      - "IA"
+      - "énergie"
+      - "collaboration"
