@@ -725,3 +725,30 @@ videos:
       - "climat"
       - "carbone"
       - "politique"
+
+  - youtube_id: "0tlx_JJkHWc"
+    title: "La radioactivité et notre exposition aux rayonnements ionisants"
+    description: |
+      Dans cette vidéo, je vous parle de la radioactivité. On fait un petit
+      point sur ce phénomène physique découvert il y a plus d’un siècle. Cela
+      permet de se rendre compte que la radioactivité existe naturellement et
+      qu’on est tous exposé à des rayonnements ionisants. Non seulement, on
+      ingère et respire des radionucléides (ce qui nous rend techniquement
+      radioactif) mais on est également exposé au rayonnement issu de la
+      décroissance radioactif des radionucléides primordiaux présents dans le
+      sol et au rayonnement cosmique. L’exposition à ces sources naturelles est
+      bien supérieure à l’exposition aux rejets des centrales nucléaires, aux
+      résidus des essais militaires et aux retombées des accidents. Certaines
+      pratiques médicales constituent l’immense majorité de l’exposition
+      (volontaire) à des sources artificielles de radioactivité.
+
+      Cette vidéo nous donne les bases nécessaires pour comprendre les impacts
+      sanitaires et écologiques des rayonnements ionisants que l’on verra dans
+      la prochaine vidéo !
+    date: "2019-01-30"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "nucléaire"
+      - "déchets radioactifs"
