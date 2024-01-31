@@ -1015,3 +1015,31 @@ videos:
       - "énergie"
       - "éolien"
       - "énergie renouvelable"
+
+  - youtube_id: "71EopUDDJ04"
+    title: "L'hydroélectricité"
+    description: |
+      On va voir l’hydroélectricité en profondeur. Après un petit point sur
+      l’énergie exploitée et le fonctionnement d’une centrale hydroélectrique,
+      on voit quelles sont les différents types d’installations
+      hydroélectriques
+      ([3:50](https://www.youtube.com/watch?v=71EopUDDJ04&t=230s)): des gros
+      barrages aux petites installations au fil de l’eau. On voit aussi
+      quelques ordres de grandeur
+      ([7:52](https://www.youtube.com/watch?v=71EopUDDJ04&t=472s)) pour se
+      rendre compte qu’il faut beaucoup d’eau pour alimenter un foyer en
+      électricité. L’un des gros avantage de l’hydroélectricité, c’est son rôle
+      dans la stabilisation du réseau électrique
+      ([10:38](https://www.youtube.com/watch?v=71EopUDDJ04&t=638s)) parce
+      qu’elle permet le pilotage et le stockage. Je parle également des défauts
+      des barrages, impacts à la constructions, risque d’accidents, effets sur
+      le climat ([13:08](https://www.youtube.com/watch?v=71EopUDDJ04&t=788s))…
+      Enfin, je propose un petit résumé de son développement présent et futur
+      en France et dans le monde
+      ([19:30](https://www.youtube.com/watch?v=71EopUDDJ04&t=1170s)).
+    date: "2018-05-15"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "énergie renouvelable"
