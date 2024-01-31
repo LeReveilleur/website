@@ -859,6 +859,7 @@ videos:
       - "carbone"
       - "analyse"
       - "cycle glaciaire"
+      - "climat"
       - "courtillot"
 
   - youtube_id: "dykSjXQhSjM"
@@ -909,3 +910,22 @@ videos:
       - "solaire"
       - "énergie"
       - "thermique"
+
+  - youtube_id: "GMoqkWjSGvw"
+    title: "Le climat des derniers milliers d'années. [Analyse] V. Courtillot Part. 2"
+    description: |
+      J’analyse la suite de [la conférence de V.
+      Courtillot](https://www.youtube.com/watch?v=uXeRbbM2AjY) qui circule
+      beaucoup sur le net. V. Courtillot est un climato-sceptique qui remet en
+      question l’origine humaine du changement climatique (qu’il reconnaît).
+      Dans cette vidéo, on parle de l’optimum climatique médiéval, de la courbe
+      de Mann (dite en forme de crosse de hockey) et plus globalement du climat
+      des derniers milliers d’années.
+    date: "2018-08-22"
+    categories:
+      - "science"
+    tags:
+      - "carbone"
+      - "analyse"
+      - "climat"
+      - "courtillot"
