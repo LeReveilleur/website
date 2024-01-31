@@ -860,3 +860,28 @@ videos:
       - "analyse"
       - "cycle glaciaire"
       - "courtillot"
+
+  - youtube_id: "dykSjXQhSjM"
+    title: "Le solaire thermique à concentration"
+    description: |
+      Dans cette vidéo, on parle du solaire à concentration. Le solaire à
+      concentration est une technologie majoritairement utilisé pour produire
+      de l'électricité. En effet, concentrer le soleil permet de produire
+      suffisamment de chaleur pour faire fonctionner une centrale thermique en
+      utilisant le soleil comme source chaude. J'expose d'abord les différentes
+      technologies: miroirs cylindro-paraboliques, miroirs de Fresnel et tours
+      solaires. Je parle ensuite de l'immense avantage du solaire à
+      concentration: la capacité de stockage qui dépend fortement du fluide
+      caloporteur utilisé. Les questions techniques (rendement, taux de retour
+      énergétique, émissions de CO2) sont ensuite abordées. Par contre, le
+      solaire à concentration est encore très faiblement déployé dans le monde,
+      j'explique donc pourquoi avant de parler de son potentiel déploiement
+      futur. Enfin, j'aborde la chaleur industrielle et les autres utilisations
+      du solaire à concentration.
+    date: "2018-10-02"
+    categories:
+      - "energy"
+    tags:
+      - "solaire"
+      - "énergie"
+      - "thermique"
