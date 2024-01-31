@@ -1043,3 +1043,49 @@ videos:
     tags:
       - "énergie"
       - "énergie renouvelable"
+
+  - youtube_id: "WZb-y_N4ZwY"
+    title: "Analyse du discours d'un climato-sceptique: V. Courtillot. Part. 1"
+    description: |
+      J’analyse une conférence donnée par M. Courtillot qui circule beaucoup
+      sur le net ([par exemple](https://www.youtube.com/watch?v=s1LL7Fq1qX0)
+      mais nombreuses occurrences). M. Courtillot est un climato-sceptique qui
+      remet en question l’origine humaine du changement climatique (qu’il
+      reconnaît). Dans cette vidéo, j’analyse la première partie de sa
+      conférence. C’est l’occasion d’apprendre plein de choses intéressantes
+      sur le climat et sur certains arguments développés par les
+      climato-sceptiques.  Vous pouvez aussi aller voir la série de
+      [questions/réponses](https://www.youtube.com/watch?v=s1LL7Fq1qX0) qui
+      suit la conférence. M. Courtillot précise même qu’il faut se calmer sur
+      le CO2 (pour des problèmes comme l’acidification des océans).
+    date: "2018-05-01"
+    categories:
+      - "science"
+    tags:
+      - "carbone"
+      - "analyse"
+      - "climat"
+      - "courtillot"
+
+  - youtube_id: "eruVCRrIkCY"
+    title: "L'énergie et nous"
+    description: |
+      L'énergie est indispensable au vivant et à nos sociétés industrielles.
+      C'est un concept central en physique. Pourtant comprendre ce qu'est
+      l'énergie, ce n'est pas facile... Surtout que la façon dont on utilise le
+      mot couramment ne correspond pas à la réalité. En fait, on devrait plutôt
+      parler d'exergie et on en parle dans la vidéo !
+
+      Cette vidéo permet aussi de voir ce que le corps humain utilise comme
+      énergie. On voit aussi que cette quantité est faible par rapport à ce que
+      nous utilisons dans nos sociétés. Le problème, c'est que cette quantité
+      faramineuse d'énergie repose pour beaucoup sur des ressources
+      non-renouvelables et provoque de graves impacts environnementaux. Du
+      coup, l'énergie dans nos sociétés est un sujet extrêmement important.
+      C'est un sujet technique mais aussi, et surtout, politique, social et
+      économique.
+    date: "2018-04-17"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
