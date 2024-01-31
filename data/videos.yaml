@@ -947,3 +947,27 @@ videos:
       - "IA"
       - "énergie"
       - "collaboration"
+
+  - youtube_id: "hESxYif5pdI"
+    title: "Le Photovoltaïque"
+    description: |
+      On commence par parler de l’énergie radiative que nous envoie notre cher
+      Soleil. Ensuite, j’explique comment un panneau photovoltaïque fonctionne
+      en me concentrant sur les technologies à base de silicium qui sont
+      largement majoritaires. Détailler la structure me permet de dire quelques
+      mots sur la recyclabilité de ces panneaux, sur les ressources utilisées
+      et sur la durée de vie. La discussion se porte ensuite sur les panneaux
+      sur toit ou en parc. On aborde également l’intermittence et le bas
+      facteur de charge. Mais surtout, je prends le temps d’expliquer une
+      notion hyper importante: le taux de retour énergétique, avant de voir ce
+      que donne les panneaux photovoltaïques sur cet aspect fondamental On se
+      demande également si la technologie photovoltaïque est bonne pour le
+      climat. Enfin, on parle de la situation actuelle du photovoltaïque dans
+      le monde et des technologies photovoltaïques prometteuses avant de
+      conclure.
+    date: "2018-07-26"
+    categories:
+      - "energy"
+    tags:
+      - "solaire"
+      - "énergie"
