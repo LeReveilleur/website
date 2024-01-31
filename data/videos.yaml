@@ -3,7 +3,9 @@ videos:
   - youtube_id: "UXSIsb3E1X4"
     title: "Le charbon et ses impacts"
     description: |
-      Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre sur les impacts environnementaux et sanitaires que provoquent l'utilisation du charbon.
+      Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me
+      concentre sur les impacts environnementaux et sanitaires que provoquent
+      l'utilisation du charbon.
     date: "2024-01-14"
     categories:
       - "energy"
@@ -38,6 +40,8 @@ videos:
     tags:
       - "climat"
       - "politique"
+      - "carbone"
+      - "taxe carbone"
 
   - youtube_id: "hNMRSUFuHPg"
     title: "Voiture à hydrogène: l'impasse ?"
@@ -784,3 +788,30 @@ videos:
     tags:
       - "énergie"
       - "stockage"
+
+  - youtube_id: "M8pIJaQBe3M"
+    title: "Des gestes individuels à l'action politique: militer pour une taxe carbone ?"
+    description: |
+      Dans cette vidéo, on s’intéresse à une critique souvent opposée aux
+      gestes individuels (et au campagne de sensibilisation comme
+      [#onestprêt](https://onestpret.fr/)): l’inutilité des actions
+      individuelles par rapport à des initiatives collectives. Ce point de vue
+      est [bien résumé par Linguisticae dans ce thread
+      Twitter](https://twitter.com/Linguisticae/status/1059625459405803520) ou
+      par l’idée qui tourne en boucle sur les réseaux sociaux que [100
+      entreprises sont « responsables » de 70% des
+      émissions.](https://www.sciencesetavenir.fr/nature-environnement/100-entreprises-responsables-de-plus-de-70-des-emissions-mondiales-de-carbone_114773)
+
+      Tout ça nous amène à réfléchir à ce qui peut être fait à l’échelle
+      politique et notamment à la taxe carbone. La taxe carbone fait beaucoup
+      parler d’elle en ce moment avec le mouvement des gilets jaunes. On
+      regarde donc à quoi sert une taxe carbone, à ses défauts et aux mesures
+      qui peuvent l’accompagner pour augmenter l’acceptabilité sociale.
+    date: "2018-12-14"
+    categories:
+      - "policy"
+    tags:
+      - "climat"
+      - "politique"
+      - "carbone"
+      - "taxe carbone"

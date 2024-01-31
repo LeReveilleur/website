@@ -1,6 +1,6 @@
 ---
 article_type: youtube_video
-tags: [climat, politique]
+tags: [climat, politique, carbone, taxe carbone]
 date: '2023-06-06'
 slug: taxe_carbone_necessaire
 youtube_id: N2fgaITIwZ0

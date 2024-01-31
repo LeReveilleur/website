@@ -15,7 +15,9 @@ image: cover.jpg
 
 {{< youtube UXSIsb3E1X4 >}}
 
-Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me concentre sur les impacts environnementaux et sanitaires que provoquent l'utilisation du charbon.
+Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me
+concentre sur les impacts environnementaux et sanitaires que provoquent
+l'utilisation du charbon.
 
 
 <hr>
