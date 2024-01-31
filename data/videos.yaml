@@ -885,3 +885,27 @@ videos:
       - "solaire"
       - "énergie"
       - "thermique"
+
+  - youtube_id: "oDyvDvQ5JkU"
+    title: "Le solaire thermique"
+    description: |
+      Dans cette vidéo on parle du solaire thermique. Le solaire thermique est
+      un moyen de production de chaleur qui est peu connu, peut-être parce
+      qu'on sous-estime nos besoins en chaleur. On commence donc par jeter un
+      œil à l'utilisation de l'énergie et de chaleur en France. J'explique
+      ensuite ce qu'est le solaire thermique et les différents capteurs
+      existants. Contrairement, à ce qu'on pourrait penser, le stockage de
+      chaleur intersaisonnier est possible. Pour mieux visualiser à quoi
+      ressemble le solaire thermique, on examine un petit exemple. On parle
+      ensuite du rendement, du taux de retour énergétique, des matériaux
+      utilisés et des émissions de CO2 que le solaire thermique permet
+      d'éviter. Enfin, on regarde la situation du solaire thermique dans le
+      monde et en France et je discute des freins à son déploiement avant de
+      conclure.
+    date: "2018-09-11"
+    categories:
+      - "energy"
+    tags:
+      - "solaire"
+      - "énergie"
+      - "thermique"
