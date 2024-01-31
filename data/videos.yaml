@@ -971,3 +971,20 @@ videos:
     tags:
       - "solaire"
       - "énergie"
+
+  - youtube_id: "NIVPzTFhzQY"
+    title: "Quota Carbone Individualisé, un concept pour sauver le monde ?"
+    description: |
+      Dans cette vidéo, je vous parle d'une idée que je trouve intéressante: le
+      quota carbone individualisé. En gros, on donne à chacun un quota carbone
+      qui fait office de monnaie parallèle. On doit donc tout acheter avec nos
+      euros et notre quota CO2. Est-ce que vous pensez que c'est une bonne idée
+      pour régler le problème du changement climatique ?
+    date: "2018-07-13"
+    categories:
+      - "policy"
+    tags:
+      - "climat"
+      - "politique"
+      - "carbone"
+      - "taxe carbone"
