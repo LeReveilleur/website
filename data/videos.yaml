@@ -752,3 +752,35 @@ videos:
       - "énergie"
       - "nucléaire"
       - "déchets radioactifs"
+
+  - youtube_id: "ECXJ5rTNi74"
+    title: "Stockage de l'énergie sous forme mécanique: STEP, volant d'inertie et air comprimé"
+    description: |
+      Dans cette vidéo, on parle du stockage de l’énergie sous forme mécanique.
+      On commence par les stations de transfert d’énergie par pompage (STEP).
+      Les STEP permettent de stocker de grande quantité d’énergie en pompant de
+      l’eau. Elles constituent plus de 99% du stockage de l’électricité dans le
+      monde. Elles sont tellement avantageuses par rapport aux autres
+      technologies qu’on veut en faire à partir d’anciennes mines, en mettre au
+      bord de la mer, voir en construire sous forme d’atolls artificiels
+      ([6:48](https://www.youtube.com/watch?v=ECXJ5rTNi74&t=408s)). Ensuite,
+      j’utilise un petit exemple pour illustrer les difficultés à juger de la
+      pertinence et du coût d’un moyen de stockage
+      ([8:58](https://www.youtube.com/watch?v=ECXJ5rTNi74&t=538s)). Je parle
+      également des volants d’inertie qui permettent de stocker de l’énergie
+      sous forme cinétique dans une masse en rotation
+      ([19:42](https://www.youtube.com/watch?v=ECXJ5rTNi74&t=1182s)). Les
+      volants d’inertie ont des applications différentes des STEP et j’en
+      profite pour évoquer les volants d’inertie en béton dont la vidéo m’a
+      beaucoup été envoyé
+      ([22:57](https://www.youtube.com/watch?v=ECXJ5rTNi74&t=1377s)). Enfin, je
+      discute du stockage par air comprimé
+      ([29:00](https://www.youtube.com/watch?v=ECXJ5rTNi74&t=1740s)). Une
+      technologie prometteuse mais dont le rendement est aujourd’hui faible et
+      le développement incertain.
+    date: "2019-01-08"
+    categories:
+      - "energy"
+    tags:
+      - "énergie"
+      - "stockage"
