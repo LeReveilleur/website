@@ -712,3 +712,16 @@ videos:
       - "politique"
       - "analyse"
       - "climatosceptique"
+
+  - youtube_id: "1tmTy5zax4w"
+    title: "Ma première expérience TV !"
+    description: |
+      Dans cette vidéo, je vous parle de ma première expérience TV: ce que
+      j’aurais voulu dire, comment ça s’est organisé et ce que j’en ai pensé.
+    date: "2019-02-16"
+    categories:
+      - "policy"
+    tags:
+      - "climat"
+      - "carbone"
+      - "politique"
