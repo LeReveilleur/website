@@ -30,17 +30,14 @@ de vapeur d'eau par les sociétés humaines ont une influence sur le climat
 
 ### Rapports du GIEC
 
-On ne fera pas plus clair et consensuel que la [FAQ 8.1 du cinquième rapport du
-GIEC](https://www.ipcc.ch/site/assets/uploads/2020/05/WGI_AR5_FAQ_EN.pdf)
-(GTI):
-
-> As the largest contributor to the natural greenhouse effect, water vapour
-> plays an essential role in the Earth’s climate. However, the amount of water
-> vapour in the atmosphere is controlled mostly by air temperature, rather than
-> by emissions. For that reason, scientists consider it a feedback agent,
-> rather than a forcing to climate change. Anthropogenic emissions of water
-> vapour through irrigation or power plant cooling have a negligible impact on
-> the global climate.
+<div style="text-align: justify"> On ne fera pas plus clair et consensuel que la [FAQ 8.1 du cinquième rapport du
+GIEC](https://www.ipcc.ch/site/assets/uploads/2020/05/WGI_AR5_FAQ_EN.pdf) (GTI): _As the largest contributor to the natural greenhouse effect, water vapour
+plays an essential role in the Earth’s climate. However, the amount of water
+vapour in the atmosphere is controlled mostly by air temperature, rather than
+by emissions. For that reason, scientists consider it a feedback agent,
+rather than a forcing to climate change. Anthropogenic emissions of water
+vapour through irrigation or power plant cooling have a negligible impact on
+the global climate._ </div>
 
 Le chapitre 8 du sixième rapport du GIEC (GTI) traite [des évolution du cycle
 de
@@ -114,26 +111,6 @@ effect works](https://skepticalscience.com/water-vapor-greenhouse-gas-intermedi
 - Un petit cours: [Atmospheric
 Water](https://www.e-education.psu.edu/earth103/node/558)
 
-### Vapeur d'eau dans la troposphère
-
-Un article assez hardcore pour __faire le point sur la vapeur d’eau dans la
-troposphère__:
-
-- Sherwood, S. C., et al. « [Tropospheric water vapor, convection,
-and
-climate](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009RG000301). » _Reviews
-of Geophysics_ 48.2 (2010).
-
-### Climatologues sur Twitter
-
-Deux __climatologues__ évoquent, sur Twitter, le rôle de la vapeur d’eau dans
-le changement climatique:
-
-- [Thread de François-Marie
-Bréon](https://twitter.com/fmbreon/status/1189639242999316488).
-- [Thread de Valérie
-Masson-Delmotte](https://twitter.com/valmasdel/status/1555187460929363968).
-
 ### Quantification de l'influence climatique des émissions de vapeur d'eau par les sociétés humaines
 
 L’article qui __quantifie spécifiquement l’influence climatique des émissions
@@ -144,18 +121,27 @@ vapour](https://iopscience.iop.org/article/10.1088/1748-9326/aae018). » _Envi
 Research Letters_ 13.10 (2018): 104006. (Discuté dans [cet
 article](https://physicsworld.com/a/are-our-water-vapour-emissions-warming-the-climate/)).
 
+### Vapeur d'eau dans la troposphère
+
+- Sherwood, S. C., et al. « [Tropospheric water vapor, convection,
+and
+climate](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2009RG000301). » _Reviews
+of Geophysics_ 48.2 (2010).
+
+### Climatologues sur Twitter sur ce sujet
+
+- [Thread de François-Marie
+Bréon](https://twitter.com/fmbreon/status/1189639242999316488).
+- [Thread de Valérie
+Masson-Delmotte](https://twitter.com/valmasdel/status/1555187460929363968).
+
 ### Wikipédia
 
-#### Courbe de saturation
-
-Je me suis servi de la __courbe de saturation__ (Sonntag ; NF X15-110) que l’on
+- Je me suis servi de la __courbe de saturation__ (Sonntag ; NF X15-110) que l’on
 trouve dans cet [article
 Wikipédia](https://fr.m.wikipedia.org/wiki/Pression_de_vapeur_saturante_de_l%27eau).
 Il y a d’autres approximations mais ça ne change pas grand chose à la forme de
 la courbe.
-
-#### Physique de base 
-
 - [Water vapor](https://en.wikipedia.org/wiki/Water_vapor#In_Earth's_atmosphere)  
 - [Water cycle](https://en.wikipedia.org/wiki/Water_cycle)  
 - [Pression de vapeur saturante](https://fr.wikipedia.org/wiki/Pression_de_vapeur_saturante)  

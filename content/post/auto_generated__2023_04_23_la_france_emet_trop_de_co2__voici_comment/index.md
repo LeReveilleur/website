@@ -15,7 +15,7 @@ image: cover.jpg
 
 {{< youtube sDxvadwizw8 >}}
 
-La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
+<div style="text-align: justify"> La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
 année. Pour limiter le réchauffement climatique et ses conséquences, il
 faut réduire ces émissions de gaz à effet de serre. En France, l’objectif
 est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est
@@ -26,7 +26,7 @@ CO2, le méthane et les autres gaz émis par la France. C’est en
 identifiant la source du problème qu’on pourra trouver des solutions.
 D’autant que tous les secteurs d’activité sont concernés : aussi bien les
 transports, que l’industrie, l’agriculture ou encore de l’énergie. Il
-faut tout repenser pour décarboner le pays.
+faut tout repenser pour décarboner le pays. </div>
 
 
 <hr>
@@ -58,15 +58,15 @@ vélo](https://www.linkedin.com/feed/update/urn:li:activity:6996049503321493504/
 - [Les voitures
 électriques](https://climate.ec.europa.eu/system/files/2020-09/2020_study_main_report_en.pdf)
 
-### Calcul de l'empreinte carbone
+### Complément sur le calcul de l'empreinte carbone
 
-Complément pour le calcul de l’empreinte carbone en 2019 : Les données pour
+<div style="text-align: justify"> Complément pour le calcul de l’empreinte carbone en 2019 : Les données pour
 l’empreinte carbone en 2019 sont des estimations et la répartition n’est pas
 encore disponible. Pour répartir, nous sommes partis du principe que,
 logiquement, les émissions de la consommation intérieure dans l’empreinte
-carbone devait être la même que la somme \[consommation intérieure des
-émissions territoriales + transport international\]. Cependant, il existe des
+carbone devait être la même que la somme [consommation intérieure des
+émissions territoriales + transport international]. Cependant, il existe des
 différences méthodologiques entre les deux approches. Et les années précédentes
 où les données sont disponibles montrent qu’il y a une différence entre ces
 deux quantités. Ce choix affecte un peu la répartition entre les catégories de
-l’empreinte carbone pour présenter un ensemble cohérent.
+l’empreinte carbone pour présenter un ensemble cohérent. </div>

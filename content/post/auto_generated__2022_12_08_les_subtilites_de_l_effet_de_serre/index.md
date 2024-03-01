@@ -25,22 +25,15 @@ la surface de notre belle planète.
 
 ## Sources bibliographiques
 
-J’ai pas mal utilisé ce __modèle physique de l’atmosphère__: [MODTRAN](http://climatemodels.uchicago.edu/modtran/). Pour retrouver les conditions de la vidéo, il faut mettre l’axe en _Wavelength_ (longueur d’onde) au lieu de _Wavenumber_. Et passer _Locality_ à _Midlatitude Winter_.
+### Définition de l'effet de serre
 
-Le sujet de cette vidéo est __au programme de première__ générale comme le montre [ce document](https://eduscol.education.fr/document/25390/download). On note d’ailleurs que la figure du bilan énergétique p7 est plutôt bonne !
+[__Définition de l’effet de serre__ que donne le GIEC](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_AnnexVII.pdf) :  ___Greenhouse effect:___ _The infrared radiative effect of all infraredabsorbing constituents in the atmosphere._ _Greenhouse gases (GHGs), clouds, and some aerosols absorb terrestrial radiation emitted by the Earth’s surface and elsewhere in the atmosphere. These substances emit infrared radiation in all directions, but, everything else being equal, the net amount emitted to space is normally less than would have been emitted in the absence of these absorbers because of the decline of temperature with altitude in the troposphere and the consequent weakening of emission._  
+==> On voit que la décroissance de la température dans la troposphère, rarement évoquée quand on parle de l’effet de serre, est indispensable pour comprendre ce mécanisme.
 
-[__Définition de l’effet de serre__ que donne le GIEC](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_AnnexVII.pdf) :  
-> ___Greenhouse effect:___ _The infrared radiative effect of all infraredabsorbing constituents in the atmosphere._ _Greenhouse gases (GHGs), clouds, and some aerosols absorb terrestrial radiation emitted by the Earth’s surface and elsewhere in the atmosphere. These substances emit infrared radiation in all directions, but, everything else being equal, the net amount emitted to space is normally less than would have been emitted in the absence of these absorbers because of the decline of temperature with altitude in the troposphere and the consequent weakening of emission._  
+### Deux vidéos de vulgarisation plutôt pas mal sur l’effet de serre:  
 
-\==> On voit que la décroissance de la température dans la troposphère, rarement évoquée quand on parle de l’effet de serre, est indispensable pour comprendre ce mécanisme.
-
-### Figures utilisées
-
-– La figure qui m’a servi de base pour la représentation et les quantifications provient du [chapitre 7](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07.pdf) du travail du groupe I pour le sixième rapport du GIEC (Figure 7.2). Pour le bilan énergétique, il y a également la jolie [figure de la NASA](https://www.nasa.gov/feature/langley/what-is-earth-s-energy-budget-five-questions-with-a-guy-who-knows) (on y voit notamment la fenêtre atmosphérique à 40, valeur que j’ai utilisé dans ma représentation).  
-– [Le spectre du rayonnement solaire](https://commons.wikimedia.org/wiki/File:Solar_Spectrum.png).  
-– La figure montrant l’[absorption de l’atmosphère à différentes longueurs d’onde](https://twitter.com/RARohde/status/1196761516051238912). Comme la concentration en vapeur d’eau décroit vite dans l’atmosphère, [on voit la différence d’absorption entre le bas et le haut de l’atmosphère](https://twitter.com/rarohde/status/1197147289229385728).  
-– Une autre figure qui montre l’[absorption du rayonnement terrestre par différents constituants de l’atmosphère](https://www.researchgate.net/figure/The-spectral-density-of-the-thermal-flow-long-wave-radiation-of-the-Earths-surface-as-a_fig2_326639874).  
-– Thomas Auriel s’est servi de [ce jeu de données](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview) pour produire les visualisations du bilan énergétique vu de l’espace.
+– [Le bilan thermique de la Terre expliqué](https://www.youtube.com/watch?v=34oua7cIcso) – _bright blue_  
+– [L’effet de serre](https://www.youtube.com/watch?v=0K7hKX9Jge4) – _bright blue_
 
 ### Vulgarisation du bilan énergétique et de l’effet de serre
 
@@ -54,21 +47,30 @@ Le sujet de cette vidéo est __au programme de première__ générale comme le m
 – \[EN\] Ce que j’ai trouvé de __plus complet__ (en 8 parties !) : [_CO2 – An Insignificant Trace Gas? Part One_](https://scienceofdoom.com/2009/11/28/co2-an-insignificant-trace-gas-part-one/)  
 – \[EN\] Sur la question de la saturation du CO2: [Part II: What Ångström didn’t know](https://www.realclimate.org/index.php/archives/2007/06/a-saturated-gassy-argument-part-ii/)
 
-### Interactions rayonnement matière (réflexion/diffusion/absorption, etc) 
+### Modèle utilisé
+
+J’ai pas mal utilisé ce __modèle physique de l’atmosphère__: [MODTRAN](http://climatemodels.uchicago.edu/modtran/). Pour retrouver les conditions de la vidéo, il faut mettre l’axe en _Wavelength_ (longueur d’onde) au lieu de _Wavenumber_. Et passer _Locality_ à _Midlatitude Winter_.
+
+### Figures utilisées
+
+– La figure qui m’a servi de base pour la représentation et les quantifications provient du [chapitre 7](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07.pdf) du travail du groupe I pour le sixième rapport du GIEC (Figure 7.2). Pour le bilan énergétique, il y a également la jolie [figure de la NASA](https://www.nasa.gov/feature/langley/what-is-earth-s-energy-budget-five-questions-with-a-guy-who-knows) (on y voit notamment la fenêtre atmosphérique à 40, valeur que j’ai utilisé dans ma représentation).  
+– [Le spectre du rayonnement solaire](https://commons.wikimedia.org/wiki/File:Solar_Spectrum.png).  
+– La figure montrant l’[absorption de l’atmosphère à différentes longueurs d’onde](https://twitter.com/RARohde/status/1196761516051238912). Comme la concentration en vapeur d’eau décroit vite dans l’atmosphère, [on voit la différence d’absorption entre le bas et le haut de l’atmosphère](https://twitter.com/rarohde/status/1197147289229385728).  
+– Une autre figure qui montre l’[absorption du rayonnement terrestre par différents constituants de l’atmosphère](https://www.researchgate.net/figure/The-spectral-density-of-the-thermal-flow-long-wave-radiation-of-the-Earths-surface-as-a_fig2_326639874).  
+– Thomas Auriel s’est servi de [ce jeu de données](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=overview) pour produire les visualisations du bilan énergétique vu de l’espace.
+
+### Interactions rayonnement/matière (réflexion/diffusion/absorption, etc) 
 
 [Une page de vulgarisation](https://eplanets.univ-lyon1.fr/notions-scientifiques/teledetection-hyperspectrale/interactions-rayonnement-matiere/) et une [présentation plus compliquée avec les formules physiques et des développements mathématiques](https://ressources.unisciel.fr/sillages/physique/thermo_2a_pc/res/pheno_transport.pdf).
 
 ### Autres
 
+– Le sujet de cette vidéo est __au programme de première__ générale comme le montre [ce document](https://eduscol.education.fr/document/25390/download). On note d’ailleurs que la figure du bilan énergétique p7 est plutôt bonne !  
 – Il y a plusieurs quantifications pour l’__intervalle du domaine visible__. J’ai pris [cette page de la NASA](https://science.nasa.gov/ems/09_visiblelight).  
 – [Observation du rayonnement infrarouge par des satellites](https://e-cours.univ-paris1.fr/modules/uved/envcal/html/rayonnement/precisions-bandes-msg/irtherm.html).  
 – [Constante solaire/Total Solar Irradiance](https://www.pmodwrc.ch/en/research-development/solar-physics/tsi-composite/) (1361 W/m² en moyenne annuelle en haut de l’atmosphère).  
 – [Carl Sagan testifying before Congress in 1985 on climate change](https://www.youtube.com/watch?v=Wp-WiNXH6hI).  
 – [Chiffres clefs du climat](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/1-observations-du-changement-climatique) (plein de belles données sur le changement climatique en France).
-
-Deux vidéos de vulgarisation plutôt pas mal sur l’effet de serre:  
-– [Le bilan thermique de la Terre expliqué](https://www.youtube.com/watch?v=34oua7cIcso) – _bright blue_  
-– [L’effet de serre](https://www.youtube.com/watch?v=0K7hKX9Jge4) – _bright blue_
 
 ### Wikipédia
 

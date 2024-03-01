@@ -1,8 +1,6 @@
-## Source bibliographiques
+## Compléments (astérisques)
 
-### Astérisques
-
-#### CO2 atmosphérique
+### CO2 atmosphérique
 
 Les données sur l’évolution d’un surplus de CO2 atmosphérique proviennent de
 modèles de cycle du carbone dans lesquels on applique une émission importante
@@ -15,12 +13,7 @@ papiers scientifiques comme
 [celui-ci](https://acp.copernicus.org/articles/17/7213/2017/acp-17-7213-2017.pdf)
 (table 1). 
 
-L’affirmation suivante est mathématiquement exacte :
-
-> La durée de vie moyenne d’un surplus de CO2 dans l’atmosphère est supérieure
-> à 1000 ans 
-
-Mais elle ne rend pas compte de la complexité de cette réduction qui est
+L’affirmation suivante est mathématiquement exacte : _La durée de vie moyenne d’un surplus de CO2 dans l’atmosphère est supérieure à 1000 ans_. Mais elle ne rend pas compte de la complexité de cette réduction qui est
 modélisée comme une superposition d’exponentielle décroissante avec différentes
 constantes de temps. [Voir la vidéo sur la chaîne Le Réveilleur qui couvre cet
 aspect]({{< ref
@@ -29,7 +22,7 @@ aspect]({{< ref
 
 {{< youtube kqBCN-w-lGU >}}
 
-#### Emissions de méthane non-fossile
+### Emissions de méthane non-fossile
 
 Les facteurs pour les émissions de méthane non-fossiles sont légèrement
 différents des facteurs pour les émissions de méthane fossiles pour des raisons
@@ -39,9 +32,9 @@ non-fossile, en nous fondant sur [cet
 article](https://essd.copernicus.org/articles/12/1561/2020/). Cette
 quantification se veut représentative d’un kg de méthane moyen. 
 
-### Sources 
+## Sources 
 
-#### Rapports du GIEC
+### Rapports du GIEC
 
 Cette vidéo s’appuie sur le travail de très nombreux scientifiques synthétisé dans les rapports du GIEC et, en particulier, sur le récent sixième rapport du GIEC (AR6).
 
@@ -66,12 +59,12 @@ proviennent du
 d’un des chercheurs.
 
 
-#### Concentration en CO2
+### Concentration en CO2
 
 - [Observations directes (Mauna Loa)](https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt)
 - [Carottes de glace (Law Dome)](https://www.ncei.noaa.gov/pub/data/paleo/icecore/antarctica/law/law2018co2.txt )
 
-#### Répartition des émissions de CO2
+### Répartition des émissions de CO2
 
 - Friedlingstein, Pierre, et al. "Global carbon budget 2020." [Earth System
 Science Data
@@ -86,7 +79,7 @@ Emissions](https://cdiac.ess-dive.lbl.gov/trends/emis/overview.html) (1751 – 2
 National Laboratory (ORNL), Oak Ridge, TN, USA.) et disponible
 [ici](https://cdiac.ess-dive.lbl.gov/trends/emis/tre_glob.html)
 
-#### Empreinte carbone
+### Empreinte carbone
 
 Pour l’empreinte, j’ai effectué un travail à partir des données disponibles
 [ici](https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2021) pour
@@ -94,7 +87,7 @@ avoir des estimations d’empreinte sur les régions géographiques définis par
 GIEC. Source: Friedlingstein, Pierre, et al. "Global carbon budget 2021." Earth
 System Science Data 14.4 (2022): 1917-2005. 
 
-#### Pour aller plus loin 
+### Pour aller plus loin 
 
 - https://theconversation.com/fr/topics/empreinte-carbone-104734
 - https://www.carbonbrief.org/analysis-which-countries-are-historically-responsible-for-climate-change

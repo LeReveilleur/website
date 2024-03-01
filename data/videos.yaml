@@ -229,7 +229,7 @@ videos:
   - youtube_id: "sDxvadwizw8"
     title: "La France émet trop de CO2, voici comment"
     description: |
-      La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
+      <div style="text-align: justify"> La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
       année. Pour limiter le réchauffement climatique et ses conséquences, il
       faut réduire ces émissions de gaz à effet de serre. En France, l’objectif
       est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est
@@ -240,7 +240,7 @@ videos:
       identifiant la source du problème qu’on pourra trouver des solutions.
       D’autant que tous les secteurs d’activité sont concernés : aussi bien les
       transports, que l’industrie, l’agriculture ou encore de l’énergie. Il
-      faut tout repenser pour décarboner le pays.
+      faut tout repenser pour décarboner le pays. </div>
     date: "2023-04-23"
     categories:
       - "science"

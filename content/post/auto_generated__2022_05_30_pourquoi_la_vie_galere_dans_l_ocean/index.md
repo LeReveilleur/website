@@ -26,7 +26,7 @@ et d'une idée de géoingénierie: la fertilisation de l'océan par du fer.
 
 <hr>
 
-## Sources bibliographiques
+## Compléments 
 
 Dans le cadre de cette missions, j’ai également réalisé [__une
 interview__](https://www.youtube.com/watch?v=9HGYQQAWuXY) avec Cécile Guieu
@@ -48,6 +48,8 @@ Mes autres vidéos sur des sujets connexes: [Cycle du carbone océanique et
 devenir de nos
 émissions](https://www.youtube.com/watch?v=NcEI76hJVR0), [Acidification des
 océans](https://www.youtube.com/watch?v=vtTlQ0HZZ2g).
+
+## Sources bibliographiques
 
 ### Rapports du GIEC
 
