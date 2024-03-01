@@ -67,7 +67,7 @@ Dans cette première vidéo sur l'hydrogène, je m'intéresse à sa production. 
 - _[Hydrogen and hydrogen-derived fuels through methane decomposition of natural gas - GHG emissions and costs](https://www.sciencedirect.com/science/article/pii/S2590174520300155?via%3Dihub)_ - Timmerberg et al. (2020).
 - [Direct decarbonization of methane by thermal plasma for the production of hydrogen and high value-added carbon black](https://www.sciencedirect.com/science/article/abs/pii/S0360319917336492?via%3Dihub) - Gautier et al. (2020)
 
-### utilisation de chaleur pour produire de l’hydrogène
+### Utilisation de chaleur pour produire de l’hydrogène
 
 - Je me suis servi des rapports listés plus haut (notamment l’AIE)
 - Les cycles thermochimiques sont évoqués sur [cette page du CNRS](https://www.promes.cnrs.fr/index.php?page=cycles-thermochimiques-de-dissociation-de-l-eau#:~:text=Les%20cycles%20thermochimiques%20coupl%C3%A9s%20%C3%A0,ordre%20de%2030%2D45%25) et, rapidement et en anglais, sur ce [site gouvernemental américain](https://www.energy.gov/eere/fuelcells/hydrogen-production-thermochemical-water-splitting). Pour mon petit exemple je me suis basé sur [cette page Wikipédia](https://en.wikipedia.org/wiki/Zinc%E2%80%93zinc_oxide_cycle). Le projet [Hydrosol](https://www.ecosources.info/actualites/374-hydrosol-ii-produire-de-l-hydrogene-en-exploitant-l-energie-solaire) qui utilise un cycle thermochimique et du solaire à concentration.
