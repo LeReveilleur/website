@@ -1,4 +1,4 @@
-## Sources bibliographiques
+## Compléments
 
 Cette vidéo est financée par le [Débat Public Éoliennes en mer
 Nouvelle-Aquitaine](https://www.debatpublic.fr/eolien-nouvelle-aquitaine). Vous
@@ -10,9 +10,11 @@ avis](https://framaforms.org/questionnaire-pour-analyser-linteret-du-jeu-en-lign
   
 Autres vidéos financées par le même débat public :
 
-- [Science de Comptoir](https://www.youtube.com/watch?v=lDRQTJ0y-7Y).  
-- [Monsieur Bidouille](https://www.youtube.com/watch?v=JccnggcUBk8).  
-- [Le monde en cartes](https://www.youtube.com/watch?v=M_A5cm5Dp88).  
+- [Science de Comptoir](https://www.youtube.com/watch?v=lDRQTJ0y-7Y)  
+- [Monsieur Bidouille](https://www.youtube.com/watch?v=JccnggcUBk8)  
+- [Le monde en cartes](https://www.youtube.com/watch?v=M_A5cm5Dp88)  
+
+## Sources bibliographiques
 
 ### Rapports
 
@@ -40,7 +42,7 @@ eaux](https://ec.europa.eu/maritimeaffairs/atlas/maritime_atlas/#lang=EN;p=w;bkg
 - Modèle typique d’éolien terrestre: [Vestas éolienne terrestre
 V136-3.45MW](https://www.vestas.com/en/products/4-mw-platform/v136-_3_45_mw#!).
 - Des éoliennes en mer à >60% de facteur de charge: [Haliade
-X](https://www.ge.com/renewableenergy/wind-energy/offshore-wind/haliade-x-offshore-turbine)
+X](https://www.ge.com/renewableenergy/wind-energy/offshore-wind/haliade-x-offshore-turbine).
 - [Vestas to install prototype of world’s ‘tallest and most powerful wind
 turbine’ in
 2022](https://www.cnbc.com/2021/10/18/vestas-to-install-prototype-of-most-powerful-wind-turbine.html).
@@ -88,8 +90,7 @@ RTE](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsi
 - [La guerre des prix sur le marché de l’éolien offshore
 européen](https://www.lemondedelenergie.com/guerre-prix-eolien-offshore/2018/03/21/)
 - [Projected Costs of Generating Electricity – 2020
-edition](https://iea.blob.core.windows.net/assets/ae17da3d-e8a5-4163-a3ec-2e6fb0b5677d/Projected-Costs-of-Generating-Electricity-2020.pdf)
-- IEA  
+edition](https://iea.blob.core.windows.net/assets/ae17da3d-e8a5-4163-a3ec-2e6fb0b5677d/Projected-Costs-of-Generating-Electricity-2020.pdf)- IEA  
 - [Renewable Power Generation Costs
 2020](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2021/Jun/IRENA_Power_Generation_Costs_2020.pdf)
 – IRENA
@@ -145,7 +146,7 @@ et du prix des métaux](https://hal.archives-ouvertes.fr/hal-02396615/document)
 - [Le cuivre : revue de l’offre mondiale en 2019](http://infoterre.brgm.fr/rapports/RP-69037-FR.pdf) – BRGM  
 - [Copper (2021)](https://pubs.usgs.gov/periodicals/mcs2021/mcs2021-copper.pdf) – USGS  
 - Pietrzyk, S., and B. Tora. « [Trends in global copper mining – a review](https://iopscience.iop.org/article/10.1088/1757-899X/427/1/012002/pdf). » _IOP Conference Series: Materials Science and Engineering_. Vol. 427. No. 1. IOP Publishing, 2018.  
-– Vidal, Olivier, et al. « [Prey–Predator Long-Term Modeling of Copper Reserves, Production, Recycling, Price, and Cost of Production | Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.9b03883). » _Environmental science & technology_ 53.19 (2019): 11323-11336.  
+- Vidal, Olivier, et al. « [Prey–Predator Long-Term Modeling of Copper Reserves, Production, Recycling, Price, and Cost of Production | Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.9b03883). » _Environmental science & technology_ 53.19 (2019): 11323-11336.  
 - Rötzer, Nadine, and Mario Schmidt. « [Decreasing metal ore grades—is the fear of resource depletion justified?](https://www.sciencedirect.com/science/article/abs/pii/S0921344913002127). » _Resources_ 7.4 (2018): 88.
 
 ### Terres Rares

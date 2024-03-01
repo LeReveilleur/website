@@ -38,7 +38,7 @@ Cette erreur change certaines quantifications de la vidéo mais n’affecte pas 
 - L’excellente thèse d’Aurélien Bigo: [Les transports face au défi de la transition énergétique. Explorations entre passé et avenir, technologie et sobriété, accélération et ralentissement](http://www.chair-energy-prosperity.org/wp-content/uploads/2019/01/These-Aurelien-Bigo.pdf). Un grand merci à Aurélien Bigo qui a relu le texte et update ces données pour ma vidéo !
 - Un rapport (en anglais) de l’UNCTAD fait [le point sur les aspects écologiques et économiques des métaux nécessaires pour les batteries](https://unctad.org/system/files/official-document/ditccom2019d5_en.pdf).
 
-Je vous conseille de regarder le documentaire [A contresens](https://acontresens-lefilm.fr/). A ma connaissance, il n’est pas disponible en accès libre mais vous pouvez le louer [ici](https://player.vimeo.com/video/421522508).
+Je vous conseille de regarder le documentaire [_A contresens_](https://acontresens-lefilm.fr/). A ma connaissance, il n’est pas disponible en accès libre mais vous pouvez le louer [ici](https://player.vimeo.com/video/421522508).
 
 ### Émissions de CO2
 

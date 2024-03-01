@@ -24,9 +24,13 @@ et de la voiture thermique.
 
 ## Sources bibliographiques
 
-[Climobil](https://climobil.connecting-project.lu/?batteryLifetime=240000&batteryCapacity=30&greenhouseGas=65&electricCarRange=250&carbonElectricityMix=300&greenhouseBattery=30&greenhouseWTT=25&greenhouseTTW=150&batteryPenalty=0.9&annualMileage=20000&ICECurb=1551&ECurb=1977&NEDCpenalty=0.39&decarbonization=0) est un super site qui vous permettra de comparer des modèles de voiture électrique et de voiture thermique en ajustant vous même les paramètres clefs (n’hésitez pas à utiliser les paramètres avancés). **Utilisez le !**
+### Consommation d'électricité des raffineries
 
 En commentaires, j’ai eu plusieurs fois l’idée que le raffinage des carburants demandait beaucoup d’électricité. C’est FAUX. [Les raffineries consomment 3,7 TWh](http://encyclopedie-dd.org/encyclopedie/neige-neige-sciences-et-techniques/a-3-faits-et-chiffres/les-consommations-d-energie-en.html) (et pas juste pour les carburants automobiles !). Un petit article sur cette question: [Vérification faite : Combien d’électricité pour un litre d’essence?](https://www.lesoleil.com/actualite/verification-faite/verification-faite--combien-delectricite-pour-un-litre-dessence-2b4240fccdd01278f25d5a6408bd2599)
+
+### Outil pour comparer voitures électriques et thermiques
+
+[Climobil](https://climobil.connecting-project.lu/?batteryLifetime=240000&batteryCapacity=30&greenhouseGas=65&electricCarRange=250&carbonElectricityMix=300&greenhouseBattery=30&greenhouseWTT=25&greenhouseTTW=150&batteryPenalty=0.9&annualMileage=20000&ICECurb=1551&ECurb=1977&NEDCpenalty=0.39&decarbonization=0) est un super site qui vous permettra de comparer des modèles de voiture électrique et de voiture thermique en ajustant vous même les paramètres clefs (n’hésitez pas à utiliser les paramètres avancés). **Utilisez le !**
 
 ### Analyses de la voiture électrique
 
@@ -65,7 +69,7 @@ En commentaires, j’ai eu plusieurs fois l’idée que le raffinage des carbura
 - [Circulation routière en France](https://www.statistiques.developpement-durable.gouv.fr/stabilite-de-la-circulation-routiere-en-france-en-2019).
 - [Consommation de carburant moyenne des voitures en France](https://fr.statista.com/statistiques/486554/consommation-de-carburant-moyenne-voiture-france/).
 - [Consommation carburant moyenne des véhicules utilitaires légers en France](https://fr.statista.com/statistiques/487198/consommation-carburant-moyenne-vehicules-utilitaires-legers-france/).
-- [38,2 millions de voitures en circulation en France](https://www.statistiques.developpement-durable.gouv.fr/382-millions-de-voitures-en-circulation-en-france#:~:text=Au%201er%20janvier%202020%2C%2038,%25)%20diminue%2C%20mais%20reste%20majoritaire.).
+- [38,2 millions de voitures en circulation en France](https://www.statistiques.developpement-durable.gouv.fr/382-millions-de-voitures-en-circulation-en-france).
 
 ### Dégradation de la batterie
 

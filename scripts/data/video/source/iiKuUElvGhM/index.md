@@ -1,5 +1,7 @@
 ## Sources bibliographiques
 
+### Meilleures ressources
+
 Pour aller plus loin, vous pouvez lire __l’excellent article__ de Loïc
 Giaccone : [Inertie du climat, ou inertie des sociétés
 ?](https://climatanthropocene.com/2021/11/30/inertie-du-climat-ou-inertie-des-societes/amp/)
@@ -37,9 +39,7 @@ décideurs](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM
 4](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter_04.pdf)
 – FAQ 4.2 (figure sur les forçages radiatifs)
 
-### Courbes retenues
-
-Je me suis également servi des courbes suivantes :
+### Je me suis servi des courbes suivantes
 
 - La courbe (NOAA) que j’ai utilisé pour [la concentration
 atmosphérique](https://www.climate.gov/media/12990).  

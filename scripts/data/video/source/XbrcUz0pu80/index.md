@@ -54,15 +54,14 @@ Vous pouvez aussi aller voir mes vidéos sur __les moyens de production__:
 - [Un problème de batterie ?](https://www.youtube.com/watch?v=xVroWRO0duI)
 - [La voiture électrique est-elle écologique ?](https://www.youtube.com/watch?v=zjaUqUozwdc)
   
-### Autres
+### Autres sources
 
-- [__Concertation sur la stratégie française sur l’énergie et le
-climat__](https://concertation-strategie-energie-climat.gouv.fr/)  
+- [Concertation sur la stratégie française sur l’énergie et le climat](https://concertation-strategie-energie-climat.gouv.fr/)  
 - [Estimation la plus récente de l’empreinte carbone française](https://www.statistiques.developpement-durable.gouv.fr/estimation-de-lempreinte-carbone-de-1995-2020)
 - [Stratégie Nationale Bas
 Carbone](https://www.ecologie.gouv.fr/strategie-nationale-bas-carbone-snbc)  
 
-#### Les coûts
+### Les coûts
 
 - [Projecting costs of generating electricity 2020
 (AIE)](https://iea.blob.core.windows.net/assets/ae17da3d-e8a5-4163-a3ec-2e6fb0b5677d/Projected-Costs-of-Generating-Electricity-2020.pdf)  
