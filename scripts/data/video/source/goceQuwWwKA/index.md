@@ -1,14 +1,14 @@
-## Sources bibliographiques
+## Sources
 
 ### Outils numériques
 
 N’hésitez pas à utiliser le très bel outil [Eco2mix](https://www.rte-france.com/en/eco2mix/co2-emissions) de RTE, le site [electricityMap](https://www.electricitymap.org/map) et celui d’[écowatt](https://monecowatt.fr/2020-11-02-region-ile-de-france).
 
-### Facture en électricité
+### Facture d'électricité
 
-Pour décortiquer votre facture d’électricité, je vous conseille ce [thread de Kevin Arnoux](https://twitter.com/kevin_arnoux/status/1320422631670165504). 
-
-Sources utilisées: [un document de la CRE](https://www.cre.fr/Documents/Publications/Observatoire-des-marches/observatoire-des-marches-de-detail-du-2e-trimestre-2020) (notamment figure 15) et [cette page web](https://prix-elec.com/tarifs/electricite/decomposition).
+- Pour décortiquer votre facture d’électricité, je vous conseille ce [thread de Kevin Arnoux](https://twitter.com/kevin_arnoux/status/1320422631670165504). 
+- [un document de la CRE](https://www.cre.fr/Documents/Publications/Observatoire-des-marches/observatoire-des-marches-de-detail-du-2e-trimestre-2020) (notamment figure 15) 
+- [décomposition du prix de l'électricité](https://prix-elec.com/tarifs/electricite/decomposition).
 
 ### Marché de l'électricité
 
@@ -31,7 +31,7 @@ Pour comprendre le marché de l’électricité et la responsabilité d’équil
 - [Karnfull est un fournisseur suédois qui propose une offre 100% nucléaire](https://blog.karnfull.se/blog/karnfull-energi-is-sweden-s-first-100-nuclear-energy-supplier).
 - [La directive 2009/72/CE du parlement européen et du conseil](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32009L0072&from=EN): _\[…\] où des informations concernant l’impact environnemental, au moins en ce qui concerne les émissions de CO2 et **les déchets radioactifs** résultant de la production d’électricité à partir de la totalité des sources d’énergie utilisées par le fournisseur au cours de l’année écoulée, sont à la disposition du public_.
 
-### Aspects économique
+### Aspects économiques
 
 - Un document du sénat qui fait le point sur [les montants du soutien aux énergies renouvelables électriques](https://www.senat.fr/rap/l19-140-311-1/l19-140-311-110.html) (voir aussi cet excellent article de [S. Huet](https://www.lemonde.fr/blog/huet/2018/04/19/la-cour-des-comptes-alerte-sur-le-cout-des-enr/)).
 - Un rapport de Grexel sur le [développement du marché des garanties d’origine](https://www.ecohz.com/wp-content/uploads/2018/10/GO-monitoring-report-recs-and-vasaett-2017.pdf).
@@ -43,14 +43,11 @@ Pour comprendre le marché de l’électricité et la responsabilité d’équil
 - J’ai beaucoup utilisé le document 2019 de l’AIB [_European Residual Mixes_](https://elering.ee/sites/default/files/2020-06/Euroopa%20%C3%BCldine%20ja%20riigiti%20eristatud%20segaj%C3%A4%C3%A4k%202019.pdf) qui donne les mix de production et les mix fournisseurs pour tous les pays européens.
 - [EEX publie le mix résiduel français pour 2019](https://www.powernext.com/sites/default/files/download_center_files/20200615_EEX_publishes_the_French_residual_mix_for_2019.pdf)
 - [le mix résiduel norvégien](https://www.nve.no/norwegian-energy-regulatory-authority/retail-market/electricity-disclosure-2018/) (attribué à un norvégien ne disposant pas d’offre renouvelable).
-- Les données pour la Norvège: [exports de garantie d’origine](https://www.nve.no/norwegian-energy-regulatory-authority/retail-market/electricity-disclosure-2018/) et [exports physiques d’électricité](https://www.ssb.no/en/energi-og-industri/artikler-og-publikasjoner/record-high-wind-power-generation--377103#:~:text=Large%20net%20export%20of%20power,higher%20than%20imports%20for%20electricity).
-
-### Initiative
-
-- L’initiative [RE100](https://www.there100.org/) réunit des entreprises qui se sont engagées dans une démarche 100% renouvelable (j’ai piqué le visuel [ici](https://www.ekoenergy.org/buying-100-renewable-energy-is-becoming-the-new-normal/)).
+- Les données pour la Norvège: [exports de garantie d’origine](https://www.nve.no/norwegian-energy-regulatory-authority/retail-market/electricity-disclosure-2018/) et [exports physiques d’électricité](https://www.ssb.no/en/energi-og-industri/artikler-og-publikasjoner/record-high-wind-power-generation--377103).
 
 ### Autres
 
+- L’initiative [RE100](https://www.there100.org/) réunit des entreprises qui se sont engagées dans une démarche 100% renouvelable (j’ai piqué le visuel [ici](https://www.ekoenergy.org/buying-100-renewable-energy-is-becoming-the-new-normal/)).
 - [Le bilan électrique RTE 2019](https://assets.rte-france.com/prod/public/2020-06/bilan-electrique-2019_1_0.pdf)
 - La thèse d’Étienne Durand: [Électricité de source renouvelable et droit du marché intérieur européen](http://www.theses.fr/2017LYSE3072) (malheureusement pas en accès libre).
 - [Is guarantee of origin really an effective energy policy tool in Europe? A critical approach](https://akjournals.com/view/journals/204/41/4/article-p487.xml) (2019), A. Hamburger.

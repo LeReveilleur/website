@@ -19,28 +19,26 @@ Dans cette vidéo, je vous parle des climats du passé et de l'évolution de la 
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Chaînes Youtube
 
-Je remercie Sébastien Carassou pour son intervention. N’hésitez pas à consulter sa chaîne, le Sense Of Wonder, et notamment la vidéo sur [l’effet du Soleil dans le futur](https://www.youtube.com/watch?v=cRY0jJYVyDc). La chaîne [Sous Nos Pieds](https://www.youtube.com/channel/UCtXgE_tacrZi1HS8Wbdq4zQ) a également d’excellent contenu sur le passé et la géologie :).
+- Je remercie Sébastien Carassou pour son intervention. N’hésitez pas à consulter sa chaîne, le Sense Of Wonder, et notamment la vidéo sur [l’effet du Soleil dans le futur](https://www.youtube.com/watch?v=cRY0jJYVyDc). 
+- La chaîne [Sous Nos Pieds](https://www.youtube.com/channel/UCtXgE_tacrZi1HS8Wbdq4zQ) a également d’excellent contenu sur le passé et la géologie :).
+- En anglais, la chaîne [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) est vraiment bien si la géologie et les climats du passé vous intéresse.
 
-En anglais, la chaîne [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) est vraiment bien si la géologie et les climats du passé vous intéresse.
-
-### Livres
-
-Je vous recommande les deux livres suivants:  
+### Livres que je vous recommande
 
 - [Voyage à travers les climats de la Terre](https://www.odilejacob.fr/catalogue/sciences/sciences-de-la-terre/voyage-a-travers-les-climats-de-la-terre_9782738128539.php) de Gilles Ramstein qui est exactement sur le sujet de la vidéo.  
 - [Le climat en 100 questions](https://www.tallandier.com/livre/le-climat-en-100-questions/#:~:text=Le%20changement%20climatique%20en%20cours,d%C3%A9fi%20majeur%20pour%20l'humanit%C3%A9.&text=En%20100%20questions%2Fr%C3%A9ponses%2C%20ce,changements%20en%20cours%20et%20agisse.) de Gilles Ramstein et Sylvestre Huet qui parle du changement climatique de façon plus général mais qui est très bon.
 
-### Transitions entre périodes glaciaires et interglaciaires
+### Sujets déjà abordés dans mes vidéos 
 
 Pour les transitions entre périodes glaciaires et interglaciaires et le passé proche, je vous renvoie vers mes autres vidéos:
 
 - [Cycles glaciaires, paramètres de Milankovitch et CO2 \[Analyse\] V. Courtillot Part. 3](https://www.youtube.com/watch?v=n-NJ-B_IIFw)  
 - [Le climat des derniers milliers d’années. \[Analyse\] V. Courtillot Part. 2](https://www.youtube.com/watch?v=GMoqkWjSGvw)  
-- [Transition entre périodes glaciaires et interglaciaires MaP#14](https://www.youtube.com/watch?v=Jvh1YzJ5bTk) (plus ancienne et moins poussée que celle où j’analyse la vidéo de V. Courtillot).
+- [Transition entre périodes glaciaires et interglaciaires](https://www.youtube.com/watch?v=Jvh1YzJ5bTk) (plus ancienne et moins poussée que celle où j’analyse la vidéo de V. Courtillot).
 - [L’illustration de l’alternance de périodes glaciaires et interglaciaires](https://upload.wikimedia.org/wikipedia/commons/1/14/Temperatures_%C3%A2ge_glaciaire.png) dont je me suis servi.
 
 ### Évolution du climat et du carbone
@@ -61,9 +59,9 @@ Pour les transitions entre périodes glaciaires et interglaciaires et le passé 
 - [Delayed fungal evolution did not cause the Paleozoic peak in coal production - Nelsen et al. (2016)](https://www.pnas.org/content/113/9/2442)  
 - [Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering - Goddéris (2017)](https://www.nature.com/articles/ngeo2931) défend une hypothèse que je n’ai pas présenté: la glaciation serait due à une augmentation de l’altération des silicates provoquée par la formation de montagnes.
 
-### Futur et l’évolution du Soleil
+### Sur le futur et l’évolution du Soleil
 
-- J’ai utilisé une figure de Wikipédia pour montrer [l’augmentation de la puissance solaire](https://en.wikipedia.org/wiki/Future_of_Earth#/media/File:Solar_evolution_(English).svg) (la mieux faite que j’ai croisé !).  
+- J’ai utilisé une figure de Wikipédia pour montrer [l’augmentation de la puissance solaire](https://en.wikipedia.org/wiki/Future_of_Earth#/media/File:Solar_evolution_(English).svg) (la figure la mieux faite que j’ai croisé !).  
 - [Distant future of the Sun and Earth revisited - Schroder et Smith (2008)](https://academic.oup.com/mnras/article/386/1/155/977315)
 - [Our Sun. III. Present and Future - Sackmann et al (1993)](https://iopscience.iop.org/article/10.1086/345408/fulltext/)
 - [The evolution of habitable climates under the brightening Sun - Wolf et Toon (2015)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD023302)
@@ -71,13 +69,10 @@ Pour les transitions entre périodes glaciaires et interglaciaires et le passé 
 
 ### Forçage radiatif
 
-- L’article scientifique (2017) dont je me suis servi pour vous parler [du forçage radiatif des 400 derniers millions d’années](https://www.nature.com/articles/ncomms14845). Si ça vous intéresse une étude récente (2019) étudie de plus près [les 3 derniers millions d’années](https://advances.sciencemag.org/content/5/4/eaav7337) (et constate aussi une décroissance du CO2 sur cette période).
+- L’article scientifique (2017) dont je me suis servi pour vous parler [du forçage radiatif des 400 derniers millions d’années](https://www.nature.com/articles/ncomms14845).
+- Une étude récente (2019) étudie de plus près [les 3 derniers millions d’années](https://advances.sciencemag.org/content/5/4/eaav7337) (et constate aussi une décroissance du CO2 sur cette période).
 
-### Article scientifique
-
-[L’article scientifique de 1957](https://pdfs.semanticscholar.org/d014/06a57bff758203390e36247bd96e0c9f8102.pdf) (!) dont je cite un petit passage à la fin.
-
-### maximum thermique du passage Paléocène-Éocène (PETM)
+### Maximum thermique du passage Paléocène-Éocène (PETM)
 
 - L’article Wikipédia [Maximum thermique du passage Paléocène-Éocène](https://fr.wikipedia.org/wiki/Maximum_thermique_du_passage_Pal%C3%A9oc%C3%A8ne-%C3%89oc%C3%A8ne) pour un petit tour rapide et une explication pour la sortie de ce maximum thermique: [Événement Azolla](https://fr.wikipedia.org/wiki/%C3%89v%C3%A9nement_Azolla).  
 - [Cet article scientifique](https://foreninger.uio.no/ngf/klima.pdf) (2019) m’a servi de source primaire, il a l’avantage de revoir la littérature existante sur le sujet.
@@ -112,6 +107,7 @@ Un sujet qui m’a fasciné mais que j’ai fini par exclure de la vidéo: l’�
 
 ### Autres
 
+- [L’article scientifique de 1957](https://pdfs.semanticscholar.org/d014/06a57bff758203390e36247bd96e0c9f8102.pdf) (!) dont je cite un petit passage à la fin.
 - La vidéo que j’ai utilisé pour illustrer [la formation de la Rodinia et sa dislocation](https://www.youtube.com/watch?v=AsCYZ-k-0uc) (plein d’autres vidéos intéressantes sur cette chaîne).
 - J’ai trouvé l’illustration pour la fermeture de [l’Isthme de Panama](https://www.futura-sciences.com/planete/actualites/tectonique-plaques-isthme-panama-datation-fermeture-secoue-geosciences-57723/) dans un article de Futura Planète.
 - [Des organismes pluricellulaires peuvent vivre sans oxygène](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2907586/).

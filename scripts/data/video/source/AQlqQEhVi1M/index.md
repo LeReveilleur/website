@@ -1,8 +1,11 @@
-## Sources bibliographiques
+## Sources
 
-Un article très complet sur le sujet: [Carbon capture and storage (CCS): the way forward - Bui et al. (2018)](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c7ee02342a).
+### Entrée en matière
 
-La base de données qui m’a permis de trouver [les différents sites de CSC dans le monde](https://co2re.co/FacilityData). Vous pouvez également voir des photos de certains sites dans un article de [CarbonBrief: Around the world in 22 carbon capture projects](https://www.carbonbrief.org/around-the-world-in-22-carbon-capture-projects) et [une liste de projets européens en Europe](https://www.oilandgaseurope.org/wp-content/uploads/2020/06/Map-of-EU-CCS-Projects.pdf) (incluant des projets de petite taille).
+- Un article très complet sur le sujet: [Carbon capture and storage (CCS): the way forward - Bui et al. (2018)](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c7ee02342a).
+- La base de données qui m’a permis de trouver [les différents sites de CSC dans le monde](https://co2re.co/FacilityData). 
+- Vous pouvez également voir des photos de certains sites dans un article de [CarbonBrief: Around the world in 22 carbon capture projects](https://www.carbonbrief.org/around-the-world-in-22-carbon-capture-projects)
+- [Une liste de projets européens en Europe](https://www.oilandgaseurope.org/wp-content/uploads/2020/06/Map-of-EU-CCS-Projects.pdf) (incluant des projets de petite taille).
 
 ### Rapports de l’Agence Internationale de l’Énergie (AIE)
 
@@ -31,18 +34,6 @@ La base de données qui m’a permis de trouver [les différents sites de CSC da
 - Il y a eu un [rapport spécial du GIEC](https://archive.ipcc.ch/pdf/special-reports/srccs/srccs_technicalsummary.pdf) sur le sujet mais il est un peu ancien (2005) pour être pertinent.  
 - Le cinquième rapport du GIEC et le rapport spécial du GIEC sur les conséquences d’un réchauffement planétaire de 1,5°C.
 
-### ADEME
-
-- L’avis de l’ADEME (2020): [Le captage et stockage géologique de CO2 (CSC) en France: un potentiel limité pour réduire les émissions industrielles](https://www.ademe.fr/sites/default/files/assets/documents/avis-ademe-csc_france_2020-011234.pdf). Vous pouvez aussi jeter un coup d’œil au [Bilan des actions R&D de l’ADEME pour la CSC](https://www.ademe.fr/sites/default/files/assets/documents/bilan_captage_stockage_co2_ademe.pdf).
-
-### INERIS
-
-Un excellent rapport de l’INERIS sur [les risques de ces technologies](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/95145-11842b-stockage-co2-2.pdf) (et un rapport sur le risque de [remobilisation des métaux lourds](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/dp-geochimie-ccs-def-1359105884.pdf)).
-
-### Think Thank
-
-Le plus gros think thank sur les CCS: [Global Status of CCS (2019)](https://www.globalccsinstitute.com/) produit également des rapports régulièrement.
-
 ### Fuites
 
 - L’article scientifique dont je montre une figure concernant les fuites de CO2: [Estimating geological CO2 storage security to deliver on climate mitigation - Alcalde et al. (2018)](https://www.nature.com/articles/s41467-018-04423-1) (vulgarisé [ici en anglais](https://www.carbonbrief.org/world-can-safely-store-billions-tonnes-co2-underground)).
@@ -50,16 +41,16 @@ Le plus gros think thank sur les CCS: [Global Status of CCS (2019)](https://www.
 - [Une présentation d’un site japonais ayant subi des séismes](https://www.cslforum.org/cslf/sites/default/files/documents/perth2012/Hachiyama-NagaokaProjectUpdate-PGTG-Perth1012.pdf).
 - L’effet de ces fuites sur les scénarios de transition est également discuté: [Leakage risks of geologic CO2 storage and the impacts on the global energy system and climate change mitigation - Deng et al. (2017)](https://link.springer.com/article/10.1007/s10584-017-2035-8).
 
+### Potentiel de séquestration
+
+- J’ai tiré les 10 000 milliards de tonnes de carbone d’[une publication de l’INERIS](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/95145-11842b-stockage-co2-2.pdf) (page 23).  
+- [Un autre article scientifique](https://www.frontiersin.org/articles/10.3389/fenrg.2018.00040/full) donne des quantifications du même ordre de grandeur.
+
 ### Acceptabilité sociale
 
 - [Same or different? Insights on public perception and acceptance of carbon capture and storage or utilization in Germany - Arning et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0301421518306931).
 - [Stakeholder participation practices and onshore CCS: Lessons from the dutch CCS case barendrecht - Brunsting et al. (2011)](https://www.sciencedirect.com/science/article/pii/S1876610211009349).
 - [Public perception of carbon capture and storage: A state-of-the-art overview - Tcvetkov et al. (2019)](https://www.sciencedirect.com/science/article/pii/S2405844019365041).
-
-### Potentiel de séquestrations
-
-- J’ai tiré les 10 000 milliards de tonnes de carbone d’[une publication de l’INERIS](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/95145-11842b-stockage-co2-2.pdf) (page 23).  
-- [Un autre article scientifique](https://www.frontiersin.org/articles/10.3389/fenrg.2018.00040/full) donne des quantifications du même ordre de grandeur.
 
 ### Europe
 
@@ -69,6 +60,9 @@ Le plus gros think thank sur les CCS: [Global Status of CCS (2019)](https://www.
 
 ### Autres
 
+- Un excellent rapport de l’INERIS sur [les risques de ces technologies](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/95145-11842b-stockage-co2-2.pdf) (et un rapport sur le risque de [remobilisation des métaux lourds](https://www.ineris.fr/sites/ineris.fr/files/contribution/Documents/dp-geochimie-ccs-def-1359105884.pdf)).
+- L’avis de l’ADEME (2020): [Le captage et stockage géologique de CO2 (CSC) en France: un potentiel limité pour réduire les émissions industrielles](https://www.ademe.fr/sites/default/files/assets/documents/avis-ademe-csc_france_2020-011234.pdf). Vous pouvez aussi jeter un coup d’œil au [Bilan des actions R&D de l’ADEME pour la CSC](https://www.ademe.fr/sites/default/files/assets/documents/bilan_captage_stockage_co2_ademe.pdf).
+- Le plus gros think thank sur les CCS: [Global Status of CCS (2019)](https://www.globalccsinstitute.com/) produit également des rapports régulièrement.
 - [Un article de S. Huet sur les émissions de CO2 de 2019](https://www.lemonde.fr/blog/huet/2019/12/04/368-gigatonnes-de-co2-emis-en-2019/) (qui vulgarise le [Global Carbon Budget 2019 - P. Friedlingstein et al.](https://essd.copernicus.org/articles/11/1783/2019/)).
 - Concernant la capture (ou le captage) du CO2, je n’ai pas détaillé les différentes méthodes. C’est bien résumé (et en français) [sur cette page du site _Connaissance des énergies_](https://www.connaissancedesenergies.org/fiche-pedagogique/capture-et-stockage-du-co2-csc#:~:text=Le%20proc%C3%A9d%C3%A9%20de%20capture%20(parfois,gaz%20%C3%A0%20effet%20de%20serre)).
 - Stockage par la minéralisation [Carbon dioxide storage through mineral carbonation -  Snæbjörnsdóttir et al (2020)](https://www.nature.com/articles/s43017-019-0011-8).

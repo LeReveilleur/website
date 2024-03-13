@@ -1,17 +1,17 @@
-## Sources bibliographiques
+## Vidéo complémentaire 
 
-### Vidéo annexe
-
-On a fait une SUPER vidéo sur la chaîne de Maxime: [Convention citoyenne pour le climat : quelle légitimité ?](https://www.youtube.com/watch?v=hqFynZQWYB8&feature=youtu.be)
+Sur ce sujet, on a également fait une SUPER vidéo sur la chaîne de Maxime: [Convention citoyenne pour le climat : quelle légitimité ?](https://www.youtube.com/watch?v=hqFynZQWYB8&feature=youtu.be)
 
 {{< youtube hqFynZQWYB8 >}}
 
-### Propositions
+## Sources bibliographiques
+
+### Les propositions de la Convention Citoyenne pour le Climat
 
 - Vous trouverez les propositions sur le site de la [Convention Citoyenne pour le Climat](https://propositions.conventioncitoyennepourleclimat.fr/) ([le pdf](https://propositions.conventioncitoyennepourleclimat.fr/pdf/ccc-rapport-final.pdf)).
 - L’article du Monde: [Les principales propositions de la convention pour le climat passées au crible](https://www.lemonde.fr/les-decodeurs/article/2020/07/13/transport-logement-alimentation-les-principales-propositions-de-la-convention-pour-le-climat-passees-au-crible_6046071_4355770.html).
 
-#### Proposition de passage de la limite de vitesse à 110 km/h
+### La proposition de passage de la limite de vitesse à 110 km/h
 
 - La proposition des 110 km/h fait partie des [trois « jokers » d’Emmanuel Macron](https://www.youtube.com/watch?v=gK26ubhbk_E).
 - Pour le % d’émissions de CO2 dû aux transports et aux voitures particulières, je me suis servi du [rapport du CITEPA](https://www.citepa.org/wp-content/uploads/Citepa_Rapport-Secten_ed2020_v1_09072020.pdf).
@@ -21,19 +21,17 @@ On a fait une SUPER vidéo sur la chaîne de Maxime: [Convention citoyenne pour 
 - [Le sondage Odoxa](http://www.odoxa.fr/sondage/mesures-de-convention-citoyenne-seduisent-francais-a-lexception-notable-110-km-h/).
 - The conversation: _[Oui, rouler à 110 km/h plutôt que 130 pourrait vraiment limiter notre impact sur le climat](https://theconversation.com/oui-rouler-a-110-km-h-plutot-que-130-pourrait-vraiment-limiter-notre-impact-sur-le-climat-144605)_.
 
-### Opinion des Français sur les politiques climatiques
 
-- [Opinion des Français sur les politiques climatiques](http://www.cepremap.fr/depot/2019/11/docweb1906.pdf) par Thomas Douenne et Adrien Fabre. C’est la vulgarisation d’un [article scientifique](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0921800919310705) (en anglais).
-
-### Les résultats des travaux des chercheurs ayant observé la Convention citoyenne pour le climat
+### Travaux de recherche sur la Convention citoyenne pour le climat
 
 - [Page de présentation](https://www.participation-et-democratie.fr/donnees-de-recherche-sur-la-convention-citoyenne-pour-le-climat).
 - [Le recrutement des participants](https://www.participation-et-democratie.fr/le-recrutement-et-les-caracteristiques-sociodemographiques-des-150-citoyens-de-la-convention).
 - [Les comparaisons des réponses des citoyens de la Convention à des questions posées dans des baromètres d’opinion nationaux](https://www.participation-et-democratie.fr/comparaison-des-reponses-des-citoyens-de-la-convention-citoyenne-pour-le-climat-a-des-questions).
 - [Les réponses aux questionnaires session par session](https://www.participation-et-democratie.fr/donnees-de-recherche-sur-la-convention-citoyenne-pour-le-climat-par-session).
 - Convention Citoyenne pour le Climat : _[Les citoyens de la Convention comparés à des échantillons représentatifs de la population française. Note de travail](https://halshs.archives-ouvertes.fr/halshs-02919695/document)_.
+- [Opinion des Français sur les politiques climatiques](http://www.cepremap.fr/depot/2019/11/docweb1906.pdf) par Thomas Douenne et Adrien Fabre. C’est la vulgarisation d’un [article scientifique](https://www.sciencedirect.com/science/article/abs/pii/S0921800919310705) (en anglais).
 
-### Articles
+### Articles de presse
 
 - [La convention citoyenne a-t-elle changé les convictions des citoyens ?](https://www.20minutes.fr/planete/2714551-20200209-climat-convention-citoyenne-change-convictions-150-membres)  
 - [Ecologie : ce que la Convention citoyenne a changé pour les citoyens tirés au sort.](https://www.francetvinfo.fr/monde/environnement/convention-citoyenne-sur-le-climat/ecologie-ce-que-la-convention-citoyenne-a-change-pour-les-citoyens-tires-au-sort_4082349.html)
