@@ -67,7 +67,7 @@ Une [illustration rapide de ce que devrait être notre réduction d’émissions
 
 ### Secteurs émetteurs en France
 
-Les secteurs d’activité qui émettent le plus en France: [le chauffage et le transport](https://www.insee.fr/fr/statistiques/2015759).
+Les secteurs d’activité qui émettent le plus en France : [le chauffage et le transport](https://www.insee.fr/fr/statistiques/2015759).
 
 ### Où va l’argent de la taxe carbone ?
 

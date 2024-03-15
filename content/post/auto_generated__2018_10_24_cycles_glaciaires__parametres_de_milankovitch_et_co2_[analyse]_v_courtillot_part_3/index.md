@@ -43,9 +43,11 @@ mers est également abordée de façon plus succinct.
 
 ## Sources
 
-### Sources principales
+### Précédentes vidéos
 
 J’avais déjà fait des vidéos sur [l’élévation du niveau des mers](https://www.youtube.com/watch?v=yvtH89KvqbM), les [transitions entre périodes glaciaires et interglaciaires](https://www.youtube.com/watch?v=Jvh1YzJ5bTk), le [bilan radiatif](https://www.youtube.com/watch?v=By0iFhyvhqM) et [la part de l’homme dans le changement climatique](https://www.youtube.com/watch?v=zWRnLjPPTA8) où je parlais un peu d’observations qui montrent l’effet de serre du CO2.
+
+### Paramètres de Milankovitch
 
 Vous pouvez jouer avec l[es données des paramètres de Milankovitch](http://biocycle.atmos.colostate.edu/shiny/Milankovitch/) et explorer cette question par vous-même ! Et si vous voulez essayer de comprendre vous même certains arguments climato-sceptiques, [skepticalscience](https://skepticalscience.com/argument.php) peut vous aider. D’ailleurs skepticalscience parle aussi de [l’argument que je déconstruis dans cette vidéo](https://skepticalscience.com/co2-lags-temperature.htm), des [paramètres de Milankovitch](https://skepticalscience.com/Milankovitch.html), et [de la reconstruction de la dernière sortie de glaciation que j’utilise](https://skepticalscience.com/skakun-co2-temp-lag.html).
 
@@ -53,9 +55,10 @@ J’ai été inspiré par [ce site](http://www.climatedata.info/forcing/milankov
 
 Un des articles les plus importants est celui qui [défend les travaux de Milankovitch](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006GL027817). C’est dans cet article qu’on voit le lien entre l’ensoleillement aux hautes latitudes de l’hémisphère nord et la fonte ou l’accumulation de glace. [Des cours](http://www.math.ucr.edu/home/baez/week302.html) sont aussi consultables sur la question, pour ceux qui veulent [comprendre les calculs](http://www.math.ucr.edu/home/baez/week319.html).
 
-Pour l’estimation des forçages, je me suis principalement basé sur cet [article scientifique](http://advances.sciencemag.org/content/2/11/e1501923.full) (en accès libre) et dans une moindre mesure sur une publication plus ancienne de la [NASA](https://pubs.giss.nasa.gov/docs/2008/2008_Hansen_ha00410c.pdf).
+### Forçages radiatifs
 
-La reconstruction qui montre que le CO2 précède la température pendant la majorité de la dernière sortie de glaciation est disponible [ici](https://www.nature.com/articles/nature10915) (utilisez sci-hub si vous n’avez pas d’accès universitaire).
+- Pour l’estimation des forçages, je me suis principalement basé sur cet [article scientifique](http://advances.sciencemag.org/content/2/11/e1501923.full) (en accès libre) et dans une moindre mesure sur une publication plus ancienne de la [NASA](https://pubs.giss.nasa.gov/docs/2008/2008_Hansen_ha00410c.pdf).
+- La reconstruction qui montre que le CO2 précède la température pendant la majorité de la dernière sortie de glaciation est disponible [ici](https://www.nature.com/articles/nature10915) (utilisez sci-hub si vous n’avez pas d’accès universitaire).
 
 ### Élévation du niveau des mers
 

@@ -42,9 +42,7 @@ conclure.
 - [Cette réponse](https://www.sciencedirect.com/science/article/pii/S0301421516307066) à un mauvais article scientifique sur le taux de retour énergétique
 - Cette [discussion sur le futur du photovoltaïque](https://www.sciencedirect.com/science/article/pii/S1364032116301320)
 - Cet [article Nature sur le taux de retour énergétique et les émissions de CO2 évitées](https://www.nature.com/articles/ncomms13728/).
-- Plusieurs documents synthétiques sur la question par [Alain Grandjean](https://alaingrandjean.fr/2017/12/18/lavenir-radieux-de-lenergie-solaire-photovoltaique/)
-- [We Demain](https://www.wedemain.fr/Fabrication-recyclage-quel-est-le-veritable-impact-ecologique-des-panneaux-solaires_a2960.html)
-- Le très bon [Low-Tech Magazine](http://www.lowtechmagazine.com/2015/04/how-sustainable-is-pv-solar-power.html)
+- Plusieurs documents synthétiques sur la question par [Alain Grandjean](https://alaingrandjean.fr/2017/12/18/lavenir-radieux-de-lenergie-solaire-photovoltaique/), [We Demain](https://www.wedemain.fr/Fabrication-recyclage-quel-est-le-veritable-impact-ecologique-des-panneaux-solaires_a2960.html) et [Low-Tech Magazine](http://www.lowtechmagazine.com/2015/04/how-sustainable-is-pv-solar-power.html)
 - La [vidéo](https://www.youtube.com/watch?v=r0mC_X0WrDM) qui montre la fabrication des panneaux.
 
 ### Taux de retour énergétique

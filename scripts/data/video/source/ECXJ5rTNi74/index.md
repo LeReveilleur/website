@@ -24,7 +24,7 @@ Un document de l’agence internationale de l’énergie (AIE) si vous voulez un
 - [Le site du constructeur](http://www.energiestro.fr/produits/)
 - [Une interview récente](https://www.revolution-energetique.com/volants-inertie-stockage-energie-renouvelable/) si vous voulez plus de promesses.
 
-#### Stockage par air comprimé
+### Stockage par air comprimé
 
 - [Une revue de littérature intéressante](http://www.mdpi.com/1996-1073/10/7/991/pdf) (dont j’ai extrait la figure sur les coûts)
 - [Une autre revue de littérature un peu plus ancienne](https://www.sciencedirect.com/science/article/pii/S0306261916302641)
@@ -34,7 +34,7 @@ Un document de l’agence internationale de l’énergie (AIE) si vous voulez un
 
 [Les sphères sous-marines](http://ile-energie.blogspot.com/2014/10/step-sous-marine.html) évoquées à la fin de la vidéo (_Sciences et Avenir_ en a aussi parlé [ici](https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/des-spheres-sous-marines-pour-stocker-l-electricite-verte_108191)).
 
-### Dernier slide
+### Dernière slide
 
 La dernière slide a été réalisé par mes soins mais je me suis basé sur :
 

@@ -1,6 +1,6 @@
 ## Sources
 
-### Sources principales
+### Entrée en matière
 
 Le site connaissancedesenergies a été d’une grande aide pour cette vidéo : 
 
@@ -24,7 +24,7 @@ Le site connaissancedesenergies a été d’une grande aide pour cette vidéo :
 - Il y a [différents types de centrales hydrauliques](https://www.edf.fr/groupe-edf/espaces-dedies/l-energie-de-a-a-z/tout-sur-l-energie/produire-de-l-electricite/les-differents-types-de-centrales-hydrauliques), la [petite hydroélectricité](http://encyclopedie-energie.org/articles/la-petite-hydro%C3%A9lectricit%C3%A9-en-france) est peu connu.
 - [Une longue et intéressante conférence sur les STEP](https://www.youtube.com/watch?v=l-QnVHlXIRU).
 
-### Émission de GHC
+### Émission de gaz à effet de serre
 
 - Deux [articles](http://www.un.org/esa/sustdev/sdissues/energy/op/hydro_tremblaypaper.pdf) [scientifiques](https://pubs.acs.org/doi/abs/10.1021/es401820p) qui concernent les émissions de gaz à effet de serre par les barrages.
 
@@ -36,17 +36,11 @@ Le site connaissancedesenergies a été d’une grande aide pour cette vidéo :
 - [Operation Chastise](https://en.wikipedia.org/wiki/Operation_Chastise)
 - [Rendement d’un aménagement hydroélectrique](https://fr.wikipedia.org/wiki/Rendement_d%E2%80%99un_am%C3%A9nagement_hydro%C3%A9lectrique) et [Barrage de Malpasset](https://fr.wikipedia.org/wiki/Barrage_de_Malpasset).
 
-### Article scientifique
-
-[Article scientifique](https://onlinelibrary.wiley.com/doi/abs/10.1002/047147844X.sw791)
-
-> In 2005 about 25% of the world’s 33,105 large dams (over 15  metres in
-> height) were used for hydroelectricity.\[15\] However of 80,000 dams of all
-> sizes in the U.S., only 3% produce electricity.\[16\]
-
 ### Autres
 
 - Les [deux](http://www.georisques.gouv.fr/articles/le-risque-de-rupture-de-barrage) [cartes](http://www.energyzon.org/content.php?type=hydro) que j’utilise.
+- [Water Encyclopedia
+Hydroelectric Reservoirs as Anthropogenic Sources of Greenhouse Gases](https://onlinelibrary.wiley.com/doi/abs/10.1002/047147844X.sw791) "In 2005 about 25% of the world’s 33,105 large dams (over 15  metres inheight) were used for hydroelectricity.\[15\] However of 80,000 dams of all sizes in the U.S., only 3% produce electricity."
 - Pour les calculs d’ordre de grandeur :
   - [hydroélectricité pour les particuliers](http://www.birdenergy.fr/EnergieHydroelectriqueTurbine.htm)
   - [petits calculs](https://www.quora.com/How-much-water-is-required-to-generate-1kw-of-electricity).

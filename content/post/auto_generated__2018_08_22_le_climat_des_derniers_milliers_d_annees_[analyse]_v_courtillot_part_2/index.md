@@ -69,17 +69,24 @@ Petite compilation d’articles :
 
 ### Site climato-sceptique
 
-Un [exemple typique](http://www.co2science.org/subject/m/summaries/mwpantarctica.php) d’un site climato-sceptique (financé par Exxxon Mobil d’ailleurs) qui affirme n’importe quoi sur l’optimum climatique médiéval:
+Un [exemple typique](http://www.co2science.org/subject/m/summaries/mwpantarctica.php) d’un site climato-sceptique (financé par Exxxon Mobil d’ailleurs) qui affirme n’importe quoi sur l’optimum climatique médiéval.
 
 ### Petit âge glaciaire
 
 - Le “retour du petit âge glaciaire” est évoqué correctement [ici](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/jan/09/the-imminent-mini-ice-age-myth-is-back-and-its-still-wrong) mais très très mal évoqué [là](https://www.contrepoints.org/2015/07/17/214380-une-nouvelle-ere-glaciaire-se-profile-a-lhorizon-2030).
 - Vous pouvez aussi (et surtout) lire le bel [article scientifique](http://www.pik-potsdam.de/~stefan/Publications/Journals/feulner_rahmstorf_2010.pdf) qui en parle
 - Un article scientifique qui parle du [petit âge glaciaire](http://www.personal.reading.ac.uk/~ym901336/pdfs/350_swsc170014.pdf).
-- [Les carottes de glace](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gisp2_temp_accum_alley2000.txt) du Groënland utilisées dans la vidéo.
-- Skepticalscience sur l’[optimum climatique médiéval](https://skepticalscience.com/medieval-warm-period-intermediate.htm), [le Groënland « terre verte »](https://skepticalscience.com/greenland-used-to-be-green-basic.htm), [la perte de glace au Groënland](https://skepticalscience.com/Greenland-lost-fraction-of-ice-mass.htm) et une [énième reconstruction qui viendrait contredire la courbe en forme de crosse de hockey](https://skepticalscience.com/ljungqvist-broke-the-hockey-stick.htm).
+
+### Skepticalscience
+
+Skepticalscience est un excellent site quand il s'agit de répondre à des arguments climato-sceptiques, j'ai utilisé les articles suivants :
+- [Optimum climatique médiéval](https://skepticalscience.com/medieval-warm-period-intermediate.htm)
+- [Le Groënland « terre verte »](https://skepticalscience.com/greenland-used-to-be-green-basic.htm)
+- [La perte de glace au Groënland](https://skepticalscience.com/Greenland-lost-fraction-of-ice-mass.htm) 
+- [Une énième reconstruction qui viendrait contredire la courbe en forme de crosse de hockey](https://skepticalscience.com/ljungqvist-broke-the-hockey-stick.htm).
 
 ### Autres
 
+- [Les carottes de glace](ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/greenland/summit/gisp2/isotopes/gisp2_temp_accum_alley2000.txt) du Groënland utilisées dans la vidéo.
 - Une reconstruction de température que je n’ai pas utilisé faute de temps: [Ljungqvist (2012)](https://www.clim-past.net/8/227/2012/cp-8-227-2012.pdf)
 - [Une discussion](https://tamino.wordpress.com/2016/01/15/n-trend-new-kid-on-the-hockey-rink/) sur une reconstruction récente du climat et sur le fait qu’on trouve toujours des courbes en forme de crosse de hockey…
