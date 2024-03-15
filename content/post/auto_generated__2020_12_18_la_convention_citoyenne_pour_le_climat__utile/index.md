@@ -29,7 +29,7 @@ Sur ce sujet, on a également fait une SUPER vidéo sur la chaîne de Maxime: [C
 
 {{< youtube hqFynZQWYB8 >}}
 
-## Sources bibliographiques
+## Sources
 
 ### Les propositions de la Convention Citoyenne pour le Climat
 

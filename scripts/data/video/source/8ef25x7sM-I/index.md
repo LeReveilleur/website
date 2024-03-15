@@ -5,7 +5,7 @@ ci-dessous :
 
 {{< youtube yZ4FmDB_MXE >}}
 
-## Sources bibliographiques
+## Sources
 
 ### ANDRA
 
@@ -16,10 +16,6 @@ Pour cette vidéo, c’est le site de l’ANDRA qui aide le plus:
 - Un autre pdf de l’ANDRA pour [_Tout savoir sur la gestion des déchets radioactifs_](https://www.andra.fr/sites/default/files/2017-12/337l.pdf).
 - [Base de données contenant les anciens sites miniers en France](https://inventaire.andra.fr/les-matieres-et-dechets-radioactifs/dechets-ayant-fait-lobjet-de-mode-de-gestion-historique/5-les) (L’IRSN sur [l’extraction de l’uranium en France](https://www.irsn.fr/FR/connaissances/Environnement/expertises-locales/sites-miniers-uranium/Documents/irsn_mines-uranium_extraction-uranium_2017.pdf)).
 - [Les scénarios prospectifs de l’ANDRA](https://www.andra.fr/des-scenarios-prospectifs-pour-anticiper-la-gestion-long-terme-des-matieres-et-dechets-radioactifs) pour anticiper la gestion à long terme des matières et déchets radioactifs.
-
-### Gestion du combustible usé
-
-- [Une vidéo YouTube qui montre bien comment on gère le combustible usé](https://youtu.be/c95AuanqQIM).
 
 ### Gestion des déchets radioactifs
 
@@ -64,3 +60,4 @@ Les [impacts dévastateurs des terres rares](https://www.lemonde.fr/asie-pacifiq
 - Une [quantification de la radioactivité (naturelle) de différents granites](https://www.ncbi.nlm.nih.gov/pubmed/21685218).
 - [En exploitation de centrale nucléaire](https://www.edf.fr/sites/default/files/Lot%203/FOURNISSEURS/DEVENIR%20FOURNISSEUR/PDF/memento-de-la-radioprotection-en-exploitation-.pdf), les radionucléides qui causent l’exposition sont les mêmes que ceux qui posent problèmes lors du démantèlement.
 - [Des photos de l’ANDRA](https://www.flickr.com/photos/andra_france/) où j’ai piqué les belles affiches sur les cosmétiques radioactifs.
+- [Une vidéo YouTube qui montre bien comment on gère le combustible usé](https://youtu.be/c95AuanqQIM).

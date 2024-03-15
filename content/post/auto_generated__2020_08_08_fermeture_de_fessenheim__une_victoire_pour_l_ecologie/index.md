@@ -19,7 +19,7 @@ Dans cette vidéo, je vous parle de la fermeture de la centrale nucléaire de Fe
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Production d’électricité
 
@@ -40,7 +40,7 @@ Dans cette vidéo, je vous parle de la fermeture de la centrale nucléaire de Fe
 - [Un article critique sur le risque de séisme à Fessenheim](https://journaldelenergie.com/nucleaire/risque-sismique-sous-evalue-nucleaire-fessenheim/).
 - [L’étude Résonance](https://inis.iaea.org/collection/NCLCollectionStore/_Public/40/108/40108896.pdf) sur l’appréciation du risque sismique à la centrale nucléaire de Fessenheim (qui mentionne [la centrale de Kashiwazaki-Kariwa](https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Kashiwazaki-Kariwa)).
 
-### mÉissions de CO2 de Fessenheim
+### Émissions de CO2 de Fessenheim
 
 - CO2/kWh des différents moyens de production [d’après le GIEC](https://fr.wikipedia.org/wiki/%C3%89mission_de_gaz_%C3%A0_effet_de_serre_par_source_d%27%C3%A9nergie_%C3%A9lectrique), d’après l’ADEME ([moyens renouvelables](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?renouvelable.htm), [moyens conventionnels](https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?conventionnel.htm)).
 - [Le rapport de RTE](https://assets.rte-france.com/prod/public/2020-06/bilan%20pr%C3%A9visionnel%202019%20rapport%20technique_compressed.pdf) dont je me suis servi.

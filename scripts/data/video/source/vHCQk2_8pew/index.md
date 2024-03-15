@@ -1,11 +1,12 @@
-## Sources bibliographiques
+## Sources 
 
 ### Articles de référence
 
-L’article de référence sur le sujet [Global Carbon Budget 2019](https://www.earth-syst-sci-data.net/11/1783/2019/).
-On peut lire également l’[article Wikipédia](https://fr.wikipedia.org/wiki/Cycle_du_carbone) ou [cette belle vulgarisation de la NASA](https://earthobservatory.nasa.gov/features/CarbonCycle).
-[Le chapitre dédié](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf) au cycle du carbone dans le cinquième rapport du GIEC est également un document de référence.
-Allez voir aussi [cette vidéo très intéressante](https://www.youtube.com/watch?v=dwVsD9CiokY) pour comprendre la dynamique du cycle du carbone.
+- [Global Carbon Budget 2019](https://www.earth-syst-sci-data.net/11/1783/2019/).
+- [L’article Wikipédia](https://fr.wikipedia.org/wiki/Cycle_du_carbone)
+- [Belle vulgarisation de la NASA](https://earthobservatory.nasa.gov/features/CarbonCycle).
+- [Le chapitre dédié](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter06_FINAL.pdf) au cycle du carbone dans le cinquième rapport du GIEC est également un document de référence.
+- [Vidéo très intéressante](https://www.youtube.com/watch?v=dwVsD9CiokY) pour comprendre la dynamique du cycle du carbone.
 
 ### Carbone et corps humain
 
@@ -57,5 +58,5 @@ Allez voir aussi [cette vidéo très intéressante](https://www.youtube.com/watc
 
 ### Autres
 
-Une page de la NASA sur les [carottes de glace](https://climate.nasa.gov/news/2616/core-questions-an-introduction-to-ice-cores/).
-[Excellent document](http://www.carbone4.com/publication-referentiel-nzi/) du projet Net Zero Initiative (porté par Carbone 4) sur la neutralité carbone dont on reparlera. Je m’en suis servi pour la quantification du [budget carbone](https://fr.wikipedia.org/wiki/Budget_carbone).
+- Une page de la NASA sur les [carottes de glace](https://climate.nasa.gov/news/2616/core-questions-an-introduction-to-ice-cores/).
+- [Excellent document](http://www.carbone4.com/publication-referentiel-nzi/) du projet Net Zero Initiative (porté par Carbone 4) sur la neutralité carbone dont on reparlera. Je m’en suis servi pour la quantification du [budget carbone](https://fr.wikipedia.org/wiki/Budget_carbone).

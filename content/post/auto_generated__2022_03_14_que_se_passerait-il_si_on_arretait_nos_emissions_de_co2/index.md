@@ -23,7 +23,7 @@ conséquences de nos émissions avec de longues inerties ?
 
 <hr>
 
-## Sources bibliographiques
+## Sources 
 
 ### Meilleures ressources
 

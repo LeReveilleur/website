@@ -618,16 +618,16 @@ videos:
       nucléaires et, plus précisément, des réacteurs à eau pressurisée puisque
       c'est la technologie dominante dans le monde et la seule exploitée en
       France. Après une explication du fonctionnement, on s'intéresse plus
-      précisément à l'évacuation de la chaleur et aux besoins en eau (13:35),
-      ce qui m'amène à parler des effets des canicules (16:56). Je parle
+      précisément à l'évacuation de la chaleur et aux besoins en eau,
+      ce qui m'amène à parler des effets des canicules. Je parle
       ensuite des rejets des centrales en fonctionnement normal et notamment du
-      tritium (20:08). J'aborde ensuite un sujet peu évoqué: la cogénération
+      tritium. J'aborde ensuite un sujet peu évoqué: la cogénération
       nucléaire, donc la possibilité de produire de la chaleur avec le
-      nucléaire (24:53). Enfin, je vous parle des émissions de dioxyde de
-      carbone (28:23), du facteur de charge (30:05), du caractère pilotable du
-      nucléaire (31:40), du taux de retour énergétique (34:35), de la sûreté
-      (et notamment des barrières de confinement) (35:38) pour finir par la
-      durée de vie et l'entretien des centrales nucléaires (37:44).
+      nucléaire. Enfin, je vous parle des émissions de dioxyde de
+      carbone, du facteur de charge, du caractère pilotable du
+      nucléaire, du taux de retour énergétique, de la sûreté
+      (et notamment des barrières de confinement) pour finir par la
+      durée de vie et l'entretien des centrales nucléaires.
     date: "2019-07-26"
     categories:
       - "energy"
@@ -657,16 +657,14 @@ videos:
   - youtube_id: "utyT8Z4qEaA"
     title: "Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire"
     description: |
-      Je vous explique d’abord comment on mesure des doses de rayonnement
-      (4:19). Puis, je parle des effets déterministes: les effets qui ont
-      forcément lieu pour des fortes doses de rayonnements ionisants (7:48).
+      Je vous explique d’abord comment on mesure des doses de rayonnement. Puis, je parle des effets déterministes: les effets qui ont
+      forcément lieu pour des fortes doses de rayonnements ionisants.
       Mais, il existe également des effets stochastiques et notamment les
-      cancers (14:18). Beaucoup d’informations sur les impacts sanitaires des
+      cancers. Beaucoup d’informations sur les impacts sanitaires des
       rayonnements ionisants ont été obtenu grâce à des études de cohortes et
-      notamment celle des survivants d’Hiroshima et Nagasaki (18:58). A 26:41,
-      je vous explique ce qu’on sait pour des doses reçues inférieures à 100
-      mSv. Enfin, je vous parle des impacts sanitaires de Tchernobyl (32:50) et
-      Fukushima (43:42) avant de conclure (50:17).
+      notamment celle des survivants d’Hiroshima et Nagasaki. Je vous explique ce qu’on sait pour des doses reçues inférieures à 100
+      mSv. Enfin, je vous parle des impacts sanitaires de Tchernobyl et
+      Fukushima avant de conclure.
     date: "2019-05-08"
     categories:
       - "energy"

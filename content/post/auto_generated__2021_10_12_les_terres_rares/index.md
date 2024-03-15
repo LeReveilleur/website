@@ -20,7 +20,7 @@ elles servent et quels sont les problèmes qu'elles soulèvent.
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Sources principales
 

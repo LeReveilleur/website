@@ -26,8 +26,7 @@ de vapeur d'eau par les sociétés humaines ont une influence sur le climat
 
 <hr>
 
-## Sources bibliographiques
-
+## Sources 
 ### Rapports du GIEC
 
 <div style="text-align: justify"> On ne fera pas plus clair et consensuel que la [FAQ 8.1 du cinquième rapport du

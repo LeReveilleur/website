@@ -31,7 +31,7 @@ __Je pense donc que la source que j’ai utilisé contient une erreur__ et donne
 
 Cette erreur change certaines quantifications de la vidéo mais n’affecte pas l’idée générale de cette partie. __Les quantités de lithium présentes dans le sous-sol ne seront pas une limite pour le déploiement des véhicules électriques__. Mais, si ces besoins ne sont pas planifiés, on peut quand même se retrouver face à des pénuries (notamment si de nouvelles mines ne sont pas ouvertes). [Un point récemment mis en avant par l’AIE](https://twitter.com/fbirol/status/1389807286735056896).
 
-## Sources bibliographiques
+## Sources
 
 ### Sources principales
 

@@ -49,7 +49,7 @@ devenir de nos
 émissions](https://www.youtube.com/watch?v=NcEI76hJVR0), [Acidification des
 océans](https://www.youtube.com/watch?v=vtTlQ0HZZ2g).
 
-## Sources bibliographiques
+## Sources
 
 ### Rapports du GIEC
 

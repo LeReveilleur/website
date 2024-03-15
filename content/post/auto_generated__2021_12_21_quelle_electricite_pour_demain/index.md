@@ -22,7 +22,7 @@ français en me servant du récent rapport de RTE: Futurs Énergétiques
 
 <hr>
 
-## Sources bibliographiques
+## Sources 
 
 ### Rapport RTE
 

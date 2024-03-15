@@ -4,7 +4,7 @@ Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_genera
 
 {{< youtube t-gqGlIcIYA >}}
 
-## Sources bibliographiques
+## Sources
 
 L’article du _Vent Se Lève_ que je décortique ici: [IMPACT SANITAIRE DE FUKUSHIMA : UNE DÉSINFORMATION SUSPECTE](https://lvsl.fr/impact-sanitaire-de-fukushima-une-desinformation-suspecte/) par Julien Baldassarra et qui attaque [ma vidéo sur les impacts sanitaires des rayonnements ionisants](https://lereveilleur.com/hiroshima-tchernobyl-fukushima-les-morts-du-nucleaire/).
 

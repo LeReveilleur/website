@@ -26,7 +26,7 @@ conclure.
 
 <hr>
 
-## Sources bibliographiques
+## Sources 
 
 ### Sources principales
 

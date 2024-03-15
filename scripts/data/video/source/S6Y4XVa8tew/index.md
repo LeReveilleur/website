@@ -1,4 +1,4 @@
-## Sources bibliographiques
+## Sources 
 
 C’est une vidéo rapide et donc avec peu de sources. Vous trouverez de nombreux
 articles (qui se ressemblent) présentant l’invention:

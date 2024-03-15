@@ -5,13 +5,13 @@ ci-dessous :
 
 {{< youtube yZ4FmDB_MXE >}}
 
-## Sources bibliographiques
+## Sources 
 
 ### Sources principales
 
 Les sources incontournables sur le sujet :
 
-- L’[ANDRA](https://www.andra.fr/)
+- L’[ANDRA](https://www.andra.fr/). L’[inventaire de l’ANDRA](https://inventaire.andra.fr/sites/default/files/documents/pdf/fr/inventaire_national-essentiels-2019.pdf) le plus récent, n’hésitez pas à jeter un coup d’œil aux différents scénarios.
 - L’[IRSN](https://www.irsn.fr/FR/Pages/Home.aspx)
 - L’[ASN](https://www.asn.fr/)
 - [Le débat public sur les déchets radioactifs](https://www.debatpublic.fr/plan-national-gestion-matieres-dechets-radioactifs-pngmdr).
@@ -74,10 +74,6 @@ radioactifs, mais le processus chimique de « retraitement » génère même plu
 déchets, dont les plus radioactifs, et des matières très dangereuses comme le
 plutonium. », on est loin dans l’incompréhension de (ou la désinformation sur)
 ce sujet.
-
-### ANDRA
-
-- L’[inventaire de l’ANDRA](https://inventaire.andra.fr/sites/default/files/documents/pdf/fr/inventaire_national-essentiels-2019.pdf) le plus récent, n’hésitez pas à jeter un coup d’œil aux différents scénarios.
 
 ### Wikipédia
 

@@ -42,7 +42,7 @@ siècle.
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Rapports du GIEC
 

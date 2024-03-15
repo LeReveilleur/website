@@ -3,7 +3,7 @@ Pour plus de vidéos explicatives sur le réchauffement climatique
 
 [![](https://www.gstatic.com/youtube/img/watch/yt_favicon.png) Crise climatique | Le Monde](/playlist?list=PLFuK0VAIne9KAIAve0OpyKXjsuynLDRR-)
 
-## Sources bibliographiques
+## Sources 
 
 ### Sources principales
 

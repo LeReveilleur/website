@@ -23,7 +23,7 @@ la surface de notre belle planète.
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Définition de l'effet de serre
 

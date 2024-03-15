@@ -33,7 +33,7 @@ Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_genera
 
 {{< youtube QnP7YOk3PMs >}}
 
-## Sources bibliographiques
+## Sources
 
 ### Vidéos
 

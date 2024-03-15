@@ -22,7 +22,7 @@ et de la voiture thermique.
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Consommation d'électricité des raffineries
 

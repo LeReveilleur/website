@@ -5,7 +5,7 @@ ci-dessous :
 
 {{< youtube yZ4FmDB_MXE >}}
 
-## Sources bibliographiques
+## Sources
 
 ### Sources principales
 

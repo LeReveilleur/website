@@ -19,7 +19,7 @@ Dans cette seconde vidéo sur l'hydrogène, je m'intéresse aux grands usages in
 
 <hr>
 
-## Sources bibliographiques
+## Sources 
 
 ### Agence Internationale de l'Énergie (AIE)
 

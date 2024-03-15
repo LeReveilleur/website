@@ -4,7 +4,7 @@
 
 {{< youtube MRgcF-mG_ls >}}
 
-## Sources bibliographiques
+## Sources
 
 ### Comment de mauvais papiers scientifiques peuvent être publiées
 
@@ -15,14 +15,14 @@ Un article pour [comprendre comment de mauvais papiers scientifiques peuvent êt
 - [Les données sur le volume de banquise](http://psc.apl.uw.edu/research/projects/arctic-sea-ice-volume-anomaly/)  
 - [Les données sur la surface](http://nsidc.org/arcticseaicenews/)
 
-#### Températures de l’Antarctique
+### Températures de l’Antarctique
 
 - [L’article qu’utilise M. Gervais](https://www.sciencedirect.com/science/article/pii/S0277379116305479)  
 - La figure de température que j’utilise ([Figure 5 ici](https://www.metoffice.gov.uk/research/news/2018/global-surface-temperatures-in-2017))
 - [Evolution du minimum et du maximum de banquise au fil des ans](https://earthobservatory.nasa.gov/world-of-change/SeaIceSouth)
 - [Pourquoi la banquise Antarctique s’étend ?](https://insideclimatenews.org/news/31052016/why-antarctica-sea-ice-level-growing-while-arctic-glaciers-melts-climate-change-global-warming)
 
-#### Inlandsis
+### Inlandsis
 
 - [Groëndland](https://climate.nasa.gov/vital-signs/ice-sheets/)
 - [Antarctique](https://www.nature.com/articles/s41586-018-0179-y)
@@ -54,6 +54,7 @@ droite sur [cette page](https://archive.ipcc.ch/report/ar5/wg1/).
 ### Aide
 
 Pour cette vidéo, j’ai été aidé par [François-Marie Bréon](https://twitter.com/fmbreon?lang=fr) qui a déjà beaucoup écrit sur F. Gervais en 2013 ([article du monde](https://www.lemonde.fr/sciences/article/2013/10/28/les-contre-verites-du-dernier-pamphlet-climatosceptique_3504317_1650684.html), [débat entre F. Gervais et F.M. Bréon dans La](http://documents.irevues.inist.fr/bitstream/handle/2042/54077/meteo_2014_86_68.pdf?sequence=1) _[Météorologie](http://documents.irevues.inist.fr/bitstream/handle/2042/54077/meteo_2014_86_68.pdf?sequence=1)_, [une liste des plus grosses erreurs du livre publié par F. Gervais en 2013](http://www.clubdesargonautes.org/livresetpublications/breon.php)).  
+  
 Plus récemment:  
 - [un article de mi-janvier sur le dernier livre de F. Gervais.](http://www.francesoir.fr/societe-science-tech/le-rechauffement-climatique-un-leurre-escroquerie-climatosceptique-de-francois-gervais)  
 - [un article de blog de M. Bréon](http://sogeco31.blogspot.com/2019/01/francois-gervais-passe-la-moulinette-de.html) sur ce sujet.  

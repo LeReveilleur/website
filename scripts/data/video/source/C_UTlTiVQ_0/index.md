@@ -4,7 +4,7 @@ N’oubliez pas d’aller voir la très bonne vidéo de l’Envers de la Blouse 
 
 Je vous recommande de lire [le résumé à l’intention des décideurs de rapport de synthèse du cinquième rapport du GIEC](https://archive.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM_fr.pdf) (ici en français mais disponible en anglais). Le plus simple pour s’y retrouver dans le cinquième rapport du GIEC est l’[ancienne page qui regroupe tous les documents](https://archive.ipcc.ch/report/ar5/wg1/index_fr.shtml) (rapports complets des différents groupes, résumés dans toutes les langues disponibles… etc). [La FAQ est disponible en français pour le premier groupe de travail](https://archive.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SummaryVolume_FINAL_FRENCH.pdf) (disponible en fin de document). [La FAQ du groupe II](https://archive.ipcc.ch/report/ar5/wg2/docs/WGIIAR5-FAQs_FINAL.pdf) n’est disponible qu’en anglais et est bien plus sommaire (et il n’y en a pas pour le groupe III à ma connaissance).
 
-## Sources bibliographiques
+## Sources
 
 ### Des publications de plus en plus nombreuses sur le climat
 

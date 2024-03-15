@@ -1,4 +1,4 @@
-## Sources bibliographiques
+## Sources
 
 [La vidéo d’Osons Causer sur Jean-Baptiste Fressoz](https://youtu.be/ZB20mjWYQKM) relève d’une logique similaire et devrait vous plaire.
 

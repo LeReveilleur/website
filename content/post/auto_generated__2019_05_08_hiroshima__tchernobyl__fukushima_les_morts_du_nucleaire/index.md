@@ -15,16 +15,14 @@ image: cover.jpg
 
 {{< youtube utyT8Z4qEaA >}}
 
-Je vous explique d’abord comment on mesure des doses de rayonnement
-(4:19). Puis, je parle des effets déterministes: les effets qui ont
-forcément lieu pour des fortes doses de rayonnements ionisants (7:48).
+Je vous explique d’abord comment on mesure des doses de rayonnement. Puis, je parle des effets déterministes: les effets qui ont
+forcément lieu pour des fortes doses de rayonnements ionisants.
 Mais, il existe également des effets stochastiques et notamment les
-cancers (14:18). Beaucoup d’informations sur les impacts sanitaires des
+cancers. Beaucoup d’informations sur les impacts sanitaires des
 rayonnements ionisants ont été obtenu grâce à des études de cohortes et
-notamment celle des survivants d’Hiroshima et Nagasaki (18:58). A 26:41,
-je vous explique ce qu’on sait pour des doses reçues inférieures à 100
-mSv. Enfin, je vous parle des impacts sanitaires de Tchernobyl (32:50) et
-Fukushima (43:42) avant de conclure (50:17).
+notamment celle des survivants d’Hiroshima et Nagasaki. Je vous explique ce qu’on sait pour des doses reçues inférieures à 100
+mSv. Enfin, je vous parle des impacts sanitaires de Tchernobyl et
+Fukushima avant de conclure.
 
 
 <hr>
@@ -35,19 +33,13 @@ Une vidéo qui résume le sujet est disponible ci-dessous :
 
 {{< youtube smGve9f6kpQ >}}
 
-## Sources bibliographiques
+## Sources 
 
-### Effets et sources
+### Entrée en matière
 
-Une source synthétique et en français: [Radiation: effets et sources](https://wedocs.unep.org/bitstream/handle/20.500.11822/7790/-Radiation_Effects_and_sources-2016Radiation_-_Effects_and_Sources_FR.pdg.pdf.pdf?sequence=5&isAllowed=y) (sans doute la meilleure entrée en matière pour une vue d’ensemble de la question).
-
-### Ordres de grandeur
-
-L’excellente illustration de [XKCD](https://xkcd.com/radiation/) pour avoir quelques ordres de grandeurs sur les expositions radioactives (en anglais).
-  
-### Unités
-
-Un petit point sur les unités: [une discussion sur ResearchGate](https://www.researchgate.net/post/What_is_the_difference_between_Sievert_and_Gray_A_practical_question_concerning_the_SI_units_for_ionizing_radiation) et les articles Wikipédia (bien faits) sur le [gray (Gy)](https://fr.wikipedia.org/wiki/Gray_(unit%C3%A9)) et le [sievert (Sv)](https://fr.wikipedia.org/wiki/Sievert).
+- Une source synthétique et en français: [Radiation: effets et sources](https://wedocs.unep.org/bitstream/handle/20.500.11822/7790/-Radiation_Effects_and_sources-2016Radiation_-_Effects_and_Sources_FR.pdg.pdf.pdf?sequence=5&isAllowed=y) (sans doute la meilleure entrée en matière pour une vue d’ensemble de la question).
+- L’excellente illustration de [XKCD](https://xkcd.com/radiation/) pour avoir quelques ordres de grandeurs sur les expositions radioactives (en anglais).
+- Un petit point sur les unités: [une discussion sur ResearchGate](https://www.researchgate.net/post/What_is_the_difference_between_Sievert_and_Gray_A_practical_question_concerning_the_SI_units_for_ionizing_radiation) et les articles Wikipédia (bien faits) sur le [gray (Gy)](https://fr.wikipedia.org/wiki/Gray_(unit%C3%A9)) et le [sievert (Sv)](https://fr.wikipedia.org/wiki/Sievert).
 
 ### Syndrome d'irradiation aiguë
 
@@ -101,9 +93,7 @@ Un [site intéressant pour en apprendre un peu plus sur la radiothérapie](https
 - [Concernant le nuage qui s’est arrêté à la frontière](https://www.pseudo-sciences.org/Nuage-de-Tchernobyl-rappel-des-faits).
 - [Long-term Radiation-Related Health Effects in a Unique Human Population: Lessons Learned from the Atomic Bomb Survivors of Hiroshima and Nagasaki (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907953/):
 « The risk estimates of the United Nations Scientific Committee on the Effects of Atomic Radiation (an ERR/Sv estimate for cancer incidence after exposure at all ages of 0.43 for men and 0.81 for women) ».
-- [Le rapport de _Greenpeace_ sur les impacts de Tchernobyl](http://www.greenpeace.org/archive-international/Global/international/publications/nuclear/2016/Nuclear_Scars.pdf) et [_Sortir du nucléaire_ sur le même sujet](https://www.sortirdunucleaire.org/Tchernobyl-un-million-de-morts)
-
-Ils se basent sur des études non-revues par les pairs: [celle de N.V. Malko](http://www.physiciansofchernobyl.org.ua/eng/Docs/Malko.pdf), et [celle qui estime 1 000 000 de morts](https://web.archive.org/web/20110419144513/http://www.strahlentelex.de/Yablokov%20Chernobyl%20book.pdf). Cette [dernière étude a été revu](https://atomicinsights.com/devastating-review-of-yablokovs-chernobyl-consequences-of-the-catastrophe-for-people-and-the-environment/), _a posteriori_: « The value of this review is not zero, but negative, as its bias is obvious only to specialists, while inexperienced readers may well be put into deep error. ». Les approches sont les mêmes: sélections arbitraires, extrapolations douteuses, attribution à la catastrophe de Tchernobyl de tous les impacts sanitaires sans essayer de les lier à une exposition aux rayonnements ionisants… etc.
+- [Le rapport de _Greenpeace_ sur les impacts de Tchernobyl](http://www.greenpeace.org/archive-international/Global/international/publications/nuclear/2016/Nuclear_Scars.pdf) et [_Sortir du nucléaire_ sur le même sujet](https://www.sortirdunucleaire.org/Tchernobyl-un-million-de-morts). Il se basen sur des études non-revues par les pairs: [celle de N.V. Malko](http://www.physiciansofchernobyl.org.ua/eng/Docs/Malko.pdf), et [celle qui estime 1 000 000 de morts](https://web.archive.org/web/20110419144513/http://www.strahlentelex.de/Yablokov%20Chernobyl%20book.pdf). Cette [dernière étude a été revu](https://atomicinsights.com/devastating-review-of-yablokovs-chernobyl-consequences-of-the-catastrophe-for-people-and-the-environment/), _a posteriori_: « The value of this review is not zero, but negative, as its bias is obvious only to specialists, while inexperienced readers may well be put into deep error. ». Les approches sont les mêmes: sélections arbitraires, extrapolations douteuses, attribution à la catastrophe de Tchernobyl de tous les impacts sanitaires sans essayer de les lier à une exposition aux rayonnements ionisants… etc.
 
 ### Fukushima
 

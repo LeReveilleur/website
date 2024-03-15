@@ -19,7 +19,7 @@ Dans cette première vidéo sur l'hydrogène, je m'intéresse à sa production. 
 
 <hr>
 
-## Sources bibliographiques
+## Sources
 
 ### Sources principales
 

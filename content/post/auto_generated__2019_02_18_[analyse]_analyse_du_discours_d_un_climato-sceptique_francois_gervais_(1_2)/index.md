@@ -50,25 +50,27 @@ troisième](https://www.youtube.com/watch?v=n-NJ-B_IIFw&index=3&list=PLhgpBc0hGj
 parle des changements climatiques des derniers centaines de milliers d’années
 (cycle de Milankovitch, boucles de rétroaction... etc).
 
-## Sources bibliographiques
+## Sources
+
+### Entrée en matière
 
 Dans cette vidéo, j’analyse en profondeur une partie de la conférence de M.
 Gervais que vous trouverez [ici](https://www.youtube.com/watch?v=iK3G8wqqp_k).
 Je traite ici la partie de 17:58 à 25:40.
 
+J’ai utilisé le même jeu de données que F. Gervais ([HadCRUT4](https://crudata.uea.ac.uk/cru/data/temperature/)): libre à vous de récupérer ces données accessibles à tous et de vous livrer aux mêmes exercices.
+
+Je recommande le site: _[Le Climat en Questions](http://www.climat-en-questions.fr)_.
+
 ### Aide
 
 Pour cette vidéo, j’ai été aidé par [François-Marie Bréon](https://twitter.com/fmbreon?lang=fr) qui a déjà beaucoup écrit sur F. Gervais en 2013 ([article du monde](https://www.lemonde.fr/sciences/article/2013/10/28/les-contre-verites-du-dernier-pamphlet-climatosceptique_3504317_1650684.html), [débat entre F. Gervais et F.M. Bréon dans La](http://documents.irevues.inist.fr/bitstream/handle/2042/54077/meteo_2014_86_68.pdf?sequence=1) _[Météorologie](http://documents.irevues.inist.fr/bitstream/handle/2042/54077/meteo_2014_86_68.pdf?sequence=1)_, [une liste des plus grosses erreurs du livre publié par F. Gervais en 2013](http://www.clubdesargonautes.org/livresetpublications/breon.php)).
 
-### Plus récemment
+Plus récemment :
 
 - [un article de mi-janvier sur le dernier livre de F. Gervais.](http://www.francesoir.fr/societe-science-tech/le-rechauffement-climatique-un-leurre-escroquerie-climatosceptique-de-francois-gervais)  
 - [un article de blog de M. Bréon](http://sogeco31.blogspot.com/2019/01/francois-gervais-passe-la-moulinette-de.html) sur ce sujet.
 - [un autre article de blog qui traite de ce que dit F. Gervais de la stratosphère dans sa conférence.](https://sogeco31.blogspot.com/2019/01/des-precisions-stratospheriques-sur-le.html)
-
-Je recommande également le site: _[Le Climat en Questions](http://www.climat-en-questions.fr)_.
-
-J’ai utilisé le même jeu de données que F. Gervais ([HadCRUT4](https://crudata.uea.ac.uk/cru/data/temperature/)): libre à vous de récupérer ces données accessibles à tous et de vous livrer aux mêmes exercices.
 
 ### Rapports du GIEC
 

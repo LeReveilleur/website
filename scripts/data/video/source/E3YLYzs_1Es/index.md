@@ -28,9 +28,9 @@ ci-dessous :
 
 {{< youtube yZ4FmDB_MXE >}}
 
-## Sources bibliographiques
+## Sources
 
-### Sources principales
+### Sources principales (ANDRA)
 
 Pour ces vidéos, la source principale est bien évidemment l’Agence nationale pour la gestion des déchets radioactifs ([ANDRA](https://www.andra.fr/)):
 
@@ -60,11 +60,7 @@ Pour ces vidéos, la source principale est bien évidemment l’Agence nationale
 - [Un post sur la commission nationale du débat public qui vulgarise l’étude](https://ppe.debatpublic.fr/electricite-nucleaire-12-ou-66-gc02kwh).
 - On avait déjà parlé un peu de tout ça lors de la vidéo sur le [classement électricité verte de Greenpeace](https://lereveilleur.com/electricite-verte-selon-greenpeace/).
 
-### Visite du laboratoire de Bure
-
-L’article que j’avais déjà produit lors de [ma visite du laboratoire de Bure](https://lereveilleur.com/ma-visite-a-bure/).
-
-### Alternatives au stockage géologique des déchets de haute et moyenne activité à long terme
+### Alternatives au stockage géologique
 
 - Le document de référence sur [les alternatives au stockage géologique des déchets de haute et moyenne activité à vie longue](https://www.irsn.fr/FR/expertise/rapports_expertise/Documents/surete/IRSN_Rapport-2019-00318_Alternatives-Stockage-Geologique-Dechets-HAMAVL.pdf) produit par l’IRSN.
 
@@ -125,3 +121,4 @@ L’article que j’avais déjà produit lors de [ma visite du laboratoire de Bu
 
 - [Un document synthétique du CNRS qui est très bien fait !](http://www.cnrs.fr/publications/imagesdelaphysique/couv-PDF/IdP2006/02_Dechets_nucleaires.pdf)
 - [La vidéo d’Astronogeek sur la difficulté à envoyer des objets dans l’espace](https://www.youtube.com/watch?v=qbst1m3F06M).
+- L’article que j’avais déjà produit lors de [ma visite du laboratoire de Bure](https://lereveilleur.com/ma-visite-a-bure/).

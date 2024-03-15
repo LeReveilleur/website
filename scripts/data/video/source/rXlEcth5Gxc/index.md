@@ -1,4 +1,4 @@
-## Sources bibliographiques
+## Sources
 
 ### Définition de l'effet de serre
 
