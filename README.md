@@ -103,10 +103,10 @@ git push origin
 
 ### How to add the bibliography sources for a video post?
 
-1. create the following directory `scripts/data/video/source/{$youtube_id}`
-   using the `youtube_id` of the video.
+1. create the following directory `scripts/data/video/source/{$youtube_id}__{title_of_the_video_without_spaces_but_with_underscores}`
+   using the `youtube_id` of the video and a prefix for the title.
 2. Create an `index.md` file that can contain markdown content for the
    bibliography section.
 3. If assets are needed, create a folder
-   `scripts/data/video/source/{$youtube_id}/bibliography/` and put
-   them under this folder.
+   `scripts/data/video/source/{$youtube_id}__{title_of_the_video_without_spaces_but_with_underscores}/bibliography/`
+and put them under this folder.
