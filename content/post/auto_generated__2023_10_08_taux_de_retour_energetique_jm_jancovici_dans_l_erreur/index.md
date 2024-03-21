@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Taux de retour énergétique : J.M. Jancovici dans l''erreur ?'
 categories: [energy]
 image-header: header.jpg
+url: /taux-de-retour-energetique-j-m-jancovici-dans-lerreur
 image: cover.jpg
 ---
 

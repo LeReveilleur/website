@@ -1,6 +1,7 @@
 ---
 videos:
   - youtube_id: "JQDRb7jE9qQ"
+    url: /les-riches-polluent-plus-que-les-pauvres
     title: "Climat : les riches polluent plus que les pauvres ?"
     description: |
       En France, le constat semble clair : 63 milliardaires émettent davantage de gaz à effet de serre que la moitié de la population. A l’échelle mondiale, la tendance est similaire : les 1 % les plus riches polluent autant que les 66 % les plus pauvres, selon Oxfam. Ces chiffres évoquent la responsabilité des plus fortunés dans le changement climatique et sous-entendent que leur empreinte carbone est particulièrement alourdie par les énergies fossiles. Mais qu’en est-il vraiment ?
@@ -15,6 +16,7 @@ videos:
       - "climat"
 
   - youtube_id: "UXSIsb3E1X4"
+    url: /le-charbon-et-ses-impacts
     title: "Le charbon et ses impacts"
     description: |
       Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me
@@ -29,6 +31,7 @@ videos:
 
   - youtube_id: "HgfcZeGP7BA"
     title: "Taux de retour énergétique : J.M. Jancovici dans l'erreur ?"
+    url: /taux-de-retour-energetique-j-m-jancovici-dans-lerreur
     description: |
       Le taux de retour énergétique est le ratio entre l’énergie délivrée par
       un système énergétique et l’énergie investie dans ce système. J'essaye de

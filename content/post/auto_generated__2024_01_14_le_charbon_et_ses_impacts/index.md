@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Le charbon et ses impacts
 categories: [energy]
 image-header: header.jpg
+url: /le-charbon-et-ses-impacts
 image: cover.jpg
 ---
 
