@@ -10,6 +10,10 @@
 (def prefix-str "auto_generated__")
 (def video-source-folder "scripts/data/video/source/")
 
+(defn filename-to-youtube-id
+  [filename]
+  (let [youtube-id-max-length 11] (subs filename 0 youtube-id-max-length)))
+
 ;; -------------------------------
 ;; Utils to work with bibliography
 ;; -------------------------------
@@ -28,7 +32,7 @@
          (mapv (fn [dir]
                  (let [bibliography-folder (str dir "/bibliography")
                        index-filename (str dir "/index.md")]
-                   [(fs/file-name dir)
+                   [(filename-to-youtube-id (fs/file-name dir))
                     (cond-> {:dir (str dir)}
                       (and (fs/exists? bibliography-folder)
                            (fs/directory? bibliography-folder))
@@ -218,3 +222,22 @@
 (comment
   (clean-video-posts!)
   (generate-video-posts!))
+
+(comment
+  (defn migrate-source
+    [src-dir dst-dir videos-data-path]
+    (let [{:keys [videos]} (yaml/parse-string (slurp videos-data-path))]
+      (doseq [video videos]
+        (try (let [separator "__"
+                   {:keys [youtube_id title]} video
+                   title-str (sanitize title)]
+               (fs/copy-tree (str src-dir youtube_id)
+                             (str dst-dir youtube_id separator title-str)
+                             {:replace-existing true}))
+             (catch Exception e
+               (print (str "Exception for video " video " : " e))))))))
+
+(comment
+  (migrate-source "scripts/data/video/source/"
+                  "scripts/data/video/source2/"
+                  videos-data-path))
