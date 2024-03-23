@@ -110,3 +110,10 @@ git push origin
 3. If assets are needed, create a folder
    `scripts/data/video/source/{$youtube_id}__{title_of_the_video_without_spaces_but_with_underscores}/bibliography/`
 and put them under this folder.
+
+### How to change the cover image of a video?
+
+1. Open the `data/videos.yaml` file to retrieve its `youtube_id`. Eg. `eruVCRrIkCY`
+2. Open the folder `assets/img/video_thumbnail/`
+3. Replace the thumbnail called `{$youtube_id}.jpg` with the image you want to use.
+4. Run the script: `bb generate-video-posts`
