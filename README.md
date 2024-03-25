@@ -101,9 +101,14 @@ To push to the remote repository
 git push origin
 ```
 
+### How to set a specific URL for a blog post?
+
+In the file `data/videos.yaml`, add an entry with the key `url` andthe
+value `/le-charbon-et-ses-impacts`.
+
 ### How to add the bibliography sources for a video post?
 
-1. create the following directory `scripts/data/video/source/{$youtube_id}__{title_of_the_video_without_spaces_but_with_underscores}`
+1. Create the following directory `scripts/data/video/source/{$youtube_id}__{title_of_the_video_without_spaces_but_with_underscores}`
    using the `youtube_id` of the video and a prefix for the title.
 2. Create an `index.md` file that can contain markdown content for the
    bibliography section.
