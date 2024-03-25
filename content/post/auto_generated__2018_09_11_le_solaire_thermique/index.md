@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Le solaire thermique
 categories: [energy]
 image-header: header.jpg
+url: /le-solaire-thermique
 image: cover.jpg
 ---
 

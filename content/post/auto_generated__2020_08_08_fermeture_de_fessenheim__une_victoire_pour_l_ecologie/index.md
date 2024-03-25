@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Fermeture de Fessenheim, une victoire pour l'écologie ?
 categories: [policy]
 image-header: header.jpg
+url: /fermeture-de-fessenheim
 image: cover.jpg
 ---
 

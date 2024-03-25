@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Fonctionnement des centrales nucléaires (canicule, tritium, durée de vie...)
 categories: [energy]
 image-header: header.jpg
+url: /fonctionnement-des-centrales-nucleaires-energie11
 image: cover.jpg
 ---
 

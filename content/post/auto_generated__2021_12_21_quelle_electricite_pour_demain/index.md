@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Quelle électricité pour demain ?
 categories: [energy]
 image-header: header.jpg
+url: /quelle-electricite-pour-demain
 image: cover.jpg
 ---
 

@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Le Photovoltaïque
 categories: [energy]
 image-header: header.jpg
+url: /le-photovoltaique
 image: cover.jpg
 ---
 

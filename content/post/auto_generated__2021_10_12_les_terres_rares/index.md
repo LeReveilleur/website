@@ -7,6 +7,7 @@ youtube_id: OAyYSlMhgI4
 video-thumbnail: cover.jpg
 title: Les terres rares
 image-header: header.jpg
+url: /les-terres-rares
 image: cover.jpg
 ---
 

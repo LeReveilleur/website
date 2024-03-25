@@ -2,6 +2,7 @@
 article_type: article
 tags: [énergie, science, nucléaire, déchets radioactifs]
 date: '2018-09-25'
+url: "/ma-visite-a-bure"
 slug: visite_bure
 title: Ma visite à Bure
 categories: [energy]

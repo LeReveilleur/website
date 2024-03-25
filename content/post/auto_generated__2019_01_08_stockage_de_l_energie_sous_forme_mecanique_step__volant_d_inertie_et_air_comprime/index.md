@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Stockage de l''énergie sous forme mécanique: STEP, volant d''inertie et air comprimé'
 categories: [energy]
 image-header: header.jpg
+url: /stockage-de-lenergie-sous-forme-mecanique
 image: cover.jpg
 ---
 

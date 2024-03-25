@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Électricité verte selon Greenpeace : l''écologie dogmatique'
 categories: [energy]
 image-header: header.jpg
+url: /electricite-verte-selon-greenpeace
 image: cover.jpg
 ---
 

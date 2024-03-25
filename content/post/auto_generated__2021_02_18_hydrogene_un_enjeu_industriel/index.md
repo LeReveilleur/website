@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Hydrogène : un enjeu industriel !'
 categories: [energy]
 image-header: header.jpg
+url: /hydrogene-un-enjeu-industriel
 image: cover.jpg
 ---
 

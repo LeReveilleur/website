@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Analyse du discours d''un climato-sceptique: V. Courtillot. Part. 1'
 categories: [science]
 image-header: header.jpg
+url: /analyse-du-discours-dun-climato-sceptique
 image: cover.jpg
 ---
 

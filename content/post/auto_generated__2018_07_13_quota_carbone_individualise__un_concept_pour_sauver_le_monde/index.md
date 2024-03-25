@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Quota Carbone Individualisé, un concept pour sauver le monde ?
 categories: [policy]
 image-header: header.jpg
+url: /quota-carbone-individualise-un-concept-pour-sauver-le-monde
 image: cover.jpg
 ---
 

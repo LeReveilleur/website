@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Voiture électrique : un problème de batterie ?'
 categories: [transport]
 image-header: header.jpg
+url: /voiture-electrique-un-probleme-de-batterie
 image: cover.jpg
 ---
 

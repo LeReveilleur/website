@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4'
 categories: [energy]
 image-header: header.jpg
+url: /le-stockage-geologique-profond-des-dechets-radioactifs
 image: cover.jpg
 ---
 

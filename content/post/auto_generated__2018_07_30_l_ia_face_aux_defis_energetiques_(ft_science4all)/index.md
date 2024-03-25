@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: L'IA face aux défis énergétiques (ft. Science4All)
 categories: [science]
 image-header: header.jpg
+url: /lia-face-aux-defis-energetiques
 image: cover.jpg
 ---
 

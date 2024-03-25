@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Le solaire thermique à concentration
 categories: [energy]
 image-header: header.jpg
+url: /le-solaire-a-concentration
 image: cover.jpg
 ---
 

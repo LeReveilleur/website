@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3'
 categories: [energy]
 image-header: header.jpg
+url: /gestion-des-dechets-nucleaires-et-demantelement
 image: cover.jpg
 ---
 

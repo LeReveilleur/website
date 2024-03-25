@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: '[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra'
 categories: [science]
 image-header: header.jpg
+url: /analyse-impact-sanitaire-de-fukushima-une-desinformation-suspecte
 image: cover.jpg
 ---
 

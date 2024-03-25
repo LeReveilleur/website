@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: La Convention Citoyenne pour le Climat, utile ?
 categories: [policy]
 image-header: header.jpg
+url: /la-convention-citoyenne-pour-le-climat
 image: cover.jpg
 ---
 

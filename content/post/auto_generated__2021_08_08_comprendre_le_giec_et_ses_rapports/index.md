@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Comprendre le GIEC et ses rapports
 categories: [policy]
 image-header: header.jpg
+url: /comprendre-le-giec-et-ses-rapports
 image: cover.jpg
 ---
 

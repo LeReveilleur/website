@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Comment le réchauffement climatique va bouleverser l’humanité
 categories: [science]
 image-header: header.jpg
+url: /la-voiture-electrique-est-elle-ecologique
 image: cover.jpg
 ---
 

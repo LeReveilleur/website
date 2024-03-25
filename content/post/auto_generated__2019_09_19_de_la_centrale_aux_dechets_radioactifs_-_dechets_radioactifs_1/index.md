@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'De la centrale aux déchets radioactifs - Déchets radioactifs #1'
 categories: [energy]
 image-header: header.jpg
+url: /de-la-centrale-aux-dechets-radioactifs
 image: cover.jpg
 ---
 

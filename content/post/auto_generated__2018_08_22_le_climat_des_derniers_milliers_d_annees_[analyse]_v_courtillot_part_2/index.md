@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Le climat des derniers milliers d'années. [Analyse] V. Courtillot Part. 2
 categories: [science]
 image-header: header.jpg
+url: /le-climat-des-derniers-milliers-dannees
 image: cover.jpg
 ---
 
