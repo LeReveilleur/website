@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Les subtilités de l'effet de serre
 categories: [science]
 image-header: header.jpg
+url: /les-subtilites-de-leffet-de-serre
 image: cover.jpg
 ---
 

@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Que se passerait-il si on arrêtait nos émissions de CO2 ?
 categories: [science]
 image-header: header.jpg
+url: /inertie-climatique
 image: cover.jpg
 ---
 

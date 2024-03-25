@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Voiture à hydrogène: l''impasse ?'
 categories: [transport]
 image-header: header.jpg
+url: /voiture-a-hydrogene-limpasse
 image: cover.jpg
 ---
 

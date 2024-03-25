@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Taxe carbone : nécessaire ?'
 categories: [policy]
 image-header: header.jpg
+url: /taxe-carbone-necessaire
 image: cover.jpg
 ---
 

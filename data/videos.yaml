@@ -46,6 +46,7 @@ videos:
 
   - youtube_id: "N2fgaITIwZ0"
     title: "Taxe carbone : nécessaire ?"
+    url: "/taxe-carbone-necessaire"
     description: |
       Ici, on voit ce qu’est une tarification du carbone, quelles sont les
       émissions ciblées et quels sont ses avantages et ses insuffisances. Je me
@@ -62,6 +63,7 @@ videos:
 
   - youtube_id: "hNMRSUFuHPg"
     title: "Voiture à hydrogène: l'impasse ?"
+    url: "/voiture-a-hydrogene-limpasse"
     description: "Je vous parle de la voiture à hydrogène et de ses limites."
     date: "2023-05-15"
     categories:
@@ -73,6 +75,7 @@ videos:
 
   - youtube_id: "rXlEcth5Gxc"
     title: "Les subtilités de l'effet de serre"
+    url: "/les-subtilites-de-leffet-de-serre"
     description: |
       Dans cette vidéo, je fais le bilan énergétique de la Terre pour
       comprendre son climat. Ce qui m'amène à expliquer le phénomène physique
@@ -87,6 +90,7 @@ videos:
 
   - youtube_id: "cN_QaUxRsaw"
     title: "Réchauffement climatique: le rôle de la vapeur d'eau"
+    url: "/rechauffement-climatique-le-role-de-la-vapeur-deau"
     description: |
       Je fais le point sur le rôle de la vapeur d'eau dans le changement
       climatique. Qu'est-ce qui fixe le contenu en vapeur d'eau dans
@@ -104,6 +108,7 @@ videos:
       - "eau"
 
   - youtube_id: "3105ScO53fo"
+    url: "/pourquoi-la-vie-galere-dans-locean"
     title: "Pourquoi la vie galère dans l'océan ?"
     description: |
       Dans cette vidéo, je vous parle du fonctionnement de la vie dans les
@@ -123,6 +128,7 @@ videos:
 
   - youtube_id: "iiKuUElvGhM"
     title: "Que se passerait-il si on arrêtait nos émissions de CO2 ?"
+    url: "/inertie-climatique"
     description: |
       Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les
       émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ?
