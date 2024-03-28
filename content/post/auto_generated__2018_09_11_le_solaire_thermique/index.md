@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [solaire, énergie, thermique]
 date: '2018-09-11'
 slug: le_solaire_thermique
 youtube_id: oDyvDvQ5JkU
 video-thumbnail: cover.jpg
 title: Le solaire thermique
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /le-solaire-thermique
 image: cover.jpg
 ---
 

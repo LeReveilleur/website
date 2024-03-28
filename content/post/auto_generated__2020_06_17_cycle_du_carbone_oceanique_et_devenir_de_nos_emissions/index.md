@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [carbone, ocean, science]
 date: '2020-06-17'
 slug: cycle_du_carbone_oceanique_et_devenir_de_nos_emissions
 youtube_id: NcEI76hJVR0
 video-thumbnail: cover.jpg
 title: Cycle du carbone océanique et devenir de nos émissions
-categories: [science]
+categories: [Cycle du carbone, Climat, Avec un résumé]
 image-header: header.jpg
-url: /carbone-oceanique-et-devenir-de-nos-emissions
 image: cover.jpg
 ---
 
@@ -24,7 +22,7 @@ On voit d'abord la structure des océans et la circulation océanique avant de s
 
 ## Résumé
 
-Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_generated__2020_06_17_[resume]_qu_advient-il_de_nos_emissions_de_co2" >}}) :
+Une vidéo qui résume le sujet est disponible [ci-dessous] :
 
 {{< youtube kqBCN-w-lGU >}}
 

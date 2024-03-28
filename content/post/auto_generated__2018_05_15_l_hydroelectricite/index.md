@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, énergie renouvelable]
 date: '2018-05-15'
 slug: l_hydroelectricite
 youtube_id: 71EopUDDJ04
 video-thumbnail: cover.jpg
 title: L'hydroélectricité
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /lhydroelectricite
 image: cover.jpg
 ---
 

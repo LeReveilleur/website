@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, éolien, énergie renouvelable]
 date: '2018-05-29'
 slug: l_eolien
 youtube_id: wXqIZxV6VHE
 video-thumbnail: cover.jpg
 title: L'éolien
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /leolien
 image: cover.jpg
 ---
 

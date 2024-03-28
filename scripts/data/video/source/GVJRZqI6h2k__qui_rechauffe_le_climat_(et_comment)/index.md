@@ -17,7 +17,7 @@ L’affirmation suivante est mathématiquement exacte : _La durée de vie moyenn
 modélisée comme une superposition d’exponentielle décroissante avec différentes
 constantes de temps. [Voir la vidéo sur la chaîne Le Réveilleur qui couvre cet
 aspect]({{< ref
-"auto_generated__2020_06_17_[resume]_qu_advient-il_de_nos_emissions_de_co2"
+"auto_generated__2020_06_17_cycle_du_carbone_oceanique_et_devenir_de_nos_emissions"
 >}}).
 
 {{< youtube kqBCN-w-lGU >}}

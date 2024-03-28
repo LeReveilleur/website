@@ -1,12 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, co2, Le Monde, collaboration]
+tags: [Collaboration]
 date: '2023-04-23'
 slug: la_france_emet_trop_de_co2__voici_comment
 youtube_id: sDxvadwizw8
 video-thumbnail: cover.jpg
 title: La France émet trop de CO2, voici comment
-categories: [science]
+categories: [Climat, Le Monde]
 image-header: header.jpg
 image: cover.jpg
 ---

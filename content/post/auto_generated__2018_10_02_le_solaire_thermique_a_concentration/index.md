@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [solaire, énergie, thermique]
 date: '2018-10-02'
 slug: le_solaire_thermique_a_concentration
 youtube_id: dykSjXQhSjM
 video-thumbnail: cover.jpg
 title: Le solaire thermique à concentration
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /le-solaire-a-concentration
 image: cover.jpg
 ---
 

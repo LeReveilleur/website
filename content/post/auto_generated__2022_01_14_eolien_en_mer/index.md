@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, énergie, éolien]
 date: '2022-01-14'
 slug: eolien_en_mer
 youtube_id: xbdUlfYCRwc
 video-thumbnail: cover.jpg
 title: Éolien en mer
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /eolien-en-mer
 image: cover.jpg
 ---
 

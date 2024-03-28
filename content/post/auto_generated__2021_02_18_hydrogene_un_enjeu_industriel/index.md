@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, hydrogène, industrie]
 date: '2021-02-18'
 slug: hydrogene_un_enjeu_industriel
 youtube_id: NB9We5wwGPo
 video-thumbnail: cover.jpg
 title: 'Hydrogène : un enjeu industriel !'
-categories: [energy]
+categories: [Énergie, Hydrogène]
 image-header: header.jpg
-url: /hydrogene-un-enjeu-industriel
 image: cover.jpg
 ---
 

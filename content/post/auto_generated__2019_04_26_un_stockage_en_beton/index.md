@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, stockage]
 date: '2019-04-26'
 slug: un_stockage_en_beton
 youtube_id: S6Y4XVa8tew
 video-thumbnail: cover.jpg
 title: Un stockage en béton ?
-categories: [energy]
+categories: [Énergie, Stockage]
 image-header: header.jpg
-url: /un-stockage-en-beton-energie7-5
 image: cover.jpg
 ---
 

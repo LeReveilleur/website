@@ -1,13 +1,12 @@
 ---
 article_type: youtube_video
-tags: [energy, resource, metals]
 date: '2021-10-12'
 slug: les_terres_rares
 youtube_id: OAyYSlMhgI4
 video-thumbnail: cover.jpg
 title: Les terres rares
+categories: [Ressources, Métal]
 image-header: header.jpg
-url: /les-terres-rares
 image: cover.jpg
 ---
 

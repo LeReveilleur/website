@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, politique, analyse, climatosceptique]
 date: '2019-02-18'
 slug: '[analyse]_analyse_du_discours_d_un_climato-sceptique_francois_gervais_(1_2)'
 youtube_id: XGq4WRTLfvc
 video-thumbnail: cover.jpg
 title: '[Analyse] Analyse du discours d''un climato-sceptique : François Gervais. (1/2)'
-categories: [policy]
+categories: [Climat, Analyse critique, Climatosceptique]
 image-header: header.jpg
-url: /analyse-du-discours-dun-climato-sceptique-f-gervais-1-2
 image: cover.jpg
 ---
 

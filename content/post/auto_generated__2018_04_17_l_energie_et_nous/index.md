@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie]
 date: '2018-04-17'
 slug: l_energie_et_nous
 youtube_id: eruVCRrIkCY
 video-thumbnail: cover.jpg
 title: L'énergie et nous
-categories: [energy]
+categories: [Énergie]
 image-header: header.jpg
-url: /lenergie-et-nous
 image: cover.jpg
 ---
 

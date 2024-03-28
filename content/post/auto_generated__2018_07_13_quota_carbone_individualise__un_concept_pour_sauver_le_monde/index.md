@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [climat, politique, carbone, taxe carbone]
 date: '2018-07-13'
 slug: quota_carbone_individualise__un_concept_pour_sauver_le_monde
 youtube_id: NIVPzTFhzQY
 video-thumbnail: cover.jpg
 title: Quota Carbone Individualisé, un concept pour sauver le monde ?
-categories: [policy]
+categories: [Politique, Climat]
 image-header: header.jpg
-url: /quota-carbone-individualise-un-concept-pour-sauver-le-monde
 image: cover.jpg
 ---
 

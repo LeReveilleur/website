@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, nucléaire, déchets radioactifs]
 date: '2019-12-09'
 slug: stockage_geologique_profond_des_dechets_radioactifs_-_dechets_radioactifs_4
 youtube_id: E3YLYzs_1Es
 video-thumbnail: cover.jpg
 title: 'Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4'
-categories: [energy]
+categories: [Énergie, Nucléaire, Déchets radioactifs, Avec une annexe, Avec un résumé]
 image-header: header.jpg
-url: /le-stockage-geologique-profond-des-dechets-radioactifs
 image: cover.jpg
 ---
 

@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [carbone, science]
 date: '2020-05-12'
 slug: le_cycle_du_carbone
 youtube_id: vHCQk2_8pew
 video-thumbnail: cover.jpg
 title: Le cycle du carbone
-categories: [science]
+categories: [Cycle du carbone, Climat]
 image-header: header.jpg
-url: /le-cycle-du-carbone
 image: cover.jpg
 ---
 

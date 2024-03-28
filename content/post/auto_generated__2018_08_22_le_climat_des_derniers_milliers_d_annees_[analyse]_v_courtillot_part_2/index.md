@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [carbone, analyse, climat, courtillot]
 date: '2018-08-22'
 slug: le_climat_des_derniers_milliers_d_annees_[analyse]_v_courtillot_part_2
 youtube_id: GMoqkWjSGvw
 video-thumbnail: cover.jpg
 title: Le climat des derniers milliers d'années. [Analyse] V. Courtillot Part. 2
-categories: [science]
+categories: [Climat, Analyse critique, Climatosceptique]
 image-header: header.jpg
-url: /le-climat-des-derniers-milliers-dannees
 image: cover.jpg
 ---
 

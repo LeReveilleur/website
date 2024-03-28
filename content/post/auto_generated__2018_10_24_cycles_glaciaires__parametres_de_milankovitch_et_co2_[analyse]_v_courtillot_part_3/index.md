@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [carbone, analyse, cycle glaciaire, climat, courtillot]
 date: '2018-10-24'
 slug: cycles_glaciaires__parametres_de_milankovitch_et_co2_[analyse]_v_courtillot_part_3
 youtube_id: n-NJ-B_IIFw
 video-thumbnail: cover.jpg
 title: Cycles glaciaires, paramètres de Milankovitch et CO2 [Analyse] V. Courtillot Part. 3
-categories: [science]
+categories: [Climat, Analyse critique, Climatosceptique]
 image-header: header.jpg
-url: /cycles-glaciaires-parametres-de-milankovitch-et-co2-analyse-v-courtillot-part-3
 image: cover.jpg
 ---
 

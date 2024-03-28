@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, climat]
 date: '2022-12-08'
 slug: les_subtilites_de_l_effet_de_serre
 youtube_id: rXlEcth5Gxc
 video-thumbnail: cover.jpg
 title: Les subtilités de l'effet de serre
-categories: [science]
+categories: [Climat]
 image-header: header.jpg
-url: /les-subtilites-de-leffet-de-serre
 image: cover.jpg
 ---
 

@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [énergie, nucléaire, déchets radioactifs]
+tags: [Santé]
 date: '2019-01-30'
 slug: la_radioactivite_et_notre_exposition_aux_rayonnements_ionisants
 youtube_id: 0tlx_JJkHWc
 video-thumbnail: cover.jpg
 title: La radioactivité et notre exposition aux rayonnements ionisants
-categories: [energy]
+categories: [Énergie, Nucléaire]
 image-header: header.jpg
-url: /la-radioactivite
 image: cover.jpg
 ---
 

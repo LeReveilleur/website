@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, nucléaire, uranium, ressources]
 date: '2019-07-01'
 slug: les_ressources_d_uranium
 youtube_id: uIXEnRB7TXc
 video-thumbnail: cover.jpg
 title: Les ressources d'uranium
-categories: [energy]
+categories: [Énergie, Nucléaire, Ressources]
 image-header: header.jpg
-url: /les-ressources-duranium
 image: cover.jpg
 ---
 

@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [nucléaire, analysis]
+tags: [Santé]
 date: '2020-03-23'
 slug: '[analyse]_impact_sanitaire_de_fukushima_une_desinformation_suspecte_par_julien_baldassarra'
 youtube_id: k3mUS3JM4aM
 video-thumbnail: cover.jpg
 title: '[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra'
-categories: [science]
+categories: [Nucléaire, Analyse critique]
 image-header: header.jpg
-url: /analyse-impact-sanitaire-de-fukushima-une-desinformation-suspecte
 image: cover.jpg
 ---
 
@@ -23,7 +22,7 @@ Dans cette vidéo, j'analyse longuement un article paru dans Le Vent Se Lève et
 
 ## Résumé
 
-Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_generated__2020_03_23_[resume][analyse]_impact_sanitaire_de_fukushima_une_desinformation_suspecte_par_julien_baldassarra" >}}) :
+Une vidéo qui résume le sujet est disponible :
 
 {{< youtube t-gqGlIcIYA >}}
 
@@ -35,7 +34,7 @@ M. Baldassarra [m’a déjà attaqué dans une tribune de Reporterre](https://tw
 
 ### Médias sur le même sujet
 
-- Un article de _CheckNews [Est-il vrai que l’accident nucléaire de Fukushima n’a causé aucun mort ?](https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort_1720075)
+- Un article de _CheckNews_ [Est-il vrai que l’accident nucléaire de Fukushima n’a causé aucun mort ?](https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort_1720075)
 (mon seul point de désaccord, c’est qu’une reconnaissance juridique d’un préjudice n’implique pas la reconnaissance scientifique d’une causalité).
 - Un article de Sylvestre Huet de 2020 [Fukushima : les conséquences sanitaires](https://www.lemonde.fr/blog/huet/2020/03/18/fukushima-quelles-consequences-sanitaires/).
 Même quelques vérifications dans la presse aurait permis à _Le Vent Se Lève_ de ne pas publier de la désinformation...

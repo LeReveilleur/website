@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [énergie, électricité, greenpeace]
+tags: [Greenpeace]
 date: '2018-11-14'
 slug: electricite_verte_selon_greenpeace_l_ecologie_dogmatique
 youtube_id: xx55qcGdXOo
 video-thumbnail: cover.jpg
 title: 'Électricité verte selon Greenpeace : l''écologie dogmatique'
-categories: [energy]
+categories: [Analyse critique, Énergie, Électricité]
 image-header: header.jpg
-url: /electricite-verte-selon-greenpeace
 image: cover.jpg
 ---
 

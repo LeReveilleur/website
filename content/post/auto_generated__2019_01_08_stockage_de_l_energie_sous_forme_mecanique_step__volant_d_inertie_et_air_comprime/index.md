@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, stockage]
 date: '2019-01-08'
 slug: stockage_de_l_energie_sous_forme_mecanique_step__volant_d_inertie_et_air_comprime
 youtube_id: ECXJ5rTNi74
 video-thumbnail: cover.jpg
 title: 'Stockage de l''énergie sous forme mécanique: STEP, volant d''inertie et air comprimé'
-categories: [energy]
+categories: [Énergie, Stockage]
 image-header: header.jpg
-url: /stockage-de-lenergie-sous-forme-mecanique
 image: cover.jpg
 ---
 

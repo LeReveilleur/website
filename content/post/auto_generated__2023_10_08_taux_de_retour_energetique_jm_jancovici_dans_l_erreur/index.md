@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, science]
 date: '2023-10-08'
 slug: taux_de_retour_energetique_jm_jancovici_dans_l_erreur
 youtube_id: HgfcZeGP7BA
 video-thumbnail: cover.jpg
 title: 'Taux de retour énergétique : J.M. Jancovici dans l''erreur ?'
-categories: [energy]
+categories: [Énergie]
 image-header: header.jpg
-url: /taux-de-retour-energetique-j-m-jancovici-dans-lerreur
 image: cover.jpg
 ---
 

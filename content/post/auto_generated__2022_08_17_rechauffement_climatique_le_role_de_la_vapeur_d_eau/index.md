@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, climat, eau]
 date: '2022-08-17'
 slug: rechauffement_climatique_le_role_de_la_vapeur_d_eau
 youtube_id: cN_QaUxRsaw
 video-thumbnail: cover.jpg
 title: 'Réchauffement climatique: le rôle de la vapeur d''eau'
-categories: [science]
+categories: [Climat]
 image-header: header.jpg
-url: /rechauffement-climatique-le-role-de-la-vapeur-deau
 image: cover.jpg
 ---
 

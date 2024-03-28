@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [climat, politique, carbone, taxe carbone]
 date: '2018-12-14'
 slug: des_gestes_individuels_a_l_action_politique_militer_pour_une_taxe_carbone
 youtube_id: M8pIJaQBe3M
 video-thumbnail: cover.jpg
 title: 'Des gestes individuels à l''action politique: militer pour une taxe carbone ?'
-categories: [policy]
+categories: [Politique, Climat]
 image-header: header.jpg
-url: /des-gestes-individuels-a-laction-politique-militer-pour-une-taxe-carbone
 image: cover.jpg
 ---
 

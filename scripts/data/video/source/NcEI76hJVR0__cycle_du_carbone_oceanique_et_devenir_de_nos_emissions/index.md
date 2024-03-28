@@ -1,6 +1,6 @@
 ## Résumé
 
-Une vidéo qui résume le sujet est disponible [ci-dessous]({{< ref "auto_generated__2020_06_17_[resume]_qu_advient-il_de_nos_emissions_de_co2" >}}) :
+Une vidéo qui résume le sujet est disponible [ci-dessous] :
 
 {{< youtube kqBCN-w-lGU >}}
 

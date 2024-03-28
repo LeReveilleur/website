@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, électricité]
 date: '2020-11-03'
 slug: les_dessous_de_l_electricite_verte
 youtube_id: goceQuwWwKA
 video-thumbnail: cover.jpg
 title: Les dessous de l'électricité verte
-categories: [energy]
+categories: [Énergie, Électricité]
 image-header: header.jpg
-url: /les-dessous-de-lelectricite-verte
 image: cover.jpg
 ---
 

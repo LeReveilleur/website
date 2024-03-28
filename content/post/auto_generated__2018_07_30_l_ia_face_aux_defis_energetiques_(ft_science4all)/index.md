@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [IA, énergie, collaboration]
+tags: [Collaboration]
 date: '2018-07-30'
 slug: l_ia_face_aux_defis_energetiques_(ft_science4all)
 youtube_id: u3QnT73jE2U
 video-thumbnail: cover.jpg
 title: L'IA face aux défis énergétiques (ft. Science4All)
-categories: [science]
+categories: [Énergie]
 image-header: header.jpg
-url: /lia-face-aux-defis-energetiques
 image: cover.jpg
 ---
 

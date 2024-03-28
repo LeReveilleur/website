@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [science, Le Monde, collaboration, climat]
+tags: [Collaboration]
 date: '2024-03-03'
 slug: climat_les_riches_polluent_plus_que_les_pauvres
 youtube_id: JQDRb7jE9qQ
 video-thumbnail: cover.jpg
 title: 'Climat : les riches polluent plus que les pauvres ?'
-categories: [climat]
+categories: [Climat, Le Monde]
 image-header: header.jpg
-url: /les-riches-polluent-plus-que-les-pauvres
 image: cover.jpg
 ---
 
@@ -16,7 +15,7 @@ image: cover.jpg
 
 {{< youtube JQDRb7jE9qQ >}}
 
-En France, le constat semble clair : 63 milliardaires émettent davantage de gaz à effet de serre que la moitié de la population. A l’échelle mondiale, la tendance est similaire : les 1 % les plus riches polluent autant que les 66 % les plus pauvres, selon Oxfam. Ces chiffres évoquent la responsabilité des plus fortunés dans le changement climatique et sous-entendent que leur empreinte carbone est particulièrement alourdie par les énergies fossiles. Mais qu’en est-il vraiment ?
+En France, le constat semble clair : 63 milliardaires émettent davantage de gaz à effet de serre que la moitié de la population. A l’échelle mondiale, la tendance est similaire : les 1 % les plus riches polluent autant que les 66 % les plus pauvres, selon Oxfam. Ces chiffres évoquent la responsabilité des plus fortunés dans le changement climatique et sous-entendent que leur empreinte carbone est particulièrement alourdie par les énergies fossiles. Mais qu’en est-il vraiment ? <br> <br>
 Pour bien saisir le sens de ces données, il faut examiner les méthodes employées par les chercheurs qui publient ces études. L’enjeu central concerne l’allocation des émissions de CO2 : faut-il les attribuer aux ménages, aux entreprises, aux actionnaires, ou encore à un mélange de l’ensemble ? Il est essentiel de prendre en compte ces choix méthodologiques pour tirer les bonnes conclusions et optimiser la lutte contre le réchauffement climatique. Les riches sont responsables, c’est vrai, mais ils ne sont pas les seuls.
 
 

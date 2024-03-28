@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [science, vivant, eau]
 date: '2022-05-30'
 slug: pourquoi_la_vie_galere_dans_l_ocean
 youtube_id: 3105ScO53fo
 video-thumbnail: cover.jpg
 title: Pourquoi la vie galère dans l'océan ?
-categories: [science]
+categories: [Science]
 image-header: header.jpg
-url: /pourquoi-la-vie-galere-dans-locean
 image: cover.jpg
 ---
 

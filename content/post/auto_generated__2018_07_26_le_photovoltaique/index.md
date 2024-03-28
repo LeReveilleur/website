@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [solaire, énergie]
 date: '2018-07-26'
 slug: le_photovoltaique
 youtube_id: hESxYif5pdI
 video-thumbnail: cover.jpg
 title: Le Photovoltaïque
-categories: [energy]
+categories: [Énergie, Renouvelables]
 image-header: header.jpg
-url: /le-photovoltaique
 image: cover.jpg
 ---
 

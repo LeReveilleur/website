@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [climat, politique]
 date: '2021-08-08'
 slug: comprendre_le_giec_et_ses_rapports
 youtube_id: C_UTlTiVQ_0
 video-thumbnail: cover.jpg
 title: Comprendre le GIEC et ses rapports
-categories: [policy]
+categories: [Climat, Politique]
 image-header: header.jpg
-url: /comprendre-le-giec-et-ses-rapports
 image: cover.jpg
 ---
 

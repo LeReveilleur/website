@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, science]
 date: '2024-01-14'
 slug: le_charbon_et_ses_impacts
 youtube_id: UXSIsb3E1X4
 video-thumbnail: cover.jpg
 title: Le charbon et ses impacts
-categories: [energy]
+categories: [Énergie, Fossile]
 image-header: header.jpg
-url: /le-charbon-et-ses-impacts
 image: cover.jpg
 ---
 

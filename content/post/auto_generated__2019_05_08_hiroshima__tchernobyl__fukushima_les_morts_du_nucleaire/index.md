@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [énergie, nucléaire]
+tags: [Santé]
 date: '2019-05-08'
 slug: hiroshima__tchernobyl__fukushima_les_morts_du_nucleaire
 youtube_id: utyT8Z4qEaA
 video-thumbnail: cover.jpg
 title: Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire
-categories: [energy]
+categories: [Énergie, Nucléaire, Avec un résumé]
 image-header: header.jpg
-url: /hiroshima-tchernobyl-fukushima-les-morts-du-nucleaire
 image: cover.jpg
 ---
 

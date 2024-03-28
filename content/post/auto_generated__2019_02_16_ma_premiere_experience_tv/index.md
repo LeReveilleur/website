@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [climat, carbone, politique]
 date: '2019-02-16'
 slug: ma_premiere_experience_tv
 youtube_id: 1tmTy5zax4w
 video-thumbnail: cover.jpg
 title: Ma première expérience TV !
-categories: [policy]
+categories: [Vlog, Politique]
 image-header: header.jpg
-url: /vlog-ma-premiere-experience-tv
 image: cover.jpg
 ---
 

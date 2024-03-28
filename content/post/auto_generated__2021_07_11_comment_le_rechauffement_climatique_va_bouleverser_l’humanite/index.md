@@ -1,14 +1,13 @@
 ---
 article_type: youtube_video
-tags: [science, Le Monde, collaboration, climat]
+tags: [Collaboration]
 date: '2021-07-11'
 slug: comment_le_rechauffement_climatique_va_bouleverser_l’humanite
 youtube_id: 8nzRXxPnlPQ
 video-thumbnail: cover.jpg
 title: Comment le réchauffement climatique va bouleverser l’humanité
-categories: [science]
+categories: [Climat, Le Monde]
 image-header: header.jpg
-url: /la-voiture-electrique-est-elle-ecologique
 image: cover.jpg
 ---
 

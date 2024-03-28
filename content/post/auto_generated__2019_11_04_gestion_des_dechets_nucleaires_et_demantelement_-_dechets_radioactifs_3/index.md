@@ -1,14 +1,12 @@
 ---
 article_type: youtube_video
-tags: [énergie, nucléaire, déchets radioactifs]
 date: '2019-11-04'
 slug: gestion_des_dechets_nucleaires_et_demantelement_-_dechets_radioactifs_3
 youtube_id: 8ef25x7sM-I
 video-thumbnail: cover.jpg
 title: 'Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3'
-categories: [energy]
+categories: [Énergie, Nucléaire, Déchets radioactifs, Avec un résumé]
 image-header: header.jpg
-url: /gestion-des-dechets-nucleaires-et-demantelement
 image: cover.jpg
 ---
 
