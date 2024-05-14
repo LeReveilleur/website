@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: 'Climat : les riches polluent plus que les pauvres ?'
 categories: [Climat, Le Monde]
 image-header: header.jpg
+url: /les-riches-polluent-plus-que-les-pauvres
 image: cover.jpg
 ---
 

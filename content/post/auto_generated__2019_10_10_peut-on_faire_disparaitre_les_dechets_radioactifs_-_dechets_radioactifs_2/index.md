@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: 'Peut-on faire disparaître les déchets radioactifs ? - Déchets radioactifs #2'
 categories: [Énergie, Nucléaire, Déchets radioactifs, Avec un résumé]
 image-header: header.jpg
+url: /transmutation-et-mox
 image: cover.jpg
 ---
 

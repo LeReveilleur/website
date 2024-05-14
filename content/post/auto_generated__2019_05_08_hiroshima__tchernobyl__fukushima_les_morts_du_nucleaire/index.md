@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire
 categories: [Énergie, Nucléaire, Avec un résumé]
 image-header: header.jpg
+url: /hiroshima-tchernobyl-fukushima-les-morts-du-nucleaire
 image: cover.jpg
 ---
 

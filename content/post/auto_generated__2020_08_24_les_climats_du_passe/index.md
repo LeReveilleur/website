@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Les climats du passé
 categories: [Cycle du carbone, Climat]
 image-header: header.jpg
+url: /climat-du-passe
 image: cover.jpg
 ---
 

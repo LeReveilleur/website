@@ -2,6 +2,7 @@
 videos:
   - youtube_id: "JQDRb7jE9qQ"
     title: "Climat : les riches polluent plus que les pauvres ?"
+    url: /les-riches-polluent-plus-que-les-pauvres
     description: |
       En France, le constat semble clair : 63 milliardaires émettent davantage de gaz à effet de serre que la moitié de la population. A l’échelle mondiale, la tendance est similaire : les 1 % les plus riches polluent autant que les 66 % les plus pauvres, selon Oxfam. Ces chiffres évoquent la responsabilité des plus fortunés dans le changement climatique et sous-entendent que leur empreinte carbone est particulièrement alourdie par les énergies fossiles. Mais qu’en est-il vraiment ? <br> <br>
       Pour bien saisir le sens de ces données, il faut examiner les méthodes employées par les chercheurs qui publient ces études. L’enjeu central concerne l’allocation des émissions de CO2 : faut-il les attribuer aux ménages, aux entreprises, aux actionnaires, ou encore à un mélange de l’ensemble ? Il est essentiel de prendre en compte ces choix méthodologiques pour tirer les bonnes conclusions et optimiser la lutte contre le réchauffement climatique. Les riches sont responsables, c’est vrai, mais ils ne sont pas les seuls.
@@ -14,6 +15,7 @@ videos:
 
   - youtube_id: "UXSIsb3E1X4"
     title: "Le charbon et ses impacts"
+    url: /le-charbon-et-ses-impacts
     description: |
       Le charbon n'a jamais autant été utilisé qu'aujourd'hui. Ici, je me
       concentre sur les impacts environnementaux et sanitaires que provoquent
@@ -25,6 +27,7 @@ videos:
 
   - youtube_id: "HgfcZeGP7BA"
     title: "Taux de retour énergétique : J.M. Jancovici dans l'erreur ?"
+    url: /taux-de-retour-energetique-j-m-jancovici-dans-lerreur
     description: |
       Le taux de retour énergétique est le ratio entre l’énergie délivrée par
       un système énergétique et l’énergie investie dans ce système. J'essaye de
@@ -36,6 +39,7 @@ videos:
 
   - youtube_id: "N2fgaITIwZ0"
     title: "Taxe carbone : nécessaire ?"
+    url: "/taxe-carbone-necessaire"
     description: |
       Ici, on voit ce qu’est une tarification du carbone, quelles sont les
       émissions ciblées et quels sont ses avantages et ses insuffisances. Je me
@@ -50,15 +54,16 @@ videos:
 
   - youtube_id: "hNMRSUFuHPg"
     title: "Voiture à hydrogène: l'impasse ?"
+    url: "/voiture-a-hydrogene-limpasse"
     description: "Je vous parle de la voiture à hydrogène et de ses limites."
     date: "2023-05-15"
     categories:
       - "Transport"
       - "Hydrogène"
 
-
   - youtube_id: "rXlEcth5Gxc"
     title: "Les subtilités de l'effet de serre"
+    url: "/les-subtilites-de-leffet-de-serre"
     description: |
       Dans cette vidéo, je fais le bilan énergétique de la Terre pour
       comprendre son climat. Ce qui m'amène à expliquer le phénomène physique
@@ -70,6 +75,7 @@ videos:
 
   - youtube_id: "cN_QaUxRsaw"
     title: "Réchauffement climatique: le rôle de la vapeur d'eau"
+    url: "/rechauffement-climatique-le-role-de-la-vapeur-deau"
     description: |
       Je fais le point sur le rôle de la vapeur d'eau dans le changement
       climatique. Qu'est-ce qui fixe le contenu en vapeur d'eau dans
@@ -84,6 +90,7 @@ videos:
 
   - youtube_id: "3105ScO53fo"
     title: "Pourquoi la vie galère dans l'océan ?"
+    url: "/pourquoi-la-vie-galere-dans-locean"
     description: |
       Dans cette vidéo, je vous parle du fonctionnement de la vie dans les
       océans et en particulier des limites que rencontrent le développement du
@@ -98,6 +105,7 @@ videos:
 
   - youtube_id: "iiKuUElvGhM"
     title: "Que se passerait-il si on arrêtait nos émissions de CO2 ?"
+    url: "/inertie-climatique"
     description: |
       Je vous parle d'inertie climatique. Que se passe-t-il si on arrête les
       émissions de CO2 ? Et les aérosols ? et les autres gaz à effet de serre ?
@@ -109,6 +117,7 @@ videos:
 
   - youtube_id: "xbdUlfYCRwc"
     title: "Éolien en mer"
+    url: "/eolien-en-mer"
     description: |
       Cette vidéo est financée par le débat public 'Éoliennes en mer
       Nouvelle-Aquitaine'
@@ -119,6 +128,7 @@ videos:
 
   - youtube_id: "XbrcUz0pu80"
     title: "Quelle électricité pour demain ?"
+    url: "/quelle-electricite-pour-demain"
     description: |
       Dans cette vidéo, je vous parle de l'évolution du système électrique
       français en me servant du récent rapport de RTE: Futurs Énergétiques
@@ -132,16 +142,18 @@ videos:
 
   - youtube_id: "OAyYSlMhgI4"
     title: "Les terres rares"
+    url: "/les-terres-rares"
     description: |
       Dans cette vidéo, je vous explique ce que sont les terres rares, à quoi
       elles servent et quels sont les problèmes qu'elles soulèvent.
     date: "2021-10-12"
     categories:
       - "Ressources"
-      - "Métal" 
+      - "Métal"
 
   - youtube_id: "C_UTlTiVQ_0"
     title: "Comprendre le GIEC et ses rapports"
+    url: "/comprendre-le-giec-et-ses-rapports"
     description: |
       GIEC: Groupe d’experts intergouvernemental sur l’évolution du climat
       (GIEC, IPCC en anglais).
@@ -206,6 +218,7 @@ videos:
 
   - youtube_id: "sDxvadwizw8"
     title: "La France émet trop de CO2, voici comment"
+    url: "/la-voiture-electrique-est-elle-ecologique"
     description: |
       <div style="text-align: justify"> La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
       année. Pour limiter le réchauffement climatique et ses conséquences, il
@@ -228,6 +241,7 @@ videos:
 
   - youtube_id: "zjaUqUozwdc"
     title: "La voiture électrique est-elle écologique ?"
+    url: /la-voiture-electrique-est-elle-ecologique
     description: |
       Dans cette vidéo, je vous reparle de la voiture électrique. J'y
       compare, notamment, les impacts environnementaux de la voiture électrique
@@ -238,6 +252,7 @@ videos:
 
   - youtube_id: "xVroWRO0duI"
     title: "Voiture électrique : un problème de batterie ?"
+    url: "/voiture-electrique-un-probleme-de-batterie"
     description: "Dans cette vidéo, je vous reparle de la voiture électrique. J'y compare, notamment, les impacts environnementaux de la voiture électrique et de la voiture thermique."
     date: "2021-06-07"
     categories:
@@ -247,6 +262,7 @@ videos:
 
   - youtube_id: "NB9We5wwGPo"
     title: "Hydrogène : un enjeu industriel !"
+    url: "/hydrogene-un-enjeu-industriel"
     description: "Dans cette seconde vidéo sur l'hydrogène, je m'intéresse aux grands usages industriels de l'hydrogène. Aujourd'hui, la majorité de l'hydrogène produit dans le monde l'est à partir de ressources fossiles et sert au raffinage et à la production d'ammoniac, de méthanol et d'acier. Réussir à réduire les émissions de cette production existante d'hydrogène est un enjeu industriel important pour la transition énergétique. De l'hydrogène produit avec peu d'émissions pourrait également réduire considérablement les émissions de la production d'acier qui repose, encore aujourd'hui, principalement sur le charbon."
     date: "2021-02-18"
     categories:
@@ -255,6 +271,7 @@ videos:
 
   - youtube_id: "_sqYx8K_m9c"
     title: "Hydrogène : comment le produire ?"
+    url: "/hydrogene-comment-le-produire"
     description: "Dans cette première vidéo sur l'hydrogène, je m'intéresse à sa production. Après un rapide détour par l'hydrogène naturel, je détaille la production à partir de ressources fossiles très majoritaire aujourd'hui. Je parle ensuite de l'électrolyse (on reviendra dessus dans la prochaine vidéo sur l'hydrogène). Puis, j'expose le sujet de la capture et séquestration de carbone qui est très présent dans les documents scientifiques traitant de l'hydrogène. Enfin, je me penche sur des modes de production moins matures mais avec du potentiel (craquage du méthane, cycles thermochimiques... etc)."
     date: "2020-12-29"
     categories:
@@ -263,6 +280,7 @@ videos:
 
   - youtube_id: "yuopYkpmvCo"
     title: "La Convention Citoyenne pour le Climat, utile ?"
+    url: "/la-convention-citoyenne-pour-le-climat"
     description: |
       Dans cette vidéo, je me sers de la proposition de passer la vitesse de
       130 km/h à 110 km/h pour mettre en évidence la complexité à apprécier ce
@@ -273,9 +291,9 @@ videos:
       - "Politique"
       - "Climat"
 
-
   - youtube_id: "goceQuwWwKA"
     title: "Les dessous de l'électricité verte"
+    url: "/les-dessous-de-lelectricite-verte"
     description: |
       Dans cette vidéo je vous parle des offres d''électricité "verte", ou
       plutôt, des offres d''électricité 100% renouvelable. vous comprendrez
@@ -288,6 +306,7 @@ videos:
 
   - youtube_id: "AQlqQEhVi1M"
     title: "La Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
+    url: "/csc-reduction-des-emissions"
     description: "Dans cette vidéo, je vous parle de la Capture et Séquestration de Carbone pour réduire nos émissions de CO2"
     date: "2020-09-23"
     categories:
@@ -296,6 +315,7 @@ videos:
 
   - youtube_id: "NRdaPrMNrkI"
     title: "Les climats du passé"
+    url: "/climat-du-passe"
     description: "Dans cette vidéo, je vous parle des climats du passé et de l'évolution de la concentration en CO2 atmosphérique sur le très long terme (supérieur au million d'années). Le plan de la vidéo est disponible dans la barre de lecture pour vous y retrouver rapidement."
     date: "2020-08-24"
     categories:
@@ -304,6 +324,7 @@ videos:
 
   - youtube_id: "Bcg9yDp4Azs"
     title: "Fermeture de Fessenheim, une victoire pour l'écologie ?"
+    url: "/fermeture-de-fessenheim"
     description: "Dans cette vidéo, je vous parle de la fermeture de la centrale nucléaire de Fessenheim."
     date: "2020-08-08"
     categories:
@@ -311,6 +332,7 @@ videos:
 
   - youtube_id: "NcEI76hJVR0"
     title: "Cycle du carbone océanique et devenir de nos émissions"
+    url: "/carbone-oceanique-et-devenir-de-nos-emissions"
     description: |
       Dans cette vidéo, je décris la partie océanique du cycle du carbone pour comprendre combien de temps nos émissions de CO2 vont rester dans l'atmosphère.
       On voit d'abord la structure des océans et la circulation océanique avant de s'intéresser à la vie dans les océans. Pour compléter notre cycle du carbone océanique, il faut s'intéresser au calcaire produit par les organismes marins. Du carbone organique et du calcaire peuvent, à terme, former des roches sédimentaires ce qui fait entrer du carbone dans une longue boucle de plusieurs centaines de milliers d'années. Les mécanismes décrits permettent de parler du devenir de nos émissions de CO2.
@@ -322,6 +344,7 @@ videos:
 
   - youtube_id: "vHCQk2_8pew"
     title: "Le cycle du carbone"
+    url: "/le-cycle-du-carbone"
     description: |
       Dans cette vidéo, je vous présente le cycle du carbone. Je commence par parler du carbone dans le corps humain avant de voir le carbone stocké par les organismes vivants. La variation saisonnière de la concentration en CO2 atmosphérique permet de montrer que le carbone dans la végétation et celui de l'atmosphère se comporte comme de l'eau dans des vases communicants, c'est la même chose pour le carbone en surface des océans et celui de l'atmosphère.
       Avec tout ce qu'on sait, on peut regarder un peu ce qu'il s'est passé pendant les derniers millénaires. Je présente ensuite les modifications récentes (depuis 1850) du cycle du carbone: combustion de ressources fossiles, changement d'affectation des sols, flux de carbone continentaux, flux de carbone océaniques avant de quantifier tous ces flux et d'aborder la question des stocks de carbone sur Terre.
@@ -332,6 +355,7 @@ videos:
 
   - youtube_id: "k3mUS3JM4aM"
     title: "[Analyse] Impact sanitaire de Fukushima: une désinformation suspecte par Julien Baldassarra"
+    url: "/analyse-impact-sanitaire-de-fukushima-une-desinformation-suspecte"
     description: |
       Dans cette vidéo, j'analyse longuement un article paru dans Le Vent Se Lève et écrit par Julien Baldassarra qui attaque assez violemment ce que je dis de l'impact sanitaire de Fukushima dans une vidéo.
     date: "2020-03-23"
@@ -343,6 +367,7 @@ videos:
 
   - youtube_id: "m5zl8NWMfWE"
     title: "Éolien, photovoltaïque et réseau électrique - Partie 1/2 & 2/2"
+    url: "/eolien-photovoltaique-et-reseau-electrique"
     description: |
       Dans cette vidéo, je regarde quelles sont les contraintes que la physique
       de l'électricité et du réseau électrique impose aux différents modes de
@@ -370,9 +395,9 @@ videos:
       - "Électricité"
       - "Avec un résumé"
 
-
   - youtube_id: "E3YLYzs_1Es"
     title: "Stockage géologique profond des déchets radioactifs - Déchets radioactifs #4"
+    url: "/le-stockage-geologique-profond-des-dechets-radioactifs"
     description: |
       Dans cette quatrième vidéo sur les déchets radioactifs, je vous parle
       enfin du mode préférentielle pour la gestion à long terme (sur des
@@ -401,6 +426,7 @@ videos:
 
   - youtube_id: "8ef25x7sM-I"
     title: "Gestion des déchets nucléaires et démantèlement - Déchets radioactifs #3"
+    url: "/gestion-des-dechets-nucleaires-et-demantelement"
     description: |
       Dans cette troisième vidéo, on va s'intéresser à tous les déchets
       radioactifs ! Dans un premier temps (1:56), je vous parle des déchets
@@ -429,6 +455,7 @@ videos:
 
   - youtube_id: "yr-tn-Xj-vw"
     title: "Peut-on faire disparaître les déchets radioactifs ? - Déchets radioactifs #2"
+    url: "/transmutation-et-mox"
     description: |
       Dans cette seconde vidéo sur les déchets radioactifs, j'explique comment
       on essaye de réduire la radiotoxicité des déchets radioactifs. Je parle
@@ -456,6 +483,7 @@ videos:
 
   - youtube_id: "p0zX8eUW_jQ"
     title: "De la centrale aux déchets radioactifs - Déchets radioactifs #1"
+    url: "/de-la-centrale-aux-dechets-radioactifs"
     description: |
       Dans cette vidéo, j'introduis le sujet des déchets radioactifs.
       J'explique rapidement ma méthode et je donne quelques sources utiles. Je
@@ -483,6 +511,7 @@ videos:
 
   - youtube_id: "HMystmGbctw"
     title: "Fonctionnement des centrales nucléaires (canicule, tritium, durée de vie...)"
+    url: "/fonctionnement-des-centrales-nucleaires-energie11"
     description: |
       Dans cette vidéo, je vous parle du fonctionnement des centrales
       nucléaires et, plus précisément, des réacteurs à eau pressurisée puisque
@@ -506,6 +535,7 @@ videos:
 
   - youtube_id: "uIXEnRB7TXc"
     title: "Les ressources d'uranium"
+    url: "/les-ressources-duranium"
     description: |
       Bienvenue dans cette vidéo où je vous parle d'abord des ressources
       ultimes d'uranium, de quelques considérations sur le prix de cette
@@ -522,6 +552,7 @@ videos:
 
   - youtube_id: "utyT8Z4qEaA"
     title: "Hiroshima, Tchernobyl, Fukushima... Les morts du nucléaire"
+    url: "/hiroshima-tchernobyl-fukushima-les-morts-du-nucleaire"
     description: |
       Je vous explique d’abord comment on mesure des doses de rayonnement. Puis, je parle des effets déterministes: les effets qui ont
       forcément lieu pour des fortes doses de rayonnements ionisants.
@@ -541,6 +572,7 @@ videos:
 
   - youtube_id: "S6Y4XVa8tew"
     title: "Un stockage en béton ?"
+    url: "/un-stockage-en-beton-energie7-5"
     description: |
       Dans cette vidéo, je vous parle d’une solution de stockage qui m’avait
       échappé. Une start-up envisage de stocker de l’énergie sous forme
@@ -553,9 +585,9 @@ videos:
       - "Énergie"
       - "Stockage"
 
-
   - youtube_id: "mqAaokrY1NU"
     title: "[Analyse] Analyse du discours d'un climato-sceptique : François Gervais. (2/2)"
+    url: "/analyse-francois-gervais-2-2"
     description: |
       Dans cette vidéo, j’analyse en profondeur une partie (de 25:40 à 34:40)
       de la conférence de M. Gervais.
@@ -565,9 +597,9 @@ videos:
       - "Analyse critique"
       - "Climatosceptique"
 
-
   - youtube_id: "XGq4WRTLfvc"
     title: "[Analyse] Analyse du discours d'un climato-sceptique : François Gervais. (1/2)"
+    url: "/analyse-du-discours-dun-climato-sceptique-f-gervais-1-2"
     description: |
       Dans cette vidéo, j'analyse en profondeur une partie de la conférence de M. Gervais.
     date: "2019-02-18"
@@ -578,6 +610,7 @@ videos:
 
   - youtube_id: "1tmTy5zax4w"
     title: "Ma première expérience TV !"
+    url: "/vlog-ma-premiere-experience-tv"
     description: |
       Dans cette vidéo, je vous parle de ma première expérience TV: ce que
       j’aurais voulu dire, comment ça s’est organisé et ce que j’en ai pensé.
@@ -586,9 +619,9 @@ videos:
       - "Vlog"
       - "Politique"
 
-
   - youtube_id: "0tlx_JJkHWc"
     title: "La radioactivité et notre exposition aux rayonnements ionisants"
+    url: "/la-radioactivite"
     description: |
       Dans cette vidéo, je vous parle de la radioactivité. On fait un petit
       point sur ce phénomène physique découvert il y a plus d’un siècle. Cela
@@ -615,6 +648,7 @@ videos:
 
   - youtube_id: "ECXJ5rTNi74"
     title: "Stockage de l'énergie sous forme mécanique: STEP, volant d'inertie et air comprimé"
+    url: "/stockage-de-lenergie-sous-forme-mecanique"
     description: |
       Dans cette vidéo, on parle du stockage de l’énergie sous forme mécanique.
       On commence par les stations de transfert d’énergie par pompage (STEP).
@@ -643,9 +677,9 @@ videos:
       - "Énergie"
       - "Stockage"
 
-
   - youtube_id: "M8pIJaQBe3M"
     title: "Des gestes individuels à l'action politique: militer pour une taxe carbone ?"
+    url: "/des-gestes-individuels-a-laction-politique-militer-pour-une-taxe-carbone"
     description: |
       Dans cette vidéo, on s’intéresse à une critique souvent opposée aux
       gestes individuels (et au campagne de sensibilisation comme
@@ -669,6 +703,7 @@ videos:
 
   - youtube_id: "xx55qcGdXOo"
     title: "Électricité verte selon Greenpeace : l'écologie dogmatique"
+    url: "/electricite-verte-selon-greenpeace"
     description: |
       Dans cette vidéo, je m’intéresse au [classement électricité verte produit
       par Greenpeace](https://www.guide-electricite-verte.fr/) qui a été pas
@@ -694,6 +729,7 @@ videos:
 
   - youtube_id: "n-NJ-B_IIFw"
     title: "Cycles glaciaires, paramètres de Milankovitch et CO2 [Analyse] V. Courtillot Part. 3"
+    url: "/cycles-glaciaires-parametres-de-milankovitch-et-co2-analyse-v-courtillot-part-3"
     description: |
       Je continue l’analyse de la conférence de V. Courtillot. L’idée
       principale de cette partie c’est que, selon V. Courtillot, la variation
@@ -711,6 +747,7 @@ videos:
 
   - youtube_id: "dykSjXQhSjM"
     title: "Le solaire thermique à concentration"
+    url: "/le-solaire-a-concentration"
     description: |
       Dans cette vidéo, on parle du solaire à concentration. Le solaire à
       concentration est une technologie majoritairement utilisé pour produire
@@ -733,6 +770,7 @@ videos:
 
   - youtube_id: "oDyvDvQ5JkU"
     title: "Le solaire thermique"
+    url: "/le-solaire-thermique"
     description: |
       Dans cette vidéo on parle du solaire thermique. Le solaire thermique est
       un moyen de production de chaleur qui est peu connu, peut-être parce
@@ -754,6 +792,7 @@ videos:
 
   - youtube_id: "GMoqkWjSGvw"
     title: "Le climat des derniers milliers d'années. [Analyse] V. Courtillot Part. 2"
+    url: "/le-climat-des-derniers-milliers-dannees"
     description: |
       J’analyse la suite de [la conférence de V.
       Courtillot](https://www.youtube.com/watch?v=uXeRbbM2AjY) qui circule
@@ -770,6 +809,7 @@ videos:
 
   - youtube_id: "u3QnT73jE2U"
     title: "L'IA face aux défis énergétiques (ft. Science4All)"
+    url: "/lia-face-aux-defis-energetiques"
     description: |
       Dans cette vidéo, on parle de l’intelligence artificielle (IA). Dans un
       premier temps, on s’intéresse à la consommation énergétique des
@@ -786,6 +826,7 @@ videos:
 
   - youtube_id: "hESxYif5pdI"
     title: "Le Photovoltaïque"
+    url: "/le-photovoltaique"
     description: |
       On commence par parler de l’énergie radiative que nous envoie notre cher
       Soleil. Ensuite, j’explique comment un panneau photovoltaïque fonctionne
@@ -808,6 +849,7 @@ videos:
 
   - youtube_id: "NIVPzTFhzQY"
     title: "Quota Carbone Individualisé, un concept pour sauver le monde ?"
+    url: "/quota-carbone-individualise-un-concept-pour-sauver-le-monde"
     description: |
       Dans cette vidéo, je vous parle d'une idée que je trouve intéressante: le
       quota carbone individualisé. En gros, on donne à chacun un quota carbone
@@ -821,6 +863,7 @@ videos:
 
   - youtube_id: "wXqIZxV6VHE"
     title: "L'éolien"
+    url: "/leolien"
     description: |
       Dans cette vidéo, on étudie les éoliennes à fond. Après un petit point
       sur l’énergie exploitée, le fonctionnement d’une éolienne est présentée.
@@ -845,6 +888,7 @@ videos:
 
   - youtube_id: "71EopUDDJ04"
     title: "L'hydroélectricité"
+    url: "/lhydroelectricite"
     description: |
       On va voir l’hydroélectricité en profondeur. Après un petit point sur
       l’énergie exploitée et le fonctionnement d’une centrale hydroélectrique,
@@ -871,6 +915,7 @@ videos:
 
   - youtube_id: "WZb-y_N4ZwY"
     title: "Analyse du discours d'un climato-sceptique: V. Courtillot. Part. 1"
+    url: "/analyse-du-discours-dun-climato-sceptique"
     description: |
       J’analyse une conférence donnée par M. Courtillot qui circule beaucoup
       sur le net ([par exemple](https://www.youtube.com/watch?v=s1LL7Fq1qX0)
@@ -891,6 +936,7 @@ videos:
 
   - youtube_id: "eruVCRrIkCY"
     title: "L'énergie et nous"
+    url: "/lenergie-et-nous"
     description: |
       L'énergie est indispensable au vivant et à nos sociétés industrielles.
       C'est un concept central en physique. Pourtant comprendre ce qu'est

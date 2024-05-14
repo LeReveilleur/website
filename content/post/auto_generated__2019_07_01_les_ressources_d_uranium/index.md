@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Les ressources d'uranium
 categories: [Énergie, Nucléaire, Ressources]
 image-header: header.jpg
+url: /les-ressources-duranium
 image: cover.jpg
 ---
 

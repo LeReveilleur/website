@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Quelle électricité pour demain ?
 categories: [Énergie, Électricité, Renouvelables, Nucléaire]
 image-header: header.jpg
+url: /quelle-electricite-pour-demain
 image: cover.jpg
 ---
 

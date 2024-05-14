@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Un stockage en béton ?
 categories: [Énergie, Stockage]
 image-header: header.jpg
+url: /un-stockage-en-beton-energie7-5
 image: cover.jpg
 ---
 

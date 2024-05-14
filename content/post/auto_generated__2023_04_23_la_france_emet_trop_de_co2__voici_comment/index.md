@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: La France émet trop de CO2, voici comment
 categories: [Climat, Le Monde]
 image-header: header.jpg
+url: /la-voiture-electrique-est-elle-ecologique
 image: cover.jpg
 ---
 

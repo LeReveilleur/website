@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: 'Réchauffement climatique: le rôle de la vapeur d''eau'
 categories: [Climat]
 image-header: header.jpg
+url: /rechauffement-climatique-le-role-de-la-vapeur-deau
 image: cover.jpg
 ---
 

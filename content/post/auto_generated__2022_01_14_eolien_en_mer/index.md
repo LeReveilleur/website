@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Éolien en mer
 categories: [Énergie, Renouvelables]
 image-header: header.jpg
+url: /eolien-en-mer
 image: cover.jpg
 ---
 

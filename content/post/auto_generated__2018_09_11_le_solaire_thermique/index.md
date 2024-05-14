@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Le solaire thermique
 categories: [Énergie, Renouvelables]
 image-header: header.jpg
+url: /le-solaire-thermique
 image: cover.jpg
 ---
 

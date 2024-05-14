@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Cycle du carbone océanique et devenir de nos émissions
 categories: [Cycle du carbone, Climat, Avec un résumé]
 image-header: header.jpg
+url: /carbone-oceanique-et-devenir-de-nos-emissions
 image: cover.jpg
 ---
 

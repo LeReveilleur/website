@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Éolien, photovoltaïque et réseau électrique - Partie 1/2 & 2/2
 categories: [Énergie, Électricité, Avec un résumé]
 image-header: header.jpg
+url: /eolien-photovoltaique-et-reseau-electrique
 image: cover.jpg
 ---
 

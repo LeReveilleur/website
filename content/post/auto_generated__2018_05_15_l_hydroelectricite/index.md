@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: L'hydroélectricité
 categories: [Énergie, Renouvelables]
 image-header: header.jpg
+url: /lhydroelectricite
 image: cover.jpg
 ---
 

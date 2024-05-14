@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: La Capture et Séquestration de Carbone pour réduire nos émissions de CO2
 categories: [Cycle du carbone, Climat]
 image-header: header.jpg
+url: /csc-reduction-des-emissions
 image: cover.jpg
 ---
 

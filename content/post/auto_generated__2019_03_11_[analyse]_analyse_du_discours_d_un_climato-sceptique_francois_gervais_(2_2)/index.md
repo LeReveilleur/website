@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: '[Analyse] Analyse du discours d''un climato-sceptique : François Gervais. (2/2)'
 categories: [Climat, Analyse critique, Climatosceptique]
 image-header: header.jpg
+url: /analyse-francois-gervais-2-2
 image: cover.jpg
 ---
 

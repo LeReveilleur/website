@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: La voiture électrique est-elle écologique ?
 categories: [Transport]
 image-header: header.jpg
+url: /la-voiture-electrique-est-elle-ecologique
 image: cover.jpg
 ---
 

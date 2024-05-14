@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Le cycle du carbone
 categories: [Cycle du carbone, Climat]
 image-header: header.jpg
+url: /le-cycle-du-carbone
 image: cover.jpg
 ---
 

@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: L'énergie et nous
 categories: [Énergie]
 image-header: header.jpg
+url: /lenergie-et-nous
 image: cover.jpg
 ---
 

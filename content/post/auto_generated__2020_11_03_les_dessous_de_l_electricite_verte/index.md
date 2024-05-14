@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Les dessous de l'électricité verte
 categories: [Énergie, Électricité]
 image-header: header.jpg
+url: /les-dessous-de-lelectricite-verte
 image: cover.jpg
 ---
 

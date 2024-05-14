@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Cycles glaciaires, paramètres de Milankovitch et CO2 [Analyse] V. Courtillot Part. 3
 categories: [Climat, Analyse critique, Climatosceptique]
 image-header: header.jpg
+url: /cycles-glaciaires-parametres-de-milankovitch-et-co2-analyse-v-courtillot-part-3
 image: cover.jpg
 ---
 

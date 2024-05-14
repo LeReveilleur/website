@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Pourquoi la vie galère dans l'océan ?
 categories: [Science]
 image-header: header.jpg
+url: /pourquoi-la-vie-galere-dans-locean
 image: cover.jpg
 ---
 

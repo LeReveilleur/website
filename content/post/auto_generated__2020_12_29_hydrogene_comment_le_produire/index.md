@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: 'Hydrogène : comment le produire ?'
 categories: [Énergie, Hydrogène]
 image-header: header.jpg
+url: /hydrogene-comment-le-produire
 image: cover.jpg
 ---
 

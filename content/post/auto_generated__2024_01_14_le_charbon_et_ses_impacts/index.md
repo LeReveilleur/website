@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Le charbon et ses impacts
 categories: [Énergie, Fossile]
 image-header: header.jpg
+url: /le-charbon-et-ses-impacts
 image: cover.jpg
 ---
 

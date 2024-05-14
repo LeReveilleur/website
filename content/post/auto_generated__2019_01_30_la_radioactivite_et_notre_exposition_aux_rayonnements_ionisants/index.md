@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: La radioactivité et notre exposition aux rayonnements ionisants
 categories: [Énergie, Nucléaire]
 image-header: header.jpg
+url: /la-radioactivite
 image: cover.jpg
 ---
 

@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: L'éolien
 categories: [Énergie, Renouvelables]
 image-header: header.jpg
+url: /leolien
 image: cover.jpg
 ---
 

@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Ma première expérience TV !
 categories: [Vlog, Politique]
 image-header: header.jpg
+url: /vlog-ma-premiere-experience-tv
 image: cover.jpg
 ---
 

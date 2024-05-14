@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: Les terres rares
 categories: [Ressources, Métal]
 image-header: header.jpg
+url: /les-terres-rares
 image: cover.jpg
 ---
 

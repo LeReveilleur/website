@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: 'Voiture électrique : un problème de batterie ?'
 categories: [Transport, Ressources, Métal]
 image-header: header.jpg
+url: /voiture-electrique-un-probleme-de-batterie
 image: cover.jpg
 ---
 

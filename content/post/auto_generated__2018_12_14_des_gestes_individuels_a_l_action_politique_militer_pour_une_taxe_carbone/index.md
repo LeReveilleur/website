@@ -7,6 +7,7 @@ video-thumbnail: cover.jpg
 title: 'Des gestes individuels à l''action politique: militer pour une taxe carbone ?'
 categories: [Politique, Climat]
 image-header: header.jpg
+url: /des-gestes-individuels-a-laction-politique-militer-pour-une-taxe-carbone
 image: cover.jpg
 ---
 
