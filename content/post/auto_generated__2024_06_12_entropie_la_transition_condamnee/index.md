@@ -1,7 +1,7 @@
 ---
 article_type: youtube_video
 tags: [Collaboration]
-date: '2024-06-11'
+date: '2024-06-12'
 slug: entropie_la_transition_condamnee
 youtube_id: fNYStsO28TU
 video-thumbnail: cover.jpg
@@ -28,24 +28,18 @@ Dans ces deux vidéos, on se penche sur les principes de la thermodynamique et s
 ### Pour bien comprendre la thermodynamique
 
 * [Thermodynamique de l'ingénieur](https://thermodynamique.fr/thermodynamique-livre-gratuit.pdf) d'Olivier Cleynen, pédagogique et très complet sur les machines thermiques.
-
 * Un autre ouvrage de vulgarisation intéressant et plutôt complet : [Chaleur Et Desordre. Le Deuxieme Principe De La Thermodynamique](https://www.decitre.fr/livres/chaleur-et-desordre-9782842450182.html) par Peter-W Atkins. 
-
 * Petit outil cool qui permet de simuler le comportement de molécules de gaz dans une boîte séparée par une cloison qu’on retirerait  : [Diffusion](https://phet.colorado.edu/sims/html/diffusion/latest/diffusion_all.html)
 
 #### Passe-science (relecteur) a plusieurs vidéos sur l'entropie
 
 * [Enthalpie libre de Gibbs, le moteur des réactions chimiques - Passe-science #59](https://www.youtube.com/watch?v=deohaPWuH68)
-
 * [Démon de Maxwell et entropie - Passe-science #52](https://www.youtube.com/watch?v=VJ61CF9sxm4)
-
 * [L'Entropie - Passe-science #17](https://www.youtube.com/watch?v=rHIPMHO_tNA)
 
 #### Trois chouettes vidéo sur les machines thermiques : 
 * Monsieur Bidouille : [💡 La machine parfaite - machines thermiques](https://www.youtube.com/watch?v=3Xl4Grox0y0) 
-
 * Veritasium sur l’entropie : [The Most Misunderstood Concept in Physics](https://youtu.be/DxL2HoqLbyA?si=EROjaVxyT2rWAJUN&t=815). Cette vidéo a largement inspiré les visuels de la partie sur la thermodynamique statistique.
-
 * Sur le fonctionnement des pompes à chaleur : [Heat Pump](https://www.youtube.com/watch?v=fpc8ooamR1A&t=974s&ab_channel=PhysicalChemistry)
 
 ### Thermodynamique du système Terre
@@ -78,9 +72,7 @@ Pour mieux comprendre pourquoi assimiler l’entropie à du “désordre” peut
 ### Entropie informationnelle
 
 * La vidéo de Lê sur la chaîne Science4All : [La nature profonde de l'entropie](https://www.youtube.com/watch?v=H71WR50stm4)
-
 * [La théorie de l'information](https://www.youtube.com/live/hoUCWa2gkTw?si=1n5Kii3mwuTZ5uDh) par la chaîne Science4All (Live de plus de 3h sur la théorie de l’information de Shannon) 
-
 * [Concernant la citation de von Neumann à Shannon](https://mathoverflow.net/questions/403036/john-von-neumanns-remark-on-entropy) et une source de la citation :
 Tribus, M., & McIrvine, E. C. (1971). [Energy and information](https://www.jstor.org/stable/24923125). Scientific American, 225(3), 179-190.
 
@@ -104,8 +96,6 @@ Petela, R. (1964). [Exergy of heat radiation](https://asmedigitalcollection.asme
 
 Nous avons traduit / modifié / mise à jour et animé cette [figure de l’exergie](https://deepresource.wordpress.com/wp-content/uploads/2012/07/exergy.jpg) qui est tirée de : Hermann, W. A. (2006). [Quantifying global exergy resources](https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805). _Energy_, _31_(12), 1685-1702. Pour les détails : [notre feuille de calcul](https://docs.google.com/spreadsheets/d/18nFKAuodW9RGgTVLqYHx_A1xvadHgM4ZxRcjh3rW-kc/edit#gid=0) et les [slides intermédiaires](https://docs.google.com/presentation/d/1jP1yHghzsmwjTRXQUXkZpB_vpXfxHPE1I0XCmxYPrzY/edit#slide=id.g2cf9bc488e1_0_3).
 
-Rendement maximal des panneaux photovoltaïques : Buddhiraju, S., Santhanam, P., & Fan, S. (2018). [Thermodynamic limits of energy harvesting from outgoing thermal radiation](https://www.pnas.org/doi/10.1073/pnas.1717595115). _Proceedings of the National Academy of Sciences_, _115_(16), E3609-E3615. 
-
 Ce graphique mentionne également un rayonnement extra-solaire. Du point de vue de la Terre, le fait que l’univers soit plus froid permet d’exercer un travail et nous pensons que c’est par ce flux que ça se manifeste. Nous ne sommes pas certain de comprendre ce point mais ça n'a pas d'influence sur le reste de la vidéo. Voir Jansen, S., & Woudstra, N. (2010). [Understanding the exergy of cold: theory and practical examples](https://pure.tudelft.nl/ws/files/47767140/Jansen_2010_IJEx_7_6_Paper_5.pdf). International Journal of Exergy, 7(6), 693-713. 
 
 #### Ressources qui nous ont permis d’actualiser et de commenter le graphique de l’exergie :
@@ -117,8 +107,9 @@ Ce graphique mentionne également un rayonnement extra-solaire. Du point de vue 
 * [Production d'énergie éolienne - Our World in Data](https://ourworldindata.org/grapher/wind-generation?tab=chart&country=~OWID_WRL)
 * [Pétrole - Statistical Review of World Energy 2021 - BP](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-oil.pdf)
 
-#### Utilisés pour les calculs de production des panneaux photovoltaïques : 
+#### Concernant les panneaux photovoltaïques : 
 
+* Rendement maximal des panneaux photovoltaïques : Buddhiraju, S., Santhanam, P., & Fan, S. (2018). [Thermodynamic limits of energy harvesting from outgoing thermal radiation](https://www.pnas.org/doi/10.1073/pnas.1717595115). _Proceedings of the National Academy of Sciences_, _115_(16), E3609-E3615.
 * [How Much Would it Cost to Replace All Energy Sources with Solar?](https://grisanik.com/blog/how-much-would-it-cost-to-replace-all-energy-sources-with-solar/) - de Gris Anik
 * [How much Space do I need for Solar Panels](https://www.renewableenergyhub.co.uk/main/solar-panels/solar-panel-power-per-square-foot) - The renewable energy hub UK 
 
