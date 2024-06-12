@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "fNYStsO28TU"
+    title: "Entropie : la transition condamnée ?"
+    url: /entropie-la-transition-condamnée
+    description: |
+      Dans ces deux vidéos, on se penche sur les principes de la thermodynamique et sur ce qu'ils impliquent pour la transition énergétique.
+    date: "2024-06-12"
+    categories:
+      - "Énergie"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "JQDRb7jE9qQ"
     title: "Climat : les riches polluent plus que les pauvres ?"
     url: /les-riches-polluent-plus-que-les-pauvres
