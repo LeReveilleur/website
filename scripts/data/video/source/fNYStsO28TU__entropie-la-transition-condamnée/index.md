@@ -2,6 +2,8 @@
 
 ## Sources
 
+Ces deux vidéos forment un travail collobarotif avec Jean-Lou Fourquet de la chaîne [Après La Bière](https://www.youtube.com/@ApresLaBiere) et qui participe au projet [tournesol.app](https://tournesol.app/).
+
 ### Pour bien comprendre la thermodynamique
 
 * [Thermodynamique de l'ingénieur](https://thermodynamique.fr/thermodynamique-livre-gratuit.pdf) d'Olivier Cleynen, pédagogique et très complet sur les machines thermiques.
@@ -105,7 +107,7 @@ Si vous avez de bonnes connaissances en physique, lire Nicholas Georgescu-Roegen
 
 Amusant : NGR reconnait que Prigogine jugeait fausse sa compréhension de la thermodynamique à la page 8 de [ce document](https://www.locchiodiromolo.it/blog/wp-content/uploads/2011/07/1993-Thermodynamics-and-we-the-humans.pdf) _I shall never understand did not cut my neck here and there._
 
-### Pour aller plus loin sur ce sujet :
+#### Pour aller plus loin sur ce sujet
 * Ayres, R. U. (1999). [The second law, the fourth law, recycling and limits to growth](https://www.sciencedirect.com/science/article/abs/pii/S0921800998000986). _Ecological economics_, _29_(3), 473-483. 
 * Cleveland, C. J., & Ruth, M. (1997). [When, where, and by how much do biophysical limits constrain the economic process?: A survey of Nicholas Georgescu-Roegen's contribution to ecological economics](https://www.isecoeco.org/wp-content/uploads/2016/10/Georgescu-Roegen-review.pdf). Ecological economics, 22(3), 203-223. 
 * Vulgarisation sur Roegen et pourquoi il avait faux sur le recyclage : [The Reasons Georgescu-Roegen Was Wrong About Recycling | Nagaitoshiya.com](https://www.nagaitoshiya.com/en/2014/georgescu-roegen-entropy/) 
@@ -146,6 +148,10 @@ Boyd, R., Richerson, P. J., & Henrich, J. (2011).
 #### Sources énergétiques du métabolisme économique de l’humanité : 
 
 [Global primary energy consumption by source - Our World in Data](https://ourworldindata.org/grapher/global-energy-substitution?stackMode=relative) 
+
+### Sur le fait que le fatalisme nuise à l'action climatique
+
+Mayer, A., & Smith, E. K. (2019). [Unstoppable climate change? The influence of fatalistic beliefs about climate change on behavioural change and willingness to pay cross-nationally](https://www.tandfonline.com/doi/abs/10.1080/14693062.2018.1532872). Climate Policy, 19(4), 511-523.
 
 ### Un chouette livre sur les limites des limites
 
