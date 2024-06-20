@@ -75,6 +75,8 @@ Petela, R. (1964). [Exergy of heat radiation](https://asmedigitalcollection.asme
 
 Nous avons traduit / modifié / mise à jour et animé cette [figure de l’exergie](https://deepresource.wordpress.com/wp-content/uploads/2012/07/exergy.jpg) qui est tirée de : Hermann, W. A. (2006). [Quantifying global exergy resources](https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805). _Energy_, _31_(12), 1685-1702. Pour les détails : [notre feuille de calcul](https://docs.google.com/spreadsheets/d/18nFKAuodW9RGgTVLqYHx_A1xvadHgM4ZxRcjh3rW-kc/edit#gid=0) et les [slides intermédiaires](https://docs.google.com/presentation/d/1jP1yHghzsmwjTRXQUXkZpB_vpXfxHPE1I0XCmxYPrzY/edit#slide=id.g2cf9bc488e1_0_3).
 
+![Exergie sur Terre](bibliography/exergie-sur-Terre.png)
+
 Ce graphique mentionne également un rayonnement extra-solaire. Du point de vue de la Terre, le fait que l’univers soit plus froid permet d’exercer un travail et nous pensons que c’est par ce flux que ça se manifeste. Nous ne sommes pas certain de comprendre ce point mais ça n'a pas d'influence sur le reste de la vidéo. Voir Jansen, S., & Woudstra, N. (2010). [Understanding the exergy of cold: theory and practical examples](https://pure.tudelft.nl/ws/files/47767140/Jansen_2010_IJEx_7_6_Paper_5.pdf). International Journal of Exergy, 7(6), 693-713. 
 
 #### Ressources qui nous ont permis d’actualiser et de commenter le graphique de l’exergie :
