@@ -156,6 +156,9 @@ Trois passages où Jean-Marc Jancovici développent l’idée (profondément err
 
 ### Évolution et métabolisme énergétique du vyvant
 
+* Bartlett, S., & Wong, M. L. (2020). [Defining lyfe in the universe: from three privileged functions to four pillars](https://www.mdpi.com/2075-1729/10/4/42). Life, 10(4), 42.
+* La vidéo de Science Étonnante qui vulgarise ce papier : [LYFE : la Thermodynamique de la Vie [Astrobiologie #2]](https://www.youtube.com/watch?v=G7Yw6PPg7JU)
+
 #### La capacité d’adaptation à différents environnements de l’homme moderne (Homo Sapiens) est avant tout dûe à des adaptations culturelles : 
 
 * [The secret of our success](https://secretofoursuccess.fas.harvard.edu/) de Joseph Henrich 
