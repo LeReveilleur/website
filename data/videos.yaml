@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "V80hdrJ7ZxI"
+    title: "Notre cerveau nous condamne-t-il à détruire la planète ?"
+    url: /notre-cerveau-nous-condamne-t-il-à-détruire-la-planète
+    description: |
+      Cette vidéo fait l’analyse critique de l’idée que notre cerveau nous pousserait à des comportements destructeurs de l’environnement.
+    date: "2024-07-11"
+    categories:
+      - "Politique"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "fNYStsO28TU"
     title: "Entropie : la transition condamnée ?"
     url: /entropie-la-transition-condamnée
