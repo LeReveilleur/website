@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "btyD2R4K0JU"
+    title: "Désinformation climatique du Raptor : Décryptage"
+    url: /désinformation-climatique-du-Raptor-Décryptage
+    description: |
+      Cette vidéo est une analyse critique d'un discours de désinformation sur le climat.
+    date: "2025-01-07"
+    categories:
+      - "Climat"
+      - "Analyse critique"
+      - "Climatosceptique"
+
   - youtube_id: "V80hdrJ7ZxI"
     title: "Notre cerveau nous condamne-t-il à détruire la planète ?"
     url: /notre-cerveau-nous-condamne-t-il-à-détruire-la-planète
