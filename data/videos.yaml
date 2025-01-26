@@ -1,5 +1,15 @@
 ---
 videos:
+  - youtube_id: "Hcbypkcjf5s"
+    title: "Retirer le CO2 de l’atmosphère pour sauver le climat ?"
+    url: /élimination-du-dioxyde-de-carbone
+    description: |
+      Cette vidéo porte sur l'élimination du dioxyde de carbone atmosphérique, un enjeu clef dans la lutte contre le changement climatique. On voit pourquoi on veut en faire, comment on peut en faire mais également les limites et les impacts des nombreuses méthodes envisagées. Le cœur de la lutte contre le changement climatique reste la réduction drastique et rapide de nos émissions de gaz à effet de serre.
+    date: "2025-01-23"
+    categories:
+      - "Climat"
+      - "Cycle du carbone"
+
   - youtube_id: "btyD2R4K0JU"
     title: "Désinformation climatique du Raptor : Décryptage"
     url: /désinformation-climatique-du-Raptor-Décryptage
