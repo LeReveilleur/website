@@ -1,9 +1,11 @@
 baseurl: https://jovial-lollipop-6303bd.netlify.app/
 languageCode: fr-FR
 theme: stack
-paginate: 15
 title: Le Réveilleur
 copyright: Le Réveilleur
+
+pagination:
+  pagerSize: 15
 
 languages:
   fr:
