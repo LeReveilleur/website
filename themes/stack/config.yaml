@@ -10,6 +10,8 @@ params:
     rssFullContent: true
     favicon:
 
+    resourceDir: "resources"
+
     footer:
         since:
         customText:
