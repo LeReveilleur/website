@@ -166,8 +166,7 @@ Il peut être intéressant de limiter les désaccords et les incompréhensions e
 ## Annexe
 Si vous voulez un exemple de principes moraux auxquels on peut appliquer les raisonnements qu’on développe dans ce document :
 
-(1) Une société juste est une société qui maximise les opportunités de chaque personne à mener une vie épanouie.
-(2) La société doit garantir un certain nombre de droits fondamentaux à toutes les personnes, au plus haut niveau compatible avec le même système de droits pour tous
-(3) Il faut minimiser la souffrance de tous les êtres sentients.
-(4) Nous souhaitons faire progresser la compréhension du monde.
-La connaissance engrangée par l’humanité est magnifique et elle est, en elle-même, porteuse de sens. En tant qu’espèce, une de nos contributions les ce à quoi nous pouvons participer de plus uniques est sans doute de faire progresser la compréhension du fonctionnement de ce bout d’univers dont nous sommes, comme le disait Sagan, la partie consciente :
+* (1) Une société juste est une société qui maximise les opportunités de chaque personne à mener une vie épanouie.
+* (2) La société doit garantir un certain nombre de droits fondamentaux à toutes les personnes, au plus haut niveau compatible avec le même système de droits pour tous
+* (3) Il faut minimiser la souffrance de tous les êtres sentients.
+* (4) Nous souhaitons faire progresser la compréhension du monde.
