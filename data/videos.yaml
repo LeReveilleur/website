@@ -1,5 +1,17 @@
 ---
 videos:
+  - youtube_id: "OepNDLs4Rlw"
+    title: "Très peu de CO2 dans l'atmosphère ?"
+    url: /très-peu-de-CO2-dans-latmosphère
+    description: |
+      La faible concentration atmosphérique du CO2 est parfois utilisée par les climatosceptiques pour nier son implication dans le changement climatique. Dans cette vidéo, nous allons voir pourquoi cet argument est fallacieux.
+    date: "2025-04-29"
+    categories:
+      - "Climat"
+      - "Climatosceptique"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "Hcbypkcjf5s"
     title: "Retirer le CO2 de l’atmosphère pour sauver le climat ?"
     url: /élimination-du-dioxyde-de-carbone
