@@ -1,5 +1,14 @@
 ---
 videos:
+  - youtube_id: "jiIm5FPcGgE"
+    title: "CO₂ & Réchauffement Climatique : la meilleure approche pour comprendre"
+    url: /CO2-et-réchauffement-climatique-la-meilleure-approche-pour-comprendre
+    description: |
+      Cette vidéo propose une approche didactique originale pour faire comprendre qualitativement le lien entre l'augmentation de la concentration en CO₂ atmosphérique et le réchauffement climatique. 
+    date: "2025-05-25"
+    categories:
+      - "Climat"
+
   - youtube_id: "OepNDLs4Rlw"
     title: "Très peu de CO2 dans l'atmosphère ?"
     url: /très-peu-de-CO2-dans-latmosphère
