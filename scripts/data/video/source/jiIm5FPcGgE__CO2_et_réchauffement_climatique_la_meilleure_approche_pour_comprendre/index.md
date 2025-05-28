@@ -11,6 +11,10 @@ Maron, V., Dufresne, J. L., Pélissier, L., Rabier, A., & Cochepin, M. (2024). [
  \
 Valentin a également mentionné la BD numérique [Les Grandiloquents](https://www.grandiloquents.fr/fr) et la BD [Horizons Climatiques](https://www.glenat.com/hors-collection-glenat-bd/horizons-climatiques-9782344058589 ) qui utilisent une approche didactique similaire à celle présentée dans la vidéo.
 
+### Ressources complémentaires :
+
+[L'Office for Climate Education (OCE)](https://www.oce.global/fr) propose du contenu éducatif sur le changement climatique. Les expériences des ballons montrées dans la vidéo sont reprises, entres autres, dans [leur dernier manuel sur les modèles climatiques](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques). Et vous pouvez voir de belles animations pour aller plus loin sur les notions de capacité d'absorption et d'émission du rayonnement infrarouge par différents gaz dans la partie 3 de [cette animation](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques).
+
 
 ### Vidéos YouTube
 
@@ -27,7 +31,7 @@ Valentin a également mentionné la BD numérique [Les Grandiloquents](https://w
 
 - Figure du [Bilan énergétique du système Terre dans le rapport du GIEC](https://www.ipcc.ch/report/ar6/wg1/figures/chapter-7/figure-7-2/). [La vidéo de la chaîne sur les subtilités de l’effet de serre](https://www.youtube.com/watch?app=desktop&v=rXlEcth5Gxc) explique cette représentation.
 
-- Je mentionne aussi le problème avec la définition du forçage radiatif [dans ce document eduscol](https://eduscol.education.fr/document/25459/download).
+- Je mentionne aussi le problème avec la définition du forçage radiatif [dans ce document eduscol](https://eduscol.education.fr/document/25459/download). Mais l'erreur provient directement des programmes scolaires comme on peut le voir page 7 de ce [Bulletin Officiel](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/84/7/spe241_annexe_1158847.pdf) sur l'enseignement scientifique de terminale générale.
 
 
 ### Autres sources
