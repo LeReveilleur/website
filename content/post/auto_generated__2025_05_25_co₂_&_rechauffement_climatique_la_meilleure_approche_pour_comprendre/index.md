@@ -26,14 +26,14 @@ Cette vidéo propose une approche didactique originale pour faire comprendre qua
 
 ## Sources
 
-### Sources principales :  
+### Sources principales  
 
 Cette vidéo a été produite avec l’aide de Valentin Maron et la relecture de Jean-Louis Dufresne. Ils sont tous deux auteurs d’un article exposant l’approche présentée dans la vidéo :\
 Maron, V., Dufresne, J. L., Pélissier, L., Rabier, A., & Cochepin, M. (2024). [Quelles expériences et quelles représentations pour construire le lien entre CO2 et réchauffement climatique avec des non spécialistes?](https://journals.openedition.org/rdst/5626). RDST. Recherches en didactique des sciences et des technologies, (30), 43-85. \
  \
 Valentin a également mentionné la BD numérique [Les Grandiloquents](https://www.grandiloquents.fr/fr) et la BD [Horizons Climatiques](https://www.glenat.com/hors-collection-glenat-bd/horizons-climatiques-9782344058589 ) qui utilisent une approche didactique similaire à celle présentée dans la vidéo.
 
-### Ressources complémentaires :
+### Ressources complémentaires
 
 [L'Office for Climate Education (OCE)](https://www.oce.global/fr) propose du contenu éducatif sur le changement climatique. Les expériences des ballons montrées dans la vidéo sont reprises, entres autres, dans [leur dernier manuel sur les modèles climatiques](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques). Et vous pouvez voir de belles animations pour aller plus loin sur les notions de capacité d'absorption et d'émission du rayonnement infrarouge par différents gaz dans la partie 3 de [cette animation](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques).
 

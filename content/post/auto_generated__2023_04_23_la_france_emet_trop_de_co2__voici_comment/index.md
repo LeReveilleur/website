@@ -16,7 +16,7 @@ image: cover.jpg
 
 {{< youtube sDxvadwizw8 >}}
 
-<div style="text-align: justify"> La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
+La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
 année. Pour limiter le réchauffement climatique et ses conséquences, il
 faut réduire ces émissions de gaz à effet de serre. En France, l’objectif
 est de passer de 400 millions de tonnes à… zéro tonne d’ici 2050. C’est
