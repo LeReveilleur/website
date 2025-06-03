@@ -228,6 +228,7 @@ videos:
 
   - youtube_id: "8nzRXxPnlPQ"
     title: "Comment le réchauffement climatique va bouleverser l’humanité"
+    url: "comment-le-rechauffement-climatique-va-bouleverser-l'humanité"
     description: |
       Un degré, deux degrés, quatre degrés… Au cours du siècle à venir, la
       température de la planète va continuer de monter. Plus l’humanité émettra
@@ -261,6 +262,7 @@ videos:
 
   - youtube_id: "GVJRZqI6h2k"
     title: "Qui réchauffe le climat (et comment) ?"
+    url: "qui-réchauffe-le-climat-et-comment"
     description: |
       Les vagues de chaleur et les canicules sont de plus en plus intenses et
       nombreuses. 🥵🌡️ En cause : le réchauffement climatique, lui-même dû à
@@ -282,7 +284,7 @@ videos:
 
   - youtube_id: "sDxvadwizw8"
     title: "La France émet trop de CO2, voici comment"
-    url: "/la-voiture-electrique-est-elle-ecologique"
+    url: "la-france-émet-tropp-de-CO2-voici-comment"
     description: |
       La France émet près de 400 millions de tonnes d'équivalent CO2 chaque
       année. Pour limiter le réchauffement climatique et ses conséquences, il

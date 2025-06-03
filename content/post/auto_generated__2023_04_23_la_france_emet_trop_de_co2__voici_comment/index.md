@@ -8,7 +8,7 @@ video-thumbnail: cover.jpg
 title: La France émet trop de CO2, voici comment
 categories: [Climat, Le Monde]
 image-header: header.jpg
-url: /la-voiture-electrique-est-elle-ecologique
+url: la-france-émet-tropp-de-CO2-voici-comment
 image: cover.jpg
 ---
 
@@ -27,7 +27,7 @@ CO2, le méthane et les autres gaz émis par la France. C’est en
 identifiant la source du problème qu’on pourra trouver des solutions.
 D’autant que tous les secteurs d’activité sont concernés : aussi bien les
 transports, que l’industrie, l’agriculture ou encore de l’énergie. Il
-faut tout repenser pour décarboner le pays. </div>
+faut tout repenser pour décarboner le pays.
 
 
 <hr>

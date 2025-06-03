@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Comment le réchauffement climatique va bouleverser l’humanité
 categories: [Climat, Le Monde]
 image-header: header.jpg
+url: comment-le-rechauffement-climatique-va-bouleverser-l'humanité
 image: cover.jpg
 ---
 

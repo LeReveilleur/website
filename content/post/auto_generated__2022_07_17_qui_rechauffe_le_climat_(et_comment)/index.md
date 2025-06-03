@@ -8,6 +8,7 @@ video-thumbnail: cover.jpg
 title: Qui réchauffe le climat (et comment) ?
 categories: [Climat, Le Monde]
 image-header: header.jpg
+url: qui-réchauffe-le-climat-et-comment
 image: cover.jpg
 ---
 
