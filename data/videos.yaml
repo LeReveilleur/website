@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "ln5iQtd7XZI"
+    title: "Faut-il vraiment culpabiliser en regardant YouTube en 4K ?"
+    url: /climat-et-numérique
+    description: |
+      Cette vidéo traite de l'impact climatique du numérique et, notamment, du streaming. On y développe aussi des impacts indirects du numérique (publicité ciblée, désinformation, dégradation des démocraties).
+    date: "2025-07-08"
+    categories:
+      - "Climat"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "jiIm5FPcGgE"
     title: "CO₂ & Réchauffement Climatique : la meilleure approche pour comprendre"
     url: /CO2-et-réchauffement-climatique-la-meilleure-approche-pour-comprendre

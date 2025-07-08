@@ -35,7 +35,7 @@ Valentin a également mentionné la BD numérique [Les Grandiloquents](https://w
 
 ### Ressources complémentaires
 
-[L'Office for Climate Education (OCE)](https://www.oce.global/fr) propose du contenu éducatif sur le changement climatique. Les expériences des ballons montrées dans la vidéo sont reprises, entres autres, dans [leur dernier manuel sur les modèles climatiques](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques). Et vous pouvez voir de belles animations pour aller plus loin sur les notions de capacité d'absorption et d'émission du rayonnement infrarouge par différents gaz dans la partie 3 de [cette animation](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques).
+[L'Office for Climate Education (OCE)](https://www.oce.global/fr) propose du contenu éducatif sur le changement climatique. Les expériences des ballons montrées dans la vidéo sont reprises, entres autres, dans [leur dernier manuel sur les modèles climatiques](https://www.oce.global/fr/resources/activites-de-classe/le-climat-entre-nos-mains-modeles-climatiques). Et vous pouvez voir de belles animations pour aller plus loin sur les notions de capacité d'absorption et d'émission du rayonnement infrarouge par différents gaz dans la partie 3 de [cette animation](https://www.oce.global/fr/resources/animations-multimedia/effet-de-serre).
 
 
 ### Vidéos YouTube
