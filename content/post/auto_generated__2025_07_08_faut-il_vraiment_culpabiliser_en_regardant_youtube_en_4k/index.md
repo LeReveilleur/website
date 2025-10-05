@@ -34,7 +34,7 @@ Cette vidéo traite de l'impact climatique du numérique et, notamment, du strea
 
 
 
-Il y a eu beaucoup d'errements lors de l'écriture de ce script (en plus Michaël Ruff m'avait fait un gros travail préparatoire). Je n'ai gardé que les sources dont je me suis directement servies ou qui ont influencé ce script. Je vous ai aussi épargné les sources les moins crédibles.
+Il y a eu beaucoup d'errements lors de l'écriture de ce script (en plus Michaël Ruff m'avait fait un gros travail préparatoire). Je n'ai gardé, ici, que les sources dont je me suis directement servies ou qui ont influencé ce script. Je vous ai aussi épargné les sources les moins crédibles.
 
 
 
@@ -61,7 +61,7 @@ Il y a eu beaucoup d'errements lors de l'écriture de ce script (en plus Michaë
 
 
 
-### Pour les différentes quantifications utilisées dans la vidéo
+### Sources utilisées pour les comparaisons présentées
 
 * Le site [Impact CO2](https://impactco2.fr/) de l’ADEME, notamment sur les parties [numérique](https://impactco2.fr/outils/numerique), [alimentation](https://impactco2.fr/outils/alimentation), [bière](https://impactco2.fr/outils/boisson/biere).
 * [Boavizta](https://datavizta.boavizta.org/terminalimpact) permet de regarder l’impact de différents terminaux (vous pouvez passer en français en haut à droite).
@@ -71,7 +71,7 @@ Il y a eu beaucoup d'errements lors de l'écriture de ce script (en plus Michaë
 
 
 
-### Évolutions passées ou futures de la consommation des centres de données
+### Évolutions passées et futures de la consommation des centres de données
 
 * Un des meilleurs liens sur les centres de données US et l’évolution de la consommation : [2024 United States Data Center Energy Usage Report](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf)
 * [World Energy Outlook 2024](https://iea.blob.core.windows.net/assets/60db7f34-da7f-41d7-8232-c0b718463fd0/WorldEnergyOutlook2024.pdf) - AIE
@@ -143,7 +143,7 @@ Il y a eu beaucoup d'errements lors de l'écriture de ce script (en plus Michaë
 
 
 
-### Intelligence artificielle et LLMs (ChatGPT)
+### Intelligence artificielle et LLMs (dont ChatGPT est un exemple)
 
 * J’avais fait quelques calculs sur l’impact d’une requête ChatGPT à partir de ce papier : Vanderbauwhede (2024). [Estimating the Increase in Emissions caused by AI-augmented Search](https://arxiv.org/pdf/2407.16894).
 * Estimations plus élevées sur [ce calculateur](https://huggingface.co/spaces/genai-impact/ecologits-calculator) et encore plus dans [cet article Carbone 4](https://www.carbone4.com/ia-generative-du-changement-climatique)

@@ -1,5 +1,15 @@
 ---
 videos:
+  - youtube_id: "NkWZYDN-Op8"
+    title: "Des machines qui retirent directement le CO2 de l’atmosphère (DACCS)"
+    url: /DACCS
+    description: |
+      La DACCS (capture directe de CO₂ atmosphérique et séquestration) est une technologie qui promet de stocker durablement le carbone dans le sous-sol. Est-ce une voie crédible ou une couteuse distraction ?
+    date: "2025-10-05"
+    categories:
+      - "Climat"
+      - "Cycle du carbone"
+
   - youtube_id: "ln5iQtd7XZI"
     title: "Faut-il vraiment culpabiliser en regardant YouTube en 4K ?"
     url: /climat-et-numérique
