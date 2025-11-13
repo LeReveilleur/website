@@ -5,7 +5,7 @@ readingTime: false
 hideLastModified: true
 menu:
     main: 
-        weight: 10
+        weight: 12
         params:
             icon: contact
 ---

@@ -6,7 +6,7 @@ hideLastModified: true
 readingTime: false
 menu:
     main: 
-        weight: 9
+        weight: 11
         params:
             icon: user
 ---
