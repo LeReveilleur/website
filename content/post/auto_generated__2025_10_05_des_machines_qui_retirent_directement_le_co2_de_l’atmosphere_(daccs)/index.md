@@ -29,12 +29,12 @@ La DACCS (capture directe de CO₂ atmosphérique et séquestration) est une tec
 - Deutz, S., & Bardow, A. (2021). [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://www.nature.com/articles/s41560-020-00771-9). *Nature Energy*, 6(2), 203–213.
 - [Scaling Direct Air Capture (DAC): A moonshot or the sky’s the limit?](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2023/12/CM07-Scaling-Direct-Air-Capture-DAC-technology.pdf)
 
-### Mes précédentes vidéos sur des sujets connexes : 
+### Mes précédentes vidéos sur des sujets connexes 
 - [Retirer le CO2 de l’atmosphère pour sauver le climat ?](https://www.youtube.com/watch?v=Hcbypkcjf5s)  
 - [La Capture et Séquestration de Carbone pour réduire nos émissions de CO2.](https://www.youtube.com/watch?v=AQlqQEhVi1M)  
 - [Très peu de CO2 dans l'atmosphère ?](https://www.youtube.com/watch?v=OepNDLs4Rlw) 
 
-### Autres vidéos sur ce sujet : 
+### Des vidéos d'autres sur ce sujet 
 - [Peut-on aspirer le CO2 pour sauver le climat ?](https://www.youtube.com/watch?v=C2x7vQtErbo) — *Le Monde*  
 - [How does direct air capture remove CO₂?](https://www.youtube.com/watch?v=1rAR7PSLUHY) — *Climeworks*
 

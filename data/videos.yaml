@@ -1,5 +1,15 @@
 ---
 videos:
+  - youtube_id: "cfqrxAUJ5bI"
+    title: "Pompe à chaleur : se chauffer sans détruire le climat !"
+    url: /PAC
+    description: |
+      Les pompes à chaleur sont des technologies de chauffage omniprésentes dans les scénarios de transition. Cette vidéo permet de comprendre pourquoi.
+    date: "2025-11-27"
+    categories:
+      - "Énergie"
+      - "Chauffage"
+
   - youtube_id: "NkWZYDN-Op8"
     title: "Des machines qui retirent directement le CO2 de l’atmosphère (DACCS)"
     url: /DACCS
