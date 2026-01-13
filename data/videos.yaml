@@ -1,5 +1,16 @@
 ---
 videos:
+  - youtube_id: "5AjT1mC8_m8"
+    title: "Garder sa vieille voiture thermique, plus écolo… vraiment ?"
+    url: /Remplacer-sa-voiture-thermique-par-une-électrique
+    description: |
+      Pour le climat, vaut-il mieux faire durer le plus longtemps possible une voiture thermique ou la remplacer par une voiture électrique neuve ? C'est à cette question, choisie par la communauté, qu'on répond ici.
+    date: "2026-01-12"
+    categories:
+      - "Transport"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "cfqrxAUJ5bI"
     title: "Pompe à chaleur : se chauffer sans détruire le climat !"
     url: /PAC
