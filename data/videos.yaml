@@ -1,5 +1,14 @@
 ---
 videos:
+  - youtube_id: "q9gYH1WiifQ"
+    title: "Climat : l’immense défi du fret maritime"
+    url: /Maritime-et-climat
+    description: |
+      Le maritime est un maillon indispensable de l'économie mondialisée. Mais quel est son impact écologique ? Et comment réduire son impact climatique ?
+    date: "2026-03-09"
+    categories:
+      - "Transport"
+
   - youtube_id: "5AjT1mC8_m8"
     title: "Garder sa vieille voiture thermique, plus écolo… vraiment ?"
     url: /Remplacer-sa-voiture-thermique-par-une-électrique
