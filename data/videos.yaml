@@ -1,5 +1,15 @@
 ---
 videos:
+  - youtube_id: "hY6G9UXtBYE"
+    title: "Bois : son véritable impact climatique"
+    url: /Impact-climatique-du-bois
+    description: |
+      Le bois est la première énergie renouvelable en France. Mais quel est l'impact climatique de cette énergie ?
+    date: "2026-05-19"
+    categories:
+      - "Énergie"
+      - "Chauffage"
+
   - youtube_id: "q9gYH1WiifQ"
     title: "Climat : l’immense défi du fret maritime"
     url: /Maritime-et-climat
