@@ -15,7 +15,7 @@ image: cover.jpg
 
 {{< youtube hY6G9UXtBYE >}}
 
-Le bois est la première énergie renouvelable en France. Mais quel est l'impact climatique de cette énergie ?
+Le bois est la première énergie renouvelable en France. Mais quel est son impact climatique ?
 
 
 <hr>

@@ -1,10 +1,20 @@
 ---
 videos:
+  - youtube_id: "ynqv0JSl0dI"
+    title: "Le chauffage au bois est-il écologique ?"
+    url: /Le-chauffage-au-bois-est-il-écologique
+    description: |
+      Ressource contrainte, impact climatique, pollution de l'air, impacts sur la biodiversité... le chauffage au bois est-il écologique ?
+    date: "2026-07-07"
+    categories:
+      - "Énergie"
+      - "Chauffage"
+
   - youtube_id: "hY6G9UXtBYE"
     title: "Bois : son véritable impact climatique"
     url: /Impact-climatique-du-bois
     description: |
-      Le bois est la première énergie renouvelable en France. Mais quel est l'impact climatique de cette énergie ?
+      Le bois est la première énergie renouvelable en France. Mais quel est son impact climatique ?
     date: "2026-05-19"
     categories:
       - "Énergie"
