@@ -15,7 +15,7 @@ image: cover.jpg
 
 {{< youtube ynqv0JSl0dI >}}
 
-Ressource contrainte, impact climatique, pollution de l'air, impacts sur la biodiversité... le chauffage au bois est-il écologique ?
+On analyse le caractère écologique du chauffage à travers différents aspects : effets sur la biodiversité, contrainte sur la ressource, impact climatique et pollution de l'air.
 
 
 <hr>
@@ -42,7 +42,7 @@ Cette vidéo fait suite à une précédente qui était centrée sur [l'impact cl
 * Une série de vidéos par Partager c'est sympa : [Forêt : série d'enquêtes](https://www.youtube.com/playlist?list=PL2U07Dgr_jGUrLMMfpzdL1g1-oPHFU1CA). Ça n'est pas parfait (quelques erreurs sur le cycle du carbone par exemple) mais les vidéos ont l’immense mérite de montrer la réalité du terrain et divers types d’exploitation.
 * Une analyse récente et assez complète sur le sujet (avec quelques problèmes notamment le passage sur la neutralité carbone) : [Se chauffer au bois est-il écolo ?](https://bonpote.com/se-chauffer-au-bois-est-il-ecolo/) - Bon Pote
 
-### De nombreuses ressources de l'ADEME
+### De nombreuses ressources de l'ADEME m'ont été utile
 
 * [Prospective - Transitions 2050 - Rapport](https://librairie.ademe.fr/societe-et-politiques-publiques/5072-prospective-transitions-2050-rapport-9791029718878.html) - ADEME (2022)
 * [Se chauffer au bois : les bons gestes pour moins consommer et moins polluer](https://agirpourlatransition.ademe.fr/particuliers/amenager-maison/chauffer/chauffage-bois-moins-consommer-moins-polluer) - ADEME
@@ -152,7 +152,7 @@ de la Terre France, Canopée et Fern
 * 1 680 kWh PCI par stère : [Arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments ou parties de bâtiment autres que d'habitation existants proposés à la vente en France métropolitaine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043357653)
 * 17,5 millions d’hectares de forêts pour 30,9 millions de ménage : [La forêt française en chiffres](https://agriculture.gouv.fr/la-foret-francaise-en-chiffres) - Ministère de l'agriculture
 * Émissions polluantes des différents appareils de chauffage au bois : [Ominea](https://www.citepa.org/donnees-air-climat/methodologie-de-linventaire-ominea/) ==> base de données ==> 1A4. Autres secteurs
-* Émissions polluantes de la voiture diesel : [EMEP/EEA air pollutant emission inventory guidebook 2023](https://www.eea.europa.eu/en/analysis/publications/emep-eea-guidebook-2023) => 1.A.3.b.vi-vii Road tyre and brake wear 2025 [684.9 KB],Table 3-1 et Table 3-2 pour passenger cars + 1.A.3.b.vi-vii Road tyre and brake wear 2025 [684.9 KB],Table 3-1 et Table 3-2 pour passenger cars
+* Émissions polluantes de la voiture diesel : [EMEP/EEA air pollutant emission inventory guidebook 2023](https://www.eea.europa.eu/en/analysis/publications/emep-eea-guidebook-2023) => 1.A.3.b.vi-vii Road tyre and brake wear 2025 [684.9 KB], Table 3-1 et Table 3-2 pour passenger cars + 1.A.3.b.vi-vii Road tyre and brake wear 2025 [684.9 KB], Table 3-1 et Table 3-2 pour passenger cars
 
 
 ### Autres

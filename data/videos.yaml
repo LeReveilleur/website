@@ -1,10 +1,22 @@
 ---
 videos:
+  - youtube_id: "K4ZSsogC5I4"
+    title: "La taxe carbone peut-elle être socialement juste ?"
+    url: /prix-du-carbone-pour-LM
+    description: |
+      Cinquième vidéo écrite pour Le Monde. Considéré par de nombreux experts comme l’instrument qui a le meilleur rapport coût-efficacité pour lutter contre le changement climatique, le prix du carbone ne fait toujours pas l’objet d’un large consensus politique. Dans cette vidéo, nous tentons de comprendre les raisons de ce désamour et les solutions potentielles. 
+    date: "2026-07-19"
+    categories:
+      - "Climat"
+      - "Le Monde"
+    tags:
+      - "Collaboration"
+
   - youtube_id: "ynqv0JSl0dI"
     title: "Le chauffage au bois est-il écologique ?"
     url: /Le-chauffage-au-bois-est-il-écologique
     description: |
-      Ressource contrainte, impact climatique, pollution de l'air, impacts sur la biodiversité... le chauffage au bois est-il écologique ?
+      On analyse le caractère écologique du chauffage à travers différents aspects : effets sur la biodiversité, contrainte sur la ressource, impact climatique et pollution de l'air.
     date: "2026-07-07"
     categories:
       - "Énergie"
