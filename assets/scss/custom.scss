@@ -1,10 +1,11 @@
-/* Donors page: lay the long name lists out in as many columns as fit.
-   column-width lets the browser pick the column count, so narrow screens
-   fall back to a single column without media queries. */
+/* Donors page: lay the long name lists out in up to three columns.
+   column-count caps the number of columns and column-width lets the
+   browser drop to fewer on narrow screens, without media queries. */
 .donors-list {
     ul {
         list-style: none;
         padding-left: 0;
+        column-count: 3;
         column-width: 12rem;
         column-gap: 2rem;
     }
