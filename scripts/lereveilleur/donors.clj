@@ -2,6 +2,7 @@
   (:require [clojure.string :as str]))
 
 (def donors-filename "scripts/data/donors.txt")
+(def donors-intro-filename "scripts/data/donors_intro.md")
 (def donors-content-index-page "content/page/donors/index.md")
 (def frontmatter-delimiter "---")
 
@@ -102,10 +103,11 @@
                 sort
                 (into []))
     frontmatter (donors-frontmatter donors)
+    intro (str/trim (slurp donors-intro-filename))
     markdown-content (donors-markdown-content donors)
     content
     (str
      frontmatter
-     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
+     intro "\n"
      markdown-content)]
     (spit donors-content-index-page content)))
