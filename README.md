@@ -45,7 +45,7 @@ To get a list of all available tasks, run `bb tasks`.
 ### How to generate the donors page?
 
 Save the list of all donors as a newline separated file and copy it under
-`/scripts/donors.txt`.
+`scripts/data/donors.txt`.
 Then run the following task:
 
 ```sh

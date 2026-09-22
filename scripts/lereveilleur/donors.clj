@@ -37,6 +37,11 @@
        (str "date: \"" (current-date) "\"\n")
        "hideLastModified: true\n"
        "slug: \"remerciements\"\n"
+       "menu:\n"
+       "  main:\n"
+       "    weight: 13\n"
+       "    params:\n"
+       "      icon: heart\n"
        frontmatter-delimiter
        "\n"))
 
