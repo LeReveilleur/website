@@ -2,6 +2,7 @@
   (:require [clojure.string :as str]))
 
 (def donors-filename "scripts/data/donors.txt")
+(def donors-intro-filename "scripts/data/donors_intro.md")
 (def donors-content-index-page "content/page/donors/index.md")
 (def frontmatter-delimiter "---")
 
@@ -22,11 +23,16 @@
   (let [title (if (= bucket-range :unmatched)
                 (str "## Autres")
                 (let [[s e] bucket-range]
-                  (str "## " (str/upper-case s) " à " (str/upper-case e))))
+                  ;; Explicit ASCII anchor: the default one would contain "à".
+                  (str "## " (str/upper-case s) " à " (str/upper-case e)
+                       " {#" s "-to-" e "}")))
         section-content (->> donors
                              (mapv (fn [donor] (str "- " donor "\n")))
                              (reduce str ""))]
-    (str title "\n" section-content "\n")))
+    (str title "\n"
+         "<div class=\"donors-list\">\n\n"
+         section-content
+         "\n</div>\n\n")))
 
 (defn donors-frontmatter
   [donors]
@@ -37,6 +43,11 @@
        (str "date: \"" (current-date) "\"\n")
        "hideLastModified: true\n"
        "slug: \"remerciements\"\n"
+       "menu:\n"
+       "  main:\n"
+       "    weight: 13\n"
+       "    params:\n"
+       "      icon: heart\n"
        frontmatter-delimiter
        "\n"))
 
@@ -92,10 +103,11 @@
                 sort
                 (into []))
     frontmatter (donors-frontmatter donors)
+    intro (str/trim (slurp donors-intro-filename))
     markdown-content (donors-markdown-content donors)
     content
     (str
      frontmatter
-     "Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :\n"
+     intro "\n"
      markdown-content)]
     (spit donors-content-index-page content)))
