@@ -11,7 +11,7 @@ menu:
       icon: heart
 ---
 Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :
-## A à D
+## A à D {#a-to-d}
 <div class="donors-list">
 
 - A
@@ -919,7 +919,7 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 
 </div>
 
-## E à H
+## E à H {#e-to-h}
 <div class="donors-list">
 
 - E1K
@@ -1522,7 +1522,7 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 
 </div>
 
-## I à L
+## I à L {#i-to-l}
 <div class="donors-list">
 
 - IPoilz
@@ -2116,7 +2116,7 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 
 </div>
 
-## M à P
+## M à P {#m-to-p}
 <div class="donors-list">
 
 - M P.
@@ -2830,7 +2830,7 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 
 </div>
 
-## Q à T
+## Q à T {#q-to-t}
 <div class="donors-list">
 
 - Qaj
@@ -3479,7 +3479,7 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 
 </div>
 
-## U à Z
+## U à Z {#u-to-z}
 <div class="donors-list">
 
 - UbabaGiva

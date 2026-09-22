@@ -22,7 +22,9 @@
   (let [title (if (= bucket-range :unmatched)
                 (str "## Autres")
                 (let [[s e] bucket-range]
-                  (str "## " (str/upper-case s) " à " (str/upper-case e))))
+                  ;; Explicit ASCII anchor: the default one would contain "à".
+                  (str "## " (str/upper-case s) " à " (str/upper-case e)
+                       " {#" s "-to-" e "}")))
         section-content (->> donors
                              (mapv (fn [donor] (str "- " donor "\n")))
                              (reduce str ""))]
