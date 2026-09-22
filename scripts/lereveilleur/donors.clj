@@ -26,7 +26,10 @@
         section-content (->> donors
                              (mapv (fn [donor] (str "- " donor "\n")))
                              (reduce str ""))]
-    (str title "\n" section-content "\n")))
+    (str title "\n"
+         "<div class=\"donors-list\">\n\n"
+         section-content
+         "\n</div>\n\n")))
 
 (defn donors-frontmatter
   [donors]

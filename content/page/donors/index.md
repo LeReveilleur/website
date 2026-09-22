@@ -12,6 +12,8 @@ menu:
 ---
 Ce contenu existe et est accessible gratuitement grâce au soutien financier d'une partie de la communauté. Je remercie l'ensemble des donateurs listés ci-dessous :
 ## A à D
+<div class="donors-list">
+
 - A
 - A
 - A.b-s
@@ -915,7 +917,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - drenghel
 - duc-dung-tran
 
+</div>
+
 ## E à H
+<div class="donors-list">
+
 - E1K
 - EFFF PPP
 - Earth_Embassy
@@ -1514,7 +1520,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - hugofolliot78
 - hyacinthe-menard
 
+</div>
+
 ## I à L
+<div class="donors-list">
+
 - IPoilz
 - I_am_so_nice
 - Ian
@@ -2104,7 +2114,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - lunjei
 - lyet-isabelle
 
+</div>
+
 ## M à P
+<div class="donors-list">
+
 - M P.
 - MAURICE C.
 - MB
@@ -2814,7 +2828,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - ptitseb49
 - pubadressdedede-kkbb
 
+</div>
+
 ## Q à T
+<div class="donors-list">
+
 - Qaj
 - Qh
 - Quable PIM
@@ -3459,7 +3477,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - tuxtoby
 - tvexiau
 
+</div>
+
 ## U à Z
+<div class="donors-list">
+
 - UbabaGiva
 - Ugo
 - Ulysse
@@ -3737,7 +3759,11 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - zimmer
 - zouissam
 
+</div>
+
 ## Autres
+<div class="donors-list">
+
 - !qæbi
 - -
 - ...que~coup... Lls8i
@@ -3764,4 +3790,6 @@ Ce contenu existe et est accessible gratuitement grâce au soutien financier d'u
 - Élisabeth
 - Éric GUILLEMETTE
 - Éric-Gillet
+
+</div>
 

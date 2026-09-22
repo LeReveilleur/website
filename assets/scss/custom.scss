@@ -1,0 +1,21 @@
+/* Donors page: lay the long name lists out in as many columns as fit.
+   column-width lets the browser pick the column count, so narrow screens
+   fall back to a single column without media queries. */
+.donors-list {
+    ul {
+        list-style: none;
+        padding-left: 0;
+        column-width: 12rem;
+        column-gap: 2rem;
+    }
+
+    li {
+        break-inside: avoid;
+        /* Long nicknames without spaces must wrap inside their column
+           instead of spilling over the next one. The hanging indent
+           marks continuation lines as part of the name above. */
+        overflow-wrap: anywhere;
+        padding-left: 1em;
+        text-indent: -1em;
+    }
+}
