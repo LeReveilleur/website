@@ -1,5 +1,15 @@
 ---
 videos:
+  - youtube_id: "nERo6YzNoSM"
+    title: "Climatisation : un désastre écologique ?"
+    url: /climatisation
+    description: |
+      La climatisation est un levier d'adaptation au changement climatique. Mais, elle est souvent décrié à cause de son impact climatique. Cette analyse fouillée sépare le vrai du faux sur ce sujet controversé
+    date: "2026-10-14"
+    categories:
+      - "Énergie"
+      - "Chauffage"
+
   - youtube_id: "K4ZSsogC5I4"
     title: "La taxe carbone peut-elle être socialement juste ?"
     url: /prix-du-carbone-pour-LM
