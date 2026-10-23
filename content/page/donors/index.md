@@ -1,7 +1,7 @@
 ---
 title: "Remerciements"
 description: ""
-date: "2026-10-01"
+date: "2026-10-23"
 hideLastModified: true
 slug: "remerciements"
 menu:
@@ -3178,7 +3178,6 @@ Merci à toutes les personnes ci-dessous pour leur don :
 - redorff
 - reg
 - regina
-- regis-bernasconi
 - remi-blanc
 - remi-fr
 - remi-grumeau
