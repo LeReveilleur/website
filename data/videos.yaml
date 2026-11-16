@@ -1,10 +1,20 @@
 ---
 videos:
+  - youtube_id: "640j5Lvgz4Q"
+    title: "On n'a pas assez de cuivre pour la transition... vraiment ?"
+    url: /cuivre
+    description: |
+      Un manque de cuivre peut-il venir contraindre la transition énergétique ?
+    date: "2026-11-16"
+    categories:
+      - "Ressources"
+      - "Métal"
+
   - youtube_id: "nERo6YzNoSM"
     title: "Climatisation : un désastre écologique ?"
     url: /climatisation
     description: |
-      La climatisation est un levier d'adaptation au changement climatique. Mais, elle est souvent décrié à cause de son impact climatique. Cette analyse fouillée sépare le vrai du faux sur ce sujet controversé
+      La climatisation est un levier d'adaptation au changement climatique. Mais, elle est souvent décrié à cause de son impact climatique. Cette analyse fouillée sépare le vrai du faux sur ce sujet controversé.
     date: "2026-10-14"
     categories:
       - "Énergie"

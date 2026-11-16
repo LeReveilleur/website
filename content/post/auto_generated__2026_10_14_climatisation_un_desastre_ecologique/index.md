@@ -15,7 +15,7 @@ image: cover.jpg
 
 {{< youtube nERo6YzNoSM >}}
 
-La climatisation est un levier d'adaptation au changement climatique. Mais, elle est souvent décrié à cause de son impact climatique. Cette analyse fouillée sépare le vrai du faux sur ce sujet controversé
+La climatisation est un levier d'adaptation au changement climatique. Mais, elle est souvent décrié à cause de son impact climatique. Cette analyse fouillée sépare le vrai du faux sur ce sujet controversé.
 
 
 <hr>
@@ -24,7 +24,7 @@ La climatisation est un levier d'adaptation au changement climatique. Mais, elle
 
 ### Sources principales
 
-* [Bilan climatique de l’été 2026 (juin-juillet-août)] - Météo-France(https://meteofrance.com/presse/bilan-climatique-de-lete-2026-juin-juillet-aout)
+* [Bilan climatique de l’été 2026 (juin-juillet-août)](https://meteofrance.com/presse/bilan-climatique-de-lete-2026-juin-juillet-aout) - Météo-France
 * [RESILIANCE : Adaptation des bâtiments au changement climatique](https://librairie.ademe.fr/changement-climatique/6409-resiliance.html) - ADEME (2023)
 * [Eight facts about air conditioning amid an overheated global debate](https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate/) - Carbon Brief
 * Pas mal de statistiques ici : [Les Français plébiscitent la climatisation](https://www.hellowatt.fr/pompe-a-chaleur/climatisation/etude-climatisation) - Hello Watt
